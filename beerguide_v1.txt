@@ -1,0 +1,6794 @@
+The A-Z of Beer Styles
+Use this alphabetical list of triggers as a guide to help you when describing possible
+characteristics of a specific beer style.
+
+Alcohol
+
+Ranges: not detectable, mild, noticeable, harsh
+ A synonym for ethyl alcohol or ethanol, the colorless primary alcohol component of beer.
+Alcohol ranges for beer vary from less than 3.2% to greater than 14% ABV.  Sensed in aroma,
+flavor and palate of beer
+ Fusel alcohol can also exist in beer
+
+Brewing and Conditioning Process
+
+Brewers use a wide variety of techniques to modify the brewing process. Some of the
+variables they play with might include variable mashing, steeping, unique fermentation
+temperatures, multiple yeast additions, barrel aging and blending, dry hopping and bottle
+conditioned.
+
+Carbonation (CO2): Visual
+
+ Ranges: none, slow, medium, fast rising bubbles
+Carbonation is a main ingredient in beer. It lends body or weight on the tongue and
+stimulates the trigeminal nerves, which sense temperature, texture and pain in the face.
+Carbonation can be detected as an aroma (carbonic acid). It also affects appearance and is
+what creates the collar of foam common to most beer styles.
+ Carbonation can be naturally occurring (produced by yeast during fermentation) or added
+to beer under pressure. Nitrogen can also be added to beer, providing smaller bubbles and a
+softer mouthfeel compared to CO2.
+
+ Clarity: The degree to which solids in suspension are absent in beer; different from color and brightness.
+
+Ranges: brilliant, clear, slight haze, hazy, opaque
+ Solids can include unfermented sugars, proteins, yeast sediments and more.
+The degree to which solids are present in solution is referred to as turbidity.
+
+ Collar of Foam
+
+Head Retention/Texture
+
+Retention Ranges: none, poor (up to 15 seconds), moderate (15 to 60 seconds), good
+(more than 60 seconds)
+Texture Ranges: thin, interrupted, foamy, fluffy, rocky, mousse-like
+
+Color (SRM):  See SRM under Quantitative above.
+Country of Origin
+
+The country from which a style originates
+
+Food Pairing: Cheese, Entree, Dessert
+
+Glass
+
+Hops
+
+ Flavor and aroma ranges: citrus, tropical, fruity, floral, herbal, onion-garlic, sweaty, spicy,
+woody, green, pine, spruce, resinous
+ Bitterness ranges: restrained, moderate, aggressive, harsh
+
+Hops deliver resins and essential oils that influence beer’s aroma, flavor, bitterness, head
+retention, astringency, and perceived sweetness. They also increase beer’s stability and shelf
+life.
+Brewers today use well over 100 different varieties of hops worldwide. Hops grown in the
+U.S. contribute an estimated 30 percent to the global supply.
+
+Malt
+
+Flavor and aroma ranges:  bread flour, grainy, biscuit, bready, toast, caramel, prune-like,
+roast, chocolate, coffee, smoky, acrid
+ Malt has been called the soul of beer. It is the main fermentable ingredient, providing the
+sugars that yeast use to create alcohol and carbonation.
+Malt is converted barley or other grains that have been steeped, germinated, heated, kilned
+(or roasted in a drum), cooled, dried and then rested.
+ A wide variety of barley and other malts are used to make beer, including pale malt (pilsner
+and pale two-row), higher temperature kilned malt (Munich and Vienna), roasted/specialty
+malt (chocolate and black) and unmalted barley. Wheat malt is commonly used as well.
+Malt provides fermentable and non-fermentable sugars and proteins that influence beer’s
+aroma, alcohol, body, color, flavor and head retention.
+
+Other Ingredients
+
+ Adjuncts are ingredients that have typically not been malted, but are a source of fermentable
+sugars.
+Common adjuncts include: candy sugar, honey, molasses, refined sugar, treacle, maple
+syrup
+ Unmalted starchy adjuncts: oats, rye, wheat, corn/maize, rice
+
+Note: Many of these grains can be malted to create unique flavors compared to their
+unmalted counterparts.
+
+Other: fruit, herbs, roasted (unmalted) barley or wheat, spices, wood
+
+ Oxidative/Aged Qualities
+
+Can come from hops, malt or yeast. Only listed where appropriate for the specific style.
+Aroma/Flavor: almond, blackcurrant, E-2-nonenal (papery/cardboard), honey, metallic,
+sherry, sweat socks, others
+ Color: Beer darkens over time due to oxygen ingress.
+
+Palate
+
+ Palate refers to the non-taste sensations felt on the mouth and tongue when tasting a beer.
+The palate of a beer can be sensed as:
+Astringency
+
+Ranges: low, medium(-), medium, medium(+), high
+
+ Body
+
+Ranges: drying, soft, mouth-coating, sticky
+
+Palate Carbonation
+
+Ranges: low, medium, high
+
+Length/Finish
+
+Ranges: short (less than 15 seconds), medium (up to 60 seconds), long (more than 60
+seconds)
+
+Temperature
+
+Storage of draught beer should remain at 38° F to retain the level of carbonation created
+during fermentation.
+The service temperature of beer has an impact on the sensory aspect of a beer.
+In general, a beer will exhibit an increase in perceived aromas and flavors if served warmer
+than a beer that is served at a cooler temperature.
+A general rule of thumb calls for ales to be served at a warmer temperature (45-55° F) than
+their lager counterparts (40-45° F).
+
+ Water
+
+Common taste descriptors: chalk, flint, sulfur and more
+ Beer is mostly water, which makes water quite an important ingredient. Some brewers make
+their beer without altering the chemistry of their water sources. Many do modify the water
+to make it most suitable to deliver the beer characteristics they hope to highlight. It provides
+minerals and ions that add various qualities to beer.
+ Common minerals: carbonate, calcium, magnesium, sulfate
+
+Yeast, Microorganisms and Fermentation Byproducts
+
+Yeast eats sugars from malted barley and other fermentables, producing carbonation,
+alcohol and aromatic compounds. The flavor of yeast differs based on yeast strain,
+temperature, time exposed to the beer, oxygen and other variables.
+Types of Yeast:
+
+ Ale: Saccharomyces Cerevisiae (ester driven). Commonly referred to as top fermenting
+yeast, it most often ferments at warmer temperatures (60-70F).
+Lager: Saccharomyces Pastorianus (often lends sulfuric compounds). Commonly
+referred to as bottom fermenting yeast, it most often ferments at cooler temperatures
+(45-55F).
+ Weizen Yeast: Common to some German-style wheat beers and is considered an ale
+yeast.
+Brettanomyces:  wild yeast with flavors like barnyard, tropical fruit, and more.
+
+ Microorganisms: (bacteria)  Acetobacter (produces acetic acid),
+Lactobacillus/Pediococcus (produce lactic acid), others
+
+Byproducts of Fermentation
+
+For a robust spreadsheet on many byproducts or agents in beer see Flavor Components in Beer
+(PDF)
+Common byproducts of yeast fermentation:
+
+ Esters:
+
+Aromas (volatiles): apple, apricot, banana, blackcurrant, cherry, fig, grapefruit,
+kiwi, peach, pear, pineapple, plum, raisin, raspberry, strawberry, others
+Common esters include:
+
+ Isoamyl acetate (common from weizen ale yeast): banana, pear
+ Ethyl acetate: nail polish remover, solvent
+Ethyl hexanoate: red apple, fennel
+
+Phenols
+
+Common phenols include:
+
+ 4-vinyl guaiacol: clove, cinnamon, vanilla
+Chlorophenols: antiseptic, mouthwash
+Syringol: smoky, campfire
+Tannins/Polyphenols: velvet, astringent, sandpaper
+
+Other fermentation byproducts
+
+Common byproducts include (when acceptable to style):
+
+4-ethyl-phenol: barnyard, mice
+4-ethyl-guaiacol: smoked meat, clove
+3-methyl-2-butene-1-thiol: lightstruck
+2,3-butanedione (Diacetyl)
+Acetaldehyde
+Dimethyl sulphide (DMS)
+Hydrogen sulphide
+
+What is Craft Beer? What is a Craft Brewer?
+Today is the best time in U.S. history to be a beer lover. The average American lives within 10 miles of a
+brewery, and the U.S. has more beer styles and brands to choose from than any other beer market in the world.
+
+The definition of “craft beer” is difficult, as it means many different things to many different beer lovers. Thus,
+craft beer is not defined by CraftBeer.com. However, our parent organization, the Brewers Association, does
+define what it means to be an American craft brewer: A U.S. craft brewer is a smaller producer (making less
+than six million barrels of beer a year) and is independently owned. This definition allows the Brewers
+Association to provide statistics on the growing craft brewery community, which accounts for 99 percent of
+America’s 4,600+ breweries.
+
+Visit BrewersAssociation.org for the complete craft brewer definition and details on the craft beer industry
+market segments: brewpubs, microbreweries and regional craft breweries.
+
+Why Craft Beer?
+Craft beer is enjoyed during everyday celebrations and is viewed by many as one of life’s special pleasures. Each
+glass displays the creativity and passion of its maker and the complexity of its ingredients. Craft beer is
+treasured by millions who see it as not merely a fermented beverage, but something to be shared, revered and
+enjoyed in moderation (see Savor the Flavor).
+
+In the food arts world, craft beer is a versatile beverage that not only enhances food when expertly paired with a
+dish, but is also often brought into the kitchen as a cooking ingredient. Because of this, you will see suggested
+food pairings for each style in this guide. If you would like to geek out even further on beer and food pairing,
+check out CraftBeer.com’s Beer & Food Course (a free download).
+
+Table of Contents
+Pale Ale
+
+American Amber Ale
+American Pale Ale
+English-Style Bitter
+Blonde Ale
+English-Style Pale Ale (ESB)
+Dark Lager
+
+American Amber Lager
+German-Style Dunkel
+German-Style Marzen / Oktoberfest
+German-Style Schwarzbier
+Vienna-Style Lager
+rown Ale
+
+American Brown Ale
+English-Style Brown Ale
+English-Style Mild
+India Pale Ale
+
+American IPA
+English-Style IPA
+Imperial India Pale Ale
+Wheat eer
+
+American-Style Wheat Wine Ale
+American Wheat
+Belgian-Style Witbier
+Berliner-Style Weisse
+German-Style Dunkelweizen
+German-Style Hefeweizen
+
+trong Ale
+
+American Barley Wine
+American Imperial Red Ale
+British-Style Barley Wine Ale
+English-Style Old Ale
+elgian tle
+
+Belgian-Style Blonde Ale
+Belgian-Style Dubbel
+Belgian-Style Golden Strong Ale
+Belgian-Style Pale Ale
+Belgian-Style Quadrupel
+Belgian-Style Saison
+Belgian-Style Tripel
+Hrid eer
+
+American Cream Ale
+French-Style Biere de Garde
+California Common
+German-Style Brown/Altbier
+German-Style Kolsch
+Irish-Style Red
+Porter
+
+American Imperial Porter
+Baltic-Style Porter
+English-Style Brown Porter
+Robust Porter
+Smoke Porter
+tout
+
+American Imperial Stout
+American Stout
+English-Style Oatmeal Stout
+English-Style Sweet Stout (Milk Stout)
+Irish-Style Dry Stout
+ock
+
+German-Style Bock
+German-Style Doppelbock
+German-Style Maibock
+German-Style Weizenbock
+
+cottih-tle Ale
+
+Scotch Ale/Wee Heavy
+Scottish-Style Ale
+Wild/our eer
+
+American Brett
+American Sour
+Belgian-Style Flanders
+Belgian-Style Fruit Lambic
+Belgian-Style Lambic/Gueuze
+Contemporary Gose
+Pilener and Pale Lager
+
+American Lager
+Bohemian-Style Pilsener
+European-Style Export
+German-Style Helles
+German-Style Pilsener
+pecialt eer
+
+American Black Ale
+Barrel-Aged Beer
+Chocolate Beer
+Coffee Beer
+Fruit and Field Beer
+Gluten Free
+Herb and Spice Beer
+Honey Beer
+Pumpkin Beer
+Rye Beer
+Session Beer
+Smoke Beer
+Specialty Beer
+
+American Amber Ale
+
+tle Famil: Pale Ale
+
+American Amber Ale
+
+American-style amber ales have medium-high to high maltiness with medium to low caramel character. They are characterized by
+American-variety hops, which produce medium hop bitterness, flavor and aroma. American ambers are usually darker in color,
+have more caramel flavor and less hop aromatics, and may have more body. This style was first made popular by brewers from
+California and the Pacific Northwest.
+
+Quantitative tle tatitic
+
+OG 1.048 - 1.058
+FG 1.012 - 1.018
+ABV 4.4% - 6.1%
+IBU 25 - 45
+
+BU:GU 0.62 - 0.78
+
+SRM 11 - 18
+CO2 Volumes 2 - 2.5
+Apparent Attenuation 69 - 75
+
+U.. Commercial xample
+
+Sabre­Toothed Squirrel Smog City Brewing Co.
+Red Seal North Coast Brewing Co.
+
+Boont Amber Anderson Valley Brewing Co.
+
+tle A-Z
+
+Alcohol
+
+Mild to Noticeable
+
+Color Copper to Reddish Brown
+Clarity Clear to Slight Haze
+
+Country of Origin United States
+
+Collar of Foam (Head Retention) Good
+Collar of Foam (Texture) Foamy
+
+Carbonation (Visual) Medium to Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Medium Cheddar
+Entrée Barbecue
+Dessert Banana Pound Cake
+
+Glass Tulip
+
+Hop Aroma/Flavor Citrus-like character is acceptable
+Malt Aroma/Flavor Caramel
+
+Hop Ingredients Horizon, Cascade, Centennial
+Malt Ingredients English Pale Ale or American Two-Row, Crystal, Victory
+
+Palate Body Mouth-Coating
+Palate Carbonation Medium to High
+Palate Length/Finish Short to Medium
+
+Temperature 45-55°F
+
+Water Varies
+Yeat
+Type Ale
+
+Phenols Not common to style
+
+Esters There may below levels of fruity-ester flavor
+
+source: CraftBeer.com
+
+American Pale Ale
+
+tle Famil: Pale Ale
+
+American Pale Ale
+
+An American interpretation of a classic English style. Characterized by floral, fruity, citrus-like, piney, resinous, or sulfur-like
+American-variety hop character, producing medium to medium-high hop bitterness, flavor and aroma. American-style pale ales
+have medium body and low to medium maltiness that may include low caramel malt character.
+
+Quantitative tle tatitic
+
+OG 1.044 - 1.050
+FG 1.008 - 1.014
+ABV 4.4% - 5.4%
+IBU 30 - 50
+
+BU:GU 0.68 - 1.00
+
+SRM 6 - 14
+CO2 Volumes 2 - 2.5
+Apparent Attenuation 72 - 82
+
+U.. Commercial xample
+
+Stick's Pale Ale Bootstrap Brewing Co.
+Monterey Street Central Coast Brewing Co.
+
+Mirror Pond Deschutes Brewery
+
+tle A-Z
+
+Brewing/Conditioning Process Dry-hopping or late hop additions to the kettle are common
+
+Alcohol
+
+Not Detectable to Mild
+
+Color Deep Golden to Copper or Light Brown
+Clarity Clear to Slight Haze
+
+Country of Origin United States
+
+Collar of Foam (Head Retention) Good
+Collar of Foam (Texture) Foamy
+
+Carbonation (Visual) Medium to Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Mild or Medium Cheddar
+Entrée Roasted or Grilled Meats
+Dessert Apple Pie
+
+Glass Tulip
+
+Hop Aroma/Flavor Hop aroma and flavor are medium to medium-high, exhibiting fruity, floral, and
+citrus-like American-variety hop aromas. Hop bitterness is medium to medium-
+high
+
+Hop Ingredients Horizon, Cascade, Centennial
+Malt Aroma/Flavor Biscuit, Bready, Caramel
+Malt Ingredients Pale, Caramel, Munich
+
+Palate Body Soft
+
+Palate Carbonation Medium to High
+Palate Length/Finish Short to Medium
+
+Temperature 45-55°F
+
+Water Sulfite content may vary, but carbonate content should be relatively low
+Yeat
+Type Ale
+
+Phenols Not common to style
+
+Esters Citrus, Tropical Fruit, Pine
+
+source: CraftBeer.com
+
+English-Style Bitter
+
+tle Famil: Pale Ale
+
+English-Style Bitter
+
+A very sessionable, lower-alcohol, malt-driven style. Broad style description commonly associated with cask-conditioned beers.
+The light- to medium-bodied ordinary bitter is gold to copper in color, with a low residual malt sweetness. Hop bitterness is
+medium.
+
+Quantitative tle tatitic
+
+OG 1.033 - 1.038
+FG 1.006 - 1.012
+ABV 3.0% - 4.2%
+IBU 20 - 35
+
+BU:GU 0.61 - 0.92
+
+SRM 5 - 12
+CO2 Volumes 1 - 1.5
+Apparent Attenuation 68 - 82
+
+U.. Commercial xample
+
+Sawtooth Left Hand Brewing Co.
+Pale Ale Rio Blanco Brewing Co.
+Redfeather Black Raven Brewing Co.
+
+tle A-Z
+
+Alcohol
+
+Not Detectable to Mild
+
+Color Gold to Copper
+Clarity Clear to Brilliant
+Country of Origin United Kingdom
+
+Collar of Foam (Head Retention) Poor
+Collar of Foam (Texture) Thin
+
+Carbonation (Visual) Slow Rising Bubbles
+
+Food Pairing
+
+Cheese Firm English Cheeses
+Entrée Roasted Chicken, Fish and Chips
+Dessert Oatmeal Raisin Walnut Cookies
+
+Glass Nonic Pint
+
+Hop Aroma/Flavor Hop aroma may be evident at the brewer's discretion
+Hop Ingredients Kent Goldings
+Malt Aroma/Flavor Low to medium residual malt sweetness is present
+Malt Ingredients British Pale Ale, Aromatic, Crystal, Special Roast
+
+Palate Body Drying to Soft
+
+Palate Carbonation Low
+Palate Length/Finish Short
+
+Temperature 50-55°F
+
+Water Varies
+Yeat
+Type Ale
+
+Phenols Not common to style
+
+Esters Fruity esters are common.
+
+Fermentation Byproducts Low-level diacetyl aromas and flavor are acceptable
+
+source: CraftBeer.com
+
+Blonde Ale
+
+tle Famil: Pale Ale
+
+Blonde Ale
+
+One of the most approachable styles, a golden or blonde ale is an easy-drinking beer that is visually appealing and has no
+particularly dominating malt or hop characteristics. Rounded and smooth, it is an American classic known for its simplicity.
+Sometimes referred to as “golden ale.” These beers can have honey, spices and fruit added, and may be fermented with lager or ale
+yeast.
+
+Quantitative tle tatitic
+
+OG 1.045 - 1.054
+FG 1.008 - 1.016
+
+ABV 4.1% - 5.1%
+IBU 15 - 25
+
+BU:GU 0.33 - 0.45
+
+SRM 3 - 7
+CO2 Volumes 2 - 2.5
+Apparent Attenuation 71 - 82
+
+U.. Commercial xample
+
+True Blonde Ale Ska Brewing Co.
+
+Foam Top Beachwood Brewery & BBQ
+
+Kirby Echo Brewing Co.
+
+tle A-Z
+
+Alcohol
+
+Not Detectable to Mild
+Color Straw to Light Amber
+Clarity Brilliant to Slight Haze
+
+Country of Origin United States
+
+Collar of Foam (Head Retention) Good
+
+Collar of Foam (Texture) Thin to Interrupted
+
+Carbonation (Visual) Medium to Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Pepper Jack
+Entrée Spaghetti and Meatballs
+Dessert Sugar Cookies
+
+Hop Aroma/Flavor Hop aroma is low to medium-low, present but not dominant. Hop bitterness is
+
+Glass Tulip
+
+Phenols Not common to style.
+
+Esters Fruity esters may be perceived but not predominant.
+
+English-Style Pale Ale (ESB)
+
+source: CraftBeer.com
+
+Hop Ingredients Williamette
+
+low to medium-low.
+
+Malt Aroma/Flavor Light malt sweetness is present in the flavor. Bread, toast, biscuit and wheat
+
+flavors are common.
+
+Malt Ingredients American Two-Row, Crystal
+Other ingredients May include up to 25 percent Malted Wheat and sugar adjuncts.
+Palate Body Soft
+Palate Carbonation Medium to High
+Palate Length/Finish Short
+
+Temperature 45-50°F
+
+Water Varies
+Yeat
+Type Lager or Ale
+
+tle Famil: Pale Ale
+
+English-Style Pale Ale (ESB)
+
+ESB stands for “extra special bitter.” This style is known for its balance and the interplay between malt and hop bitterness. English
+pale ales display earthy, herbal English-variety hop character. Medium to high hop bitterness, flavor and aroma should be evident.
+The yeast strains used in these beers lend a fruitiness to their aromatics and flavor, referred to as esters. The residual malt and
+defining sweetness of this richly flavored, full-bodied bitter is medium to medium-high.
+
+Quantitative tle tatitic
+
+OG 1.040 - 1.056
+FG 1.008 - 1.016
+ABV 4.4% - 5.3%
+IBU 20 - 40
+
+BU:GU 0.50 - 0.71
+
+SRM 5 - 12
+CO2 Volumes 1.5 - 2
+Apparent Attenuation 71 - 80
+
+U.. Commercial xample
+
+5 Barrel Pale Ale Odell Brewing Co.
+
+Royal Scandal Peticolas Brewing Co.
+Moondog Ale Great Lakes Brewing Co.
+
+tle A-Z
+
+Alcohol
+
+Mild
+
+Color Gold to Copper
+Clarity Clear to Brilliant
+Country of Origin United Kingdom
+
+Collar of Foam (Head Retention) Poor
+Collar of Foam (Texture) Thin
+
+Carbonation (Visual) Slow Rising Bubbles
+
+Food Pairing
+
+Cheese English-Style Cheeses
+Entrée Roasted Chicken, Fish and Chips
+Dessert Maple Bread Pudding
+
+Hop Aroma/Flavor Hop flavor is medium to medium-high. Hop bitterness is medium to medium-
+
+Glass Nonic Pint
+
+high
+
+Hop Ingredients Kent Goldings
+Malt Aroma/Flavor Residual malt and defining sweetness is medium to medium-high
+Malt Ingredients British Pale Ale, Crystal
+Other ingredients Some versions use sugar, corn or wheat
+Palate Carbonation Low
+Palate Length/Finish Short
+
+Palate Body Moderate
+
+Temperature 50-55°F
+
+Water Some versions use medium to high sulfate
+Yeat
+Type Ale
+
+Phenols Not common to style
+
+Esters Fruity-ester and very low diacetyl flavors are acceptable, but should be
+
+minimized in this form of bitter
+
+source: CraftBeer.com
+
+American Amber Lager
+
+tle Famil: Dark Lager
+
+American Amber Lager
+
+A widely available, sessionable craft beer style that showcases both malt and hops. Amber lagers are a medium-bodied lager with a
+toasty or caramel-like malt character. Hop bitterness can range from very low to medium-high. Brewers may use decoction mash
+and dry-hopping to achieve advanced flavors.
+
+Quantitative tle tatitic
+
+OG 1.042 - 1.056
+FG 1.010 - 1.018
+ABV 4.8% - 5.4%
+IBU 18 - 30
+
+BU:GU 0.43 - 0.54
+
+SRM 6 - 14
+Apparent Attenuation 68 - 76
+
+CO2 Volumes 2.5 approximately
+
+U.. Commercial xample
+
+Sam Adams Boston Lager Boston Beer Co.
+Lager Brooklyn Brewery
+
+Lighter Than I Look Figueroa Mountain Brewing
+
+tle A-Z
+
+Brewing/Conditioning Process Can use decoction mash and dry-hopping to achieve advanced flavors
+
+Alcohol
+
+Mild to Noticeable
+
+Color Gold to Copper
+Clarity Clear to Slight Haze
+Country of Origin United States
+
+Collar of Foam (Head Retention) Good
+Collar of Foam (Texture) Foamy
+
+Carbonation (Visual) Medium to Fast Rising Bubbles
+
+Food Pairing
+
+Cheese White Cheddar
+Entrée Grilled Meats and Vegetables
+Dessert Fruit Desserts
+
+Glass Tulip
+
+Hop Aroma/Flavor Hop flavor and aroma are very low to medium-high. Hop bitterness is very low
+
+to medium-high
+Hop Ingredients German Noble
+Malt Ingredients Two-row, Munich, Vienna, Caramel
+
+Malt Aroma/Flavor Low to medium-low caramel-type or toasted malt aromas are often present
+
+Palate Body Soft
+
+Palate Carbonation Medium to High
+Palate Length/Finish Short to Medium
+
+Temperature 45-50°F
+
+Water Varies
+Yeat
+Type Lager
+
+Phenols Not common to style
+Esters Not common to style
+
+source: CraftBeer.com
+
+German-Style Dunkel
+
+tle Famil: Dark Lager
+
+German-Style Dunkel
+
+A German-style dunkel, sometimes referred to as a Munchner dunkel, should have chocolate-like, roast malt, bread-like or biscuit-
+like aromas that come from the use of Munich dark malt.This beer does not offer an overly sweet impression, but rather a mild
+balance between malt sweetness and hop character.
+
+Quantitative tle tatitic
+
+OG 1.048 - 1.056
+FG 1.014 - 1.018
+ABV 4.8% - 5.3%
+IBU 16 - 25
+
+BU:GU 0.33 - 0.45
+
+SRM 15 - 17
+CO2 Volumes 2 - 2.5
+Apparent Attenuation 68 - 71
+
+U.. Commercial xample
+
+Munich Dunkel Carver Brewing Co.
+Knight Ryder Munich Dunkel Equinox Brewing
+
+Dunkel Chuckanut Brewery
+
+tle A-Z
+
+Brewing/Conditioning Process A decoction mash is commonly used
+
+Alcohol
+
+Mild to Noticeable
+
+Color Light Brown to Dark Brown
+Clarity Clear to Slight Haze
+
+Country of Origin Germany
+
+Collar of Foam (Head Retention) Good
+
+Collar of Foam (Texture) Mousse-like
+
+Carbonation (Visual) Medium Rising Bubbles
+
+Food Pairing
+
+Cheese Washed-Rind Munster
+Entrée Sausages, Roasted Vegetables
+Dessert Candied Ginger Beer Cake
+
+Glass Vase
+
+Hop Aroma/Flavor Hop aroma and flavor are not perceived. Hop bitterness is low
+Malt Aroma/Flavor Malt aroma is low to medium, with chocolate-like, roasted malt, bread-like or
+
+Hop Ingredients German Noble
+
+Malt Ingredients Munich, Carafa Special II
+
+biscuit-like notes
+Palate Body Mouth-Coating
+
+Palate Carbonation Medium
+Palate Length/Finish Medium
+Temperature 45-50°F
+
+Water Moderate carbonate water
+Yeat
+Type Lager
+
+Phenols Not common to style
+Esters Not common to style
+
+source: CraftBeer.com
+
+German-Style Marzen / Oktoberfest
+
+German-Style Marzen / Oktoberfest
+
+tle Famil: Dark Lager
+
+A beer rich in malt with a balance of clean, hop bitterness. Bread or biscuit-like malt aroma and flavor is common. Originating in
+Germany, this style used to be seasonally available in the spring (“Marzen” meaning “March”), with the fest-style versions tapped
+in October.
+
+Quantitative tle tatitic
+
+OG 1.050 - 1.060
+FG 1.012 - 1.020
+ABV 5.1% - 6.0%
+IBU 18 - 25
+
+BU:GU 0.36 - 0.42
+
+SRM 4 - 15
+CO2 Volumes 2 - 2.5
+Apparent Attenuation 67 - 76
+
+U.. Commercial xample
+
+Rhinofest Lost Rhino Brewing Co.
+
+Shiner Oktoberfest Spoetzl Brewery
+
+Festbier Victory Brewing Co.
+
+tle A-Z
+
+Brewing/Conditioning Process A decoction mash is commonly used
+
+Alcohol
+
+Mild
+
+Color Pale to Reddish Brown
+Clarity Brilliant
+Country of Origin Germany
+
+Collar of Foam (Head Retention) Good
+Collar of Foam (Texture) Foamy
+
+Carbonation (Visual) Medium Rising Bubbles
+
+Hop Aroma/Flavor Hop aroma and flavor are very low to low. Hop bitterness is medium low to
+
+Food Pairing
+
+Cheese Jalapeno Jack
+Entrée Kielbasa
+Dessert Coconut Flan
+
+Glass Flute
+
+medium
+
+Hop Ingredients German Noble
+Malt Ingredients Pilsner, Vienna, Munich
+
+Malt Aroma/Flavor Toast
+Palate Body Soft
+
+Palate Carbonation Medium
+Palate Length/Finish Short to Medium
+
+Temperature 45-50°F
+
+Water Varies
+Yeat
+Type Lager
+
+Phenols Not common to style
+Esters Not common to style
+
+source: CraftBeer.com
+
+German-Style Schwarzbier
+
+tle Famil: Dark Lager
+
+German-Style Schwarzbier
+
+Sometimes called black lagers, they may remind some of German-style dunkels, but schwarzbiers are drier, darker and more roast-
+oriented.These very dark brown to black beers have a surprisingly pale-colored foam head (not excessively brown) with good cling
+quality. They have a mild roasted malt character without the associated bitterness. Malt flavor and aroma is at low to medium
+levels of sweetness.
+
+Quantitative tle tatitic
+
+OG 1.044 - 1.052
+FG 1.010 - 1.016
+ABV 3.8% - 4.9%
+IBU 22 - 30
+
+BU:GU 0.50 - 0.58
+
+SRM 25 - 30
+CO2 Volumes 2 - 2.5
+Apparent Attenuation 69 - 77
+
+U.. Commercial xample
+
+Once You Go Schwarz... Figueroa Mountain Brewing
+Sam Adams Black Lager Boston Beer
+
+Black Bavarian Sprecher Brewing Co.
+
+tle A-Z
+
+Alcohol
+
+Not Detectable to Mild
+
+Color Very Dark Brown to Black
+Clarity Clear
+Collar of Foam (Head Retention) Good
+Collar of Foam (Texture) Foamy
+
+Country of Origin Germany
+
+Carbonation (Visual) Medium to Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Munster-Style Cheese
+Entrée Mushroom Strudel
+Dessert Fruit Tart
+
+Hop Aroma/Flavor Hop aroma and flavor are very low to low, deriving from noble-type hops. Hop
+
+Glass Flute
+
+Hop Ingredients German Noble
+
+bitterness is low to medium
+
+Malt Aroma/Flavor Reminiscent of bitter chocolate or coffee. Malt sweetness is low to medium, and
+Malt Ingredients Pilsner, Munich, Crystal, Chocolate Malt, Black Roasted Barley, Carafa Special
+
+incorporates mild roasted malt character without the associated bitterness
+
+Palate Body Soft
+
+II
+
+Palate Carbonation Medium to High
+Palate Length/Finish Medium
+Temperature 45-50°F
+
+Water Varies
+Yeat
+Type Lager
+
+Phenols Not common to style
+Esters Not common to style
+
+Vienna-Style Lager
+
+source: CraftBeer.com
+
+tle Famil: Dark Lager
+
+Vienna-Style Lager
+
+Ranges from copper to reddish brown in color. The beer is characterized by malty aroma and slight malt sweetness. The malt
+aroma and flavor should have a notable degree of toasted and/or slightly roasted malt character. Hop bitterness is low to medium-
+low.
+
+Quantitative tle tatitic
+
+OG 1.046 - 1.056
+FG 1.012 - 1.018
+ABV 4.8% - 5.4%
+IBU 22 - 28
+
+BU:GU 0.48 - 0.50
+
+SRM 12 - 26
+CO2 Volumes 2 - 2.5
+Apparent Attenuation 68 - 74
+
+U.. Commercial xample
+
+Eliot Ness Great Lakes Brewing Co.
+
+13.FIVE Ofest
+
+Blue Mountain Barrel House and Organic Brewery
+
+Vienna Lager Chuckanut Brewery
+
+tle A-Z
+
+Alcohol
+
+Mild
+
+Color Copper to Reddish Brown
+Clarity Brilliant to Clear
+
+Country of Origin Germany
+
+Collar of Foam (Head Retention) Good
+Collar of Foam (Texture) Foamy
+
+Carbonation (Visual) Medium Rising Bubbles
+
+Food Pairing
+
+Cheese Mild Cheeses
+Entrée Grilled Meats and Vegetables
+Dessert Almond Biscotti
+
+Glass Flute
+
+Hop Aroma/Flavor Hop aroma, flavor and bitterness are very low to low
+Malt Aroma/Flavor Aroma should have a notable degree of toasted and/or slightly roasted malt
+
+Hop Ingredients German Noble
+
+character. Malt flavor is slightly sweet
+
+Malt Ingredients Vienna
+Palate Carbonation Medium
+Palate Length/Finish Short to Medium
+
+Palate Body Soft
+
+Temperature 45-50°F
+
+Water Hard carbonate water
+Yeat
+Type Lager
+
+Phenols Not common to style
+Esters Not common to style
+
+source: CraftBeer.com
+
+American Brown Ale
+
+tle Famil: rown Ale
+
+American Brown Ale
+
+Roasted malt, caramel-like and chocolate-like characters should be of medium intensity in both flavor and aroma. American-style
+brown ales have evident low to medium hop flavor and aroma and medium to high hop bitterness. The history of this style dates
+back to U.S. homebrewers who were inspired by English-style brown ales and porters. It sits in flavor between those British styles
+and is more bitter than both.
+
+Quantitative tle tatitic
+
+OG 1.040 - 1.060
+FG 1.010 - 1.018
+ABV 4.2% - 6.3%
+IBU 25 - 45
+
+BU:GU 0.62 - 0.75
+
+SRM 15 - 26
+CO2 Volumes 2 - 2.5
+Apparent Attenuation 70 - 75
+
+U.. Commercial xample
+
+Brown Culture Brewing Co.
+Upslope Brown Ale Upslope Brewing Co.
+Face Down Brown Telluride Brewing Co.
+
+tle A-Z
+
+Mild to Noticeable
+Brewing/Conditioning Process May be dry-hopped
+
+Alcohol
+
+Color Deep Copper to Very Dark Brown
+Clarity Clear
+
+Collar of Foam (Head Retention) Poor to Moderate
+
+Country of Origin United States
+Collar of Foam (Texture) Thin to Foamy
+
+Carbonation (Visual) Medium to Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Aged Gouda
+Entrée Grilled Meats and Vegetables
+Dessert Pear Fritters
+
+Glass Nonic Pint
+
+Hop Aroma/Flavor Hop aroma and flavor are low to medium. Hop bitterness is medium to high
+Malt Aroma/Flavor Caramel, Chocolate, Toast
+
+Hop Ingredients U.S., U.K., Noble
+Malt Ingredients Pale, Crystal, Chocolate, Victory
+
+Palate Body Varies
+Palate Carbonation Medium to High
+Palate Length/Finish Medium
+Temperature 50-55°F
+
+Water Varies
+Yeat
+Type Ale
+
+Phenols Not common to style
+
+Esters Fruity-ester flavors, if present, should be subdued
+
+source: CraftBeer.com
+
+English-Style Brown Ale
+
+tle Famil: rown Ale
+
+English-Style Brown Ale
+
+English-style brown ales range from dryer (Northern English) to sweeter (Southern English) maltiness. Roast malt tones
+(chocolate, nutty) may sometimes contribute to the flavor and aroma profile. Hop bitterness is very low to low, with very little hop
+flavor and aroma. Known for rich and advanced malt aroma and flavor without centering too much on hops, this style is extremely
+sessionable and food-friendly.
+
+Quantitative tle tatitic
+
+OG 1.040 - 1.050
+FG 1.008 - 1.014
+ABV 4.2% - 6.0%
+IBU 15 - 25
+
+BU:GU 0.38 - 0.50
+
+SRM 12 - 17
+CO2 Volumes 1 - 1.5
+Apparent Attenuation 72 - 80
+
+U.. Commercial xample
+
+Nautical Nut Brown AleSmith Brewing Co.
+
+Bandit Brown City Star Brewing
+Ellie's Brown Avery Brewing Co.
+
+tle A-Z
+
+Alcohol
+
+Not Detectable to Mild
+
+Color Copper to Very Dark
+Clarity Clear
+Collar of Foam (Head Retention) Poor
+Collar of Foam (Texture) Foamy
+
+Country of Origin United Kingdom
+
+Carbonation (Visual) Slow to Medium Rising Bubbles
+
+Food Pairing
+
+Cheese Aged Gouda
+Entrée Roasted Pork, Steak, Nuts
+Dessert Pear Fritters
+
+Glass Nonic Pint
+
+Hop Aroma/Flavor Hop aroma and flavor is very low. Hop bitterness is very low to low
+Malt Aroma/Flavor Balance ranges from dry to sweet maltiness. Roast malt tones of toffee, nuts and
+
+Hop Ingredients Kent Goldings
+
+Malt Ingredients Pale Ale, Special Roast, Victory, Crystal, Pale Chocolate
+
+caramel sometimes contribute to the flavor profile
+
+Palate Body Soft
+
+Palate Carbonation Low to Medium
+Palate Length/Finish Short to Medium
+
+Temperature 50-55°F
+
+Water Moderate carbonate water
+Yeat
+Type Ale
+
+Phenols Not common to style
+
+Esters Fruit (varies)
+
+Fermentation Byproducts Diacetyl should be very low, if evident
+
+source: CraftBeer.com
+
+English-Style Mild
+
+tle Famil: rown Ale
+
+English-Style Mild
+
+Malt and caramel are part of the flavor and aroma profile, while licorice and roast malt tones may sometimes contribute as well.
+Hop bitterness is very low to low. U.S. brewers are known to make lighter-colored versions as well as the more common “dark
+mild.” These beers are very low in alcohol, yet often are still medium-bodied due to increased dextrin malts.
+
+Quantitative tle tatitic
+
+OG 1.030 - 1.036
+FG 1.004 - 1.008
+ABV 3.4% - 4.4%
+IBU 10 - 24
+
+BU:GU 0.33 - 0.67
+
+SRM 17 - 34
+CO2 Volumes 1 - 1.5
+Apparent Attenuation 78 - 87
+
+U.. Commercial xample
+
+SS Minnow Mild Dry Dock Brewing Co.
+
+Bristlecone Uinta Brewing Co.
+
+Ghetto Blaster Motor City Brewing Works
+
+tle A-Z
+
+Alcohol
+
+Not Detectable
+
+Color Reddish Brown to Very Dark
+Clarity Clear to Slight Haze
+
+Country of Origin United Kingdom
+
+Collar of Foam (Head Retention) Poor
+Collar of Foam (Texture) Thin
+
+Carbonation (Visual) Slow to Medium Rising Bubbles
+
+Food Pairing
+
+Cheese Mild Cheddar
+Entrée Mushrooms and Wild Game
+Dessert Dark Fruit Tart
+
+Glass Nonic Pint
+
+Hop Aroma/Flavor Hop flavor is low to very low
+Malt Aroma/Flavor Caramel, Chocolate, Coffee, Licorice, Raisin, Molasses. Malt flavors dominate
+
+Hop Ingredients Kent Goldings
+
+the flavor profile
+
+Malt Ingredients British Pale Ale, Crystal, Pale Chocolate, Black Patent
+Other ingredients Sugar (occasionally)
+Palate Carbonation Low to Medium
+Palate Length/Finish Short to Medium
+
+Palate Body Soft to Mouth-Coating
+
+Temperature 50-55°F
+
+Water Varies
+Yeat
+Type Ale
+
+Phenols Not common to style
+
+Fermentation Byproducts Diactyl at low levels is common
+
+Esters Fruity-ester flavors, if present, are very low to medium-low
+
+source: CraftBeer.com
+
+American IPA
+
+tle Famil: India Pale Ale
+
+American IPA
+
+Characterized by floral, fruity, citrus-like, piney or resinous American-variety hop character, this style is all about hop flavor,
+aroma and bitterness. This has been the most-entered category at the Great American Beer Festival for more than a decade, and is
+the top-selling craft beer style in supermarkets and liquor stores across the U.S.
+
+Quantitative tle tatitic
+
+OG 1.060 - 1.075
+FG 1.012 - 1.018
+ABV 6.3% - 7.6%
+IBU 50 - 70
+
+BU:GU 0.83 - 0.93
+
+SRM 6 - 14
+CO2 Volumes 2 - 2.5
+Apparent Attenuation 76 - 80
+
+U.. Commercial xample
+
+Bodhizafa IPA Georgetown Brewing Co.
+Super Cali IPA Riip Beer Co.
+Breaking Bud Knee Deep Brewing Co.
+
+tle A-Z
+
+Brewing/Conditioning Process Dry-hopping is common
+
+Alcohol
+
+Mild to Noticeable
+
+Color Gold to Copper, Red/Brown
+Clarity Clear to Slight Haze
+
+Country of Origin United States
+
+Collar of Foam (Head Retention) Good
+Collar of Foam (Texture) Foamy
+
+Carbonation (Visual) Medium to Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Blue Cheeses
+Entrée Spicy Tuna Roll
+Dessert Persimmon Rice Pudding
+
+Hop Aroma/Flavor Hop aroma is high and hop flavor is strong both with floral qualities and citrus-
+
+Glass Tulip
+
+like, piney, resinous or sulfur-like American-variety hop character. Hop
+bitterness is medium-high to very high
+
+Malt Aroma/Flavor Biscuit, Bready, Caramel
+
+Hop Ingredients Centennial, Simcoe, Amarillo
+Malt Ingredients American Two-Row
+
+Palate Body Soft to Sticky
+
+Palate Carbonation Medium to High
+Palate Length/Finish Medium to Long
+
+Temperature 50-55°F
+
+Water High mineral content
+Yeat
+Type Ale
+
+Phenols Not common to style
+
+Esters Citrus, Tropical Fruit, Pine
+
+source: CraftBeer.com
+
+English-Style IPA
+
+tle Famil: India Pale Ale
+
+English-Style IPA
+
+Steeped in lore (and extra hops), the IPA is a stronger version of a pale ale. Characterized by stiff English-style hop character
+(earthy, floral) and increased alcohol content. English yeast lends a fruity flavor and aroma. Different from its American
+counterpart, this style strikes a balance between malt and hops for a more rounded flavor. There is also a lot of mythology
+surrounding the creation of this style, which is still debated today.
+
+Quantitative tle tatitic
+
+OG 1.050 - 1.064
+FG 1.012 - 1.018
+ABV 5.1% - 7.1%
+IBU 35 - 63
+
+BU:GU 0.70 - 0.98
+
+SRM 6 - 14
+CO2 Volumes 2 - 2.5
+Apparent Attenuation 72 - 76
+
+U.. Commercial xample
+
+Taproom IPA Firestone Walker Brewing Co.
+
+Sam Adams Lattitude 48 Hallertau
+Mittelfrueh
+
+Boston Beer Co.
+East India IPA Brooklyn Brewery
+
+tle A-Z
+
+Alcohol
+
+Not Detectable to Noticeable
+
+Color Gold to Copper
+Clarity Clear to Slight Haze
+Country of Origin United Kingdom
+
+Collar of Foam (Head Retention) Good
+Collar of Foam (Texture) Foamy
+
+Carbonation (Visual) Medium to Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Aged Cheddar
+Entrée Fettuccine Alfredo
+Dessert Ginger Spice Cake
+
+Hop Aroma/Flavor Hop aroma is medium to high, often flowery. Hop flavor and bitterness are
+
+Glass Nonic Pint
+
+medium to high. Earthy and herbal English-variety hop character is perceived,
+but may be a result of the skillful use of hops of other national origins
+
+Malt Aroma/Flavor Bready, Biscuit, Toast, Caramel, Toffee
+
+Hop Ingredients Varies
+Malt Ingredients British Pale Ale, Crystal, Biscuit
+
+Palate Body Moderate
+
+Palate Carbonation Medium to High
+Palate Length/Finish Short to Medium
+
+Temperature 45-50°F
+
+Water High mineral content. May include subtle sulfur content
+Yeat
+Type Ale
+
+Phenols Not common to style
+
+Fermentation Byproducts Diacetyl can be absent or may be perceived at very low levels
+
+Esters Fruity ester aromas are moderate to very strong
+
+Imperial India Pale Ale
+
+source: CraftBeer.com
+
+tle Famil: India Pale Ale
+
+Imperial India Pale Ale
+
+High hop bitterness, flavor and aroma. Hop character is fresh and evident from utilization of any variety of hops. Alcohol content
+is medium-high to high and notably evident with a medium-high to full body. The intention of this style is to exhibit the fresh and
+evident character of hops.
+
+Quantitative tle tatitic
+
+OG 1.075 - 1.100
+FG 1.012 - 1.020
+ABV 7.6% - 10.6%
+IBU 65 - 100
+
+BU:GU 0.87 - 1.00
+
+SRM 5 - 16
+CO2 Volumes 2 - 2.5
+Apparent Attenuation 80 - 84
+
+U.. Commercial xample
+
+Hop JuJu Fat Heads Brewery
+2x4 Melvin Brewing Co.
+
+Furious Surly Brewing Co.
+
+tle A-Z
+
+Brewing/Conditioning Process Dry-hopping is common
+
+Alcohol
+
+Noticeable
+
+Color Gold to Light Brown
+Clarity Clear to Hazy
+Country of Origin United States
+
+Collar of Foam (Head Retention) Good
+Collar of Foam (Texture) Foamy
+
+Carbonation (Visual) Medium to Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Rich Cheeses
+Entrée Bone-In Pork Chops, Miso Salmon
+Dessert Carrot Cake
+
+Glass Tulip
+
+Hop Aroma/Flavor Hop flavor and aroma are very high, should be fresh and lively and should not
+be harsh in quality, deriving from any variety of hops. Hop bitterness is very
+high but not harsh
+
+Malt Aroma/Flavor Malt character is medium to high
+
+Hop Ingredients Varies
+Malt Ingredients American Two-Row, Crystal, Malted Wheat
+
+Palate Body Mouth-Coating
+Palate Carbonation Medium to High
+Palate Length/Finish Long
+
+Temperature 50-55°F
+
+Water Varies
+Yeat
+Type Ale
+
+Phenols Not common to style.
+
+Esters Fruity ester aroma and flavor are high.
+
+source: CraftBeer.com
+
+American-Style Wheat Wine Ale
+
+American-Style Wheat Wine Ale
+
+tle Famil: Wheat eer
+
+Part of the “strong ale” category, this ale is not derived from grapes as its name might suggest. Made with at least 50 percent wheat
+malt, this full-bodied beer features bready and candy flavors, and finishes with a great deal of malty sweetness. These beers may be
+oak-aged and sometimes have small amounts of darker malts added.
+
+Quantitative tle tatitic
+
+OG 1.088 - 1.120
+FG 1.024 - 1.032
+ABV 8.5% - 12.2%
+IBU 45 - 85
+
+BU:GU 0.51 - 0.71
+
+SRM 5 - 15
+CO2 Volumes 2 - 2.5
+Apparent Attenuation 73 - 73
+
+U.. Commercial xample
+
+Winter Wheat Wine Rubicon Brewing Co.
+
+Wheat Wine Smuttynose Brewing Co.
+Wheat Wine The Portsmouth Brewery
+
+tle A-Z
+
+Alcohol
+
+Noticeable to Harsh
+Color Gold to Light Brown
+Clarity Slight Haze
+Country of Origin United States
+
+Collar of Foam (Head Retention) Poor
+
+Collar of Foam (Texture) Thin to Interrupted
+
+Carbonation (Visual) Slow to Medium Rising Bubbles
+
+Food Pairing
+
+Cheese Asiago
+Entrée Smoked Trout
+Dessert Peach Sorbet
+
+Glass Snifter
+
+medium-high
+
+Hop Aroma/Flavor Hop aroma and flavor are low to medium. Hop bitterness is medium to
+
+Malt Aroma/Flavor Bready, wheat, honey-like and/or caramel malt aromas are often present
+
+Hop Ingredients Varies
+Malt Ingredients At least 50 percent Malted Wheat
+
+Palate Body Mouth-Coating
+Palate Carbonation Low to Medium
+Palate Length/Finish Medium
+Temperature 50-55°F
+
+Water Varies
+Yeat
+Type Ale
+
+Phenols Not common to style
+
+character
+
+Esters Fruity-ester aroma is often high and counterbalanced with complex alcohol
+
+source: CraftBeer.com
+
+American Wheat
+
+tle Famil: Wheat eer
+
+American Wheat
+
+Color is pale to light amber. This beer can be made using either ale or lager yeast. Generally brewed with at least 30 percent malted
+wheat. These beers are typically served with the yeast in the bottle, and pour cloudy. Traditionally more hoppy than a German
+hefeweizen, American wheat beer differs in that it should not offer flavors of banana or clove. It is a refreshing summer style.
+Darker versions of this style also exist but are not as common.
+
+Quantitative tle tatitic
+
+OG 1.036 - 1.056
+FG 1.004 - 1.018
+ABV 3.5% - 5.6%
+IBU 10 - 35
+
+BU:GU 0.28 - 0.62
+
+SRM 2 - 10
+Apparent Attenuation 68 - 89
+
+CO2 Volumes 2.5 approximately
+
+U.. Commercial xample
+
+Wheat Beer Boulevard Brewing Co.
+
+Oberon Bell's Brewery Inc.
+
+Tumblewheat Altitude Chophouse and Brewery
+
+tle A-Z
+
+Not Detectable to Mild
+Brewing/Conditioning Process Brewed with wheat malt
+
+Alcohol
+
+Color Straw to Light Amber
+Clarity Brilliant to Slight Haze
+
+Collar of Foam (Head Retention) Good
+
+Country of Origin United States
+Collar of Foam (Texture) Mousse-like
+
+Carbonation (Visual) Medium to Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Chèvre
+Entrée Salads, Seafood
+Dessert Fruit Desserts
+
+Glass Flute
+
+Hop Aroma/Flavor Hop aroma, flavor and bitterness are low to medium
+Malt Aroma/Flavor Grainy Wheat
+
+Hop Ingredients Willamette, Centennial
+Malt Ingredients Malted Wheat, American Two-Row
+
+Palate Body Varies
+Palate Carbonation Medium to High
+Palate Length/Finish Varies
+Temperature 40-45°F
+
+Water Varies
+Yeat
+Type Lager or Ale
+
+Phenols Can be present
+Esters Can be present
+
+Fermentation Byproducts Very low levels of diacetyl may be acceptable
+
+source: CraftBeer.com
+
+Belgian-Style Witbier
+
+tle Famil: Wheat eer
+
+Belgian-Style Witbier
+
+Belgian-style wits are brewed using unmalted wheat, sometimes oats and malted barley. Witbiers are spiced with coriander and
+orange peel. A style that dates back hundreds of years, it fell into relative obscurity until it was revived by Belgian brewer Pierre
+Celis in the 1960s. This style is currently enjoying a renaissance, especially in the American market. “Wit” means “white.”
+
+Quantitative tle tatitic
+
+OG 1.044 - 1.050
+FG 1.006 - 1.010
+ABV 4.8% - 5.6%
+IBU 10 - 17
+
+BU:GU 0.23 - 0.34
+
+SRM 2 - 4
+CO2 Volumes 2 - 2.5
+Apparent Attenuation 80 - 86
+
+U.. Commercial xample
+
+Optimal Wit Port City Brewing Co.
+Ommegang Witte Ale Brewery Ommegang
+White Allagash Brewing Co.
+
+tle A-Z
+
+Not Detectable to Mild
+Brewing/Conditioning Process Often bottle-conditioned
+
+Alcohol
+
+Color Straw to Pale
+Clarity Hazy
+Collar of Foam (Head Retention) Good
+
+Country of Origin Belgium
+
+Collar of Foam (Texture) Mousse-like
+
+Carbonation (Visual) Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Mascarpone
+Entrée Moules and Frites
+Dessert Panna Cotta
+
+Glass Tulip
+
+Hop Aroma/Flavor Hop flavor and aroma are not perceived to low. Hop bitterness is low, achieved
+
+traditionally by the use of noble-type hops
+Malt Aroma/Flavor Malt aroma and flavor are very low to low
+
+Hop Ingredients German Noble
+Malt Ingredients Pilsner, Flaked Wheat, Unmalted Wheat, and occasionally oats and malted
+barley
+Other ingredients Orange Peel, Coriander Seed
+Palate Body Drying
+Palate Carbonation High
+Palate Length/Finish Medium
+Temperature 40-45°F
+
+Water Varies
+Yeat
+Type Ale
+
+Phenols Spicy, Pepper
+Esters Orange, Citrus
+
+Fermentation Byproducts Unfiltered starch and yeast haze should be part of the appearance. Wits are
+
+traditionally bottle-conditioned and served cloudy
+
+source: CraftBeer.com
+
+Berliner-Style Weisse
+
+tle Famil: Wheat eer
+
+Berliner-Style Weisse
+
+Low in alcohol and refreshingly tart, and often served with a flavored syrup like Woodruff or raspberry, this German-style wheat
+ale presents a harmony between yeast and lactic acid. These beers are very pale in color, and may be cloudy as they are often
+unfiltered. Hops are not a feature of this style, but these beers often do showcase esters. Traditional versions often showcase
+Brettanomyces yeast. Growing in popularity in the U.S., where many brewers are now adding traditional and exotic fruits to the
+recipe, resulting in flavorful finishes with striking, colorful hues. These beers are incredible when pairing. Bitterness, alcohol and
+residual sugar are very low, allowing the beer’s acidity, white bread and graham cracker malt flavors to shine. Carbonation is very
+high, adding to the refreshment factor this style delivers. Many examples of this style contain no hops and thus no bitterness at all.
+
+Quantitative tle tatitic
+
+OG 1.028 - 1.032
+FG 1.004 - 1.006
+ABV 2.8% - 3.4%
+IBU 3 - 6
+
+BU:GU 0.11 - 0.19
+
+SRM 2 - 4
+CO2 Volumes 3.5 - 4
+Apparent Attenuation 81 - 86
+
+U.. Commercial xample
+
+Berliner Weisse
+
+Nodding Head Brewery & Restaurant
+
+Hottenroth Berliner Weisse The Bruery
+
+Athena Creature Comforts Brewing Co.
+
+tle A-Z
+
+Brewing/Conditioning Process Hops often not boiled and instead added to a decoction mash. Acidity may be
+
+Alcohol
+
+Not Detectable to Mild
+
+introduced from a sour mash, lactic acid additions or acidulated malt
+
+Color Straw to Pale
+Clarity Clear to Hazy
+
+Country of Origin Germany
+
+Collar of Foam (Head Retention) Poor
+
+Collar of Foam (Texture) Foamy to Rocky
+
+Carbonation (Visual) Slow to Medium Rising Bubbles
+
+Food Pairing
+
+Cheese Havarti
+Entrée Aged Ham on Pretzel Bread
+Dessert Cheesecake with Raspberries
+
+Hop Aroma/Flavor Hop aroma and flavor are not perceived. Hop bitterness is not perceived to very
+
+Glass Goblet
+
+low
+
+Hop Ingredients German Noble
+Malt Aroma/Flavor Not Perceived
+Malt Ingredients Pilsner, Malted Wheat
+
+Palate Body Drying
+
+Palate Carbonation Low to Medium
+Palate Length/Finish Short to Medium
+
+Temperature 45-50°F
+
+Water Varies
+Yeat
+Type Lager or Ale
+
+Phenols Not common to style
+
+Esters Fruity-ester flavors will be evident
+
+Microorganisms Lactobacillus
+
+source: CraftBeer.com
+
+German-Style Dunkelweizen
+
+tle Famil: Wheat eer
+
+German-Style Dunkelweizen
+
+Could be considered a cross between a German-style dunkel and a hefeweizen. Distinguished by its sweet maltiness and chocolate-
+like character, it can also have banana and clove (and occasionally vanilla or bubblegum) esters from weizen ale yeast.
+
+Quantitative tle tatitic
+
+OG 1.048 - 1.056
+FG 1.008 - 1.016
+ABV 4.8% - 5.4%
+IBU 10 - 15
+
+BU:GU 0.21 - 0.27
+
+SRM 10 - 25
+CO2 Volumes 2.5 - 3
+Apparent Attenuation 71 - 83
+
+U.. Commercial xample
+
+Samuel Adams Dunkelweizen Boston Beer Co.
+Shiner Dunkelweizen Spoetzl Brewery
+
+tle A-Z
+
+Brewing/Conditioning Process A decoction mash is commonly used
+
+Alcohol
+
+Not Detectable to Mild
+
+Color Copper-Brown to Very Dark
+Clarity Slight Haze to Hazy
+
+Country of Origin Germany
+
+Collar of Foam (Head Retention) Good
+
+Collar of Foam (Texture) Mousse-like
+
+Carbonation (Visual) Slow to Medium Rising Bubbles
+
+Food Pairing
+
+Cheese Gouda
+Entrée Roasted Chicken
+Dessert Banana Cream Pie
+
+Glass Vase
+
+Hop Aroma/Flavor Hop aroma and flavor are not perceived. Hop bitterness is low
+Malt Aroma/Flavor Bready or grainy, with a distinct sweet maltiness and a chocolate-like character
+
+Hop Ingredients German Noble
+
+Malt Ingredients At least 50 percent Malted Wheat, plus Munich, Special "B", Crystal, Carafa
+
+from roasted malt
+
+Palate Body Moderate to Mouth-Coating
+
+Special II
+
+Palate Carbonation Low to Medium
+Palate Length/Finish Short to Medium
+
+Temperature 45-50°F
+
+Water Varies
+Yeat
+Type Weizen Ale
+
+Phenols The phenolic flavors of Dunkel Weissbier should be evident but subdued
+
+Esters The ester flavors of Dunkel Weissbier should be evident but subdued
+
+source: CraftBeer.com
+
+German-Style Hefeweizen
+
+tle Famil: Wheat eer
+
+German-Style Hefeweizen
+
+German-style hefeweizens are straw to amber in color and made with at least 50 percent malted wheat. The aroma and flavor of a
+weissbier comes largely from the yeast and is decidedly fruity (banana) and phenolic (clove). “Weizen” means “wheat” and “hefe”
+means “yeast.” There are multiple variations to this style. Filtered versions are known as “Kristal Weizen” and darker versions are
+referred to as “Dunkels,” with a stronger, bock-like version called “Weizenbock.” This is commonly a very highly carbonated style
+with a long-lasting collar of foam.
+
+Quantitative tle tatitic
+
+OG 1.047 - 1.056
+FG 1.008 - 1.016
+ABV 4.9% - 5.6%
+IBU 10 - 15
+
+BU:GU 0.21 - 0.27
+
+SRM 3 - 9
+CO2 Volumes 2.5 - 3
+Apparent Attenuation 71 - 83
+
+U.. Commercial xample
+
+DreamWeaver Wheat Troegs Brewing Co.
+Big Horn Hefeweizen
+
+CB and Potts Restaurant & Brewery
+
+Ebel's Weiss Two Brothers Brewing Co.
+
+tle A-Z
+
+Brewing/Conditioning Process A decoction mash is sometimes used
+
+Alcohol
+
+Mild
+
+Color Straw to Amber
+Clarity Hazy
+Collar of Foam (Head Retention) Good
+
+Country of Origin Germany
+
+Collar of Foam (Texture) Mousse-like
+
+Carbonation (Visual) Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Chèvre
+Entrée Seafood
+Dessert Key Lime Pie
+
+Glass Vase
+
+Hop Aroma/Flavor Hop flavor is not perceived to very low. Hop bitterness is very low
+Malt Aroma/Flavor Malt sweetness is very low to medium-low
+
+Hop Ingredients German Noble
+Malt Ingredients Pilsner, Malted Wheat
+
+Palate Body Mouth-Coating
+
+Palate Carbonation High
+Palate Length/Finish Short
+
+Temperature 40-45°F
+
+Water Varies
+Yeat
+Type Weizen Ale
+
+Phenols Clove
+
+Esters Banana
+
+American Barley Wine
+
+source: CraftBeer.com
+
+tle Famil: trong Ale
+
+American Barley Wine
+
+These ales range from amber to deep red/copper-garnet in color. A caramel and/or toffee aroma and flavor are often part of the
+malt character along with high residual malty sweetness. Complexity of alcohols is evident. Fruity-ester character is often high. As
+with many American versions of a style, this barley wine ale is typically more hop-forward and bitter than its U.K. counterpart.
+Low levels of age-induced oxidation can harmonize with other flavors and enhance the overall experience. Sometimes sold as
+vintage releases.
+
+Quantitative tle tatitic
+
+OG 1.090 - 1.120
+FG 1.024 - 1.028
+ABV 8.5% - 12.2%
+IBU 60 - 100
+
+BU:GU 0.67 - 0.83
+
+SRM 11 - 18
+CO2 Volumes 2 - 2.5
+Apparent Attenuation 73 - 77
+
+U.. Commercial xample
+
+Bigfoot Sierra Nevada Brewing Co.
+
+Old Numbskull AleSmith Brewing Co.
+Barley Wine Ale Dick's Brewing Co.
+
+tle A-Z
+
+Alcohol
+
+Noticeable to Hot
+
+Brewing/Conditioning Process Dry-hopping and aging are common
+Color Amber to Deep Red or Copper-Garnet
+Clarity Clear to Brilliant
+
+Country of Origin United States
+
+Collar of Foam (Head Retention) Poor
+Collar of Foam (Texture) Thin
+
+Carbonation (Visual) Slow to Medium Rising Bubbles
+
+Food Pairing
+
+Cheese Strong Blue Cheeses
+Entrée Beef Cheek
+Dessert Rich Desserts
+
+Glass Snifter
+
+Hop Aroma/Flavor Hop aroma and flavor are medium to very high. Hop bitterness is high.
+
+American-type hops are often used, but not necessary for this style
+
+Malt Aroma/Flavor Caramel, Toffee, Bready, Sweet
+
+Hop Ingredients Magnum, Chinook, Centennial, Amarillo
+Malt Ingredients Pale, Crystal, Pale Chocolate, Special "B"
+
+Palate Body Mouth-Coating to Sticky
+
+Palate Carbonation Low to Medium
+Palate Length/Finish Medium to Long
+
+Temperature 50-55°F
+
+Water Varies
+Yeat
+Type Ale
+
+Phenols Not common to style
+
+Fermentation Byproducts Very low levels of diacetyl may be acceptable
+
+Esters Fruity-ester flavors are often high
+
+American Imperial Red Ale
+
+source: CraftBeer.com
+
+tle Famil: trong Ale
+
+American Imperial Red Ale
+
+The use of American hops in this ale lends to the perception of medium hop bitterness, flavor and aroma. Coupled with a solid
+malt profile, this should be a beer with balance between hop bitterness and malt sweetness. Some breweries will choose to bottle-
+condition this style, leading to possible fruity esters and some haze in their appearance. This is another example of modern
+American brewers taking an established style and boosting the flavor. California brewers are credited with creating this innovative
+style.
+
+Quantitative tle tatitic
+
+OG 1.080 - 1.100
+FG 1.020 - 1.028
+
+ABV 8%-10.6%
+IBU 55 - 85
+
+BU:GU 0.69 - 0.85
+
+SRM 10 - 17
+CO2 Volumes 2 - 2.5
+Apparent Attenuation 72 - 75
+
+U.. Commercial xample
+
+Wreak Havoc Bootstrap Brewing Co.
+
+reDANKulous ­ Backstage Series Raised Grain Brewing Co.
+
+Paradocs Red Imperial IPA Ninkasi Brewing
+
+tle A-Z
+
+Brewing/Conditioning Process Dry-hopping is common
+
+Alcohol
+
+Mild to Noticeable
+
+Country of Origin United States
+Collar of Foam (Head Retention) Poor to Good
+Collar of Foam (Texture) Thin to Fluffy
+
+Carbonation (Visual) Medium Rising Bubbles
+
+Color Deep Amber to Dark Copper or Reddish Brown
+Clarity Slight Haze to Clear. Unfiltered versions: Hazy to Very Cloudy
+
+Food Pairing
+
+Cheese Mozzarella
+Entrée Corned Beef Hash
+Dessert Toffee Pudding
+
+Hop Aroma/Flavor Hop aroma, flavor and bitterness are high but balanced, arising from any variety
+
+Glass Tulip
+
+of hops
+Hop Ingredients Varies
+Malt Aroma/Flavor Medium to high caramel malt character is present
+Malt Ingredients Varies
+Other ingredients Varies
+Palate Body Mouth-Coating
+Palate Carbonation Medium
+Palate Length/Finish Medium to Long
+
+Temperature 50-55°F
+
+Water Varies
+Yeat
+Type Ale
+
+Phenols Not common to style
+
+Esters Medium.
+
+British-Style Barley Wine Ale
+
+source: CraftBeer.com
+
+tle Famil: trong Ale
+
+British-Style Barley Wine Ale
+
+A strong ale that leans heavily on malt characteristics for flavor. With a wide color range and typically high in alcohol, this is a style
+that is often aged and will evolve well over time. As they advance in age, these beers develop oxidative characteristics including
+honey and toffee flavors and aromas, darker colors, lessened bitterness and more.
+
+Quantitative tle tatitic
+
+OG 1.085 - 1.120
+FG 1.024 - 1.028
+ABV 8.5% - 12.0%
+IBU 40 - 60
+
+BU:GU 0.47 - 0.50
+
+SRM 14 - 22
+CO2 Volumes 1.5 - 2
+Apparent Attenuation 72 - 77
+
+U.. Commercial xample
+
+Old Numbskull AleSmith Brewing Co.
+Old Stock Ale North Coast Brewing Co.
+Barley Wine Ale Dick's Brewing Co.
+
+tle A-Z
+
+Noticeable to Hot
+Brewing/Conditioning Process Aging is common
+
+Alcohol
+
+Color Tawny Copper to Deep Red or Copper-Garnet
+Clarity Brilliant to Slight Haze
+
+Country of Origin United Kingdom
+
+Collar of Foam (Head Retention) Poor
+
+Collar of Foam (Texture) Thin to Interrupted
+
+Carbonation (Visual) Slow to Medium Rising Bubbles
+
+Food Pairing
+
+Cheese English Stilton
+Entrée Moroccan Duck
+Dessert Dark Chocolate
+
+Glass Snifter
+
+Hop Aroma/Flavor Hop flavor and aroma are very low to medium. Hop bitterness is low to
+
+medium. English-type hops are often used, but not necessary for this style
+
+Hop Ingredients Kent Goldings, Horizon
+Malt Aroma/Flavor Nutty, Caramel, Biscuit
+Malt Ingredients English Pale, CaraMunich, Crystal
+
+Palate Body Mouth-Coating
+Palate Carbonation Low to Medium
+Palate Length/Finish Varies
+Temperature 50-55°F
+
+Water Varies
+Yeat
+Type Ale
+
+Phenols Not common to style
+
+Esters Fruity-ester characters are often high and balanced with the high alcohol
+
+Fermentation Byproducts Low levels of diacetyl may be acceptable
+
+content
+
+English-Style Old Ale
+
+source: CraftBeer.com
+
+tle Famil: trong Ale
+
+English-Style Old Ale
+
+A distinctive quality of these ales is that their yeast undergoes an aging process (often for years) in bulk storage or through bottle
+conditioning, which contributes to a rich, wine-like and often sweet oxidation character. Old ales are copper-red to very dark in
+color. Complex estery character may emerge.
+
+Quantitative tle tatitic
+
+OG 1.058 - 1.088
+FG 1.014 - 1.030
+ABV 6.3% - 9.1%
+IBU 30 - 65
+
+BU:GU 0.52 - 0.74
+
+SRM 12 - 30
+Apparent Attenuation 66 - 76
+
+CO2 Volumes 2 approximately
+
+U.. Commercial xample
+
+Irish Walker Olde Hickory Brewing
+Heini's Hooch The Church Brew Works
+Curmudgeon Founders Brewing Co.
+
+tle A-Z
+
+Brewing/Conditioning Process Typically mashed at higher temperatures to reduce attenuation. Wood-aged
+
+Alcohol
+
+Noticeable to Hot
+
+notes such as vanillin are acceptable.
+
+Color Copper-Red to Very Dark
+Clarity Opaque
+
+Country of Origin United Kingdom
+Collar of Foam (Head Retention) Poor to Moderate
+Collar of Foam (Texture) Thin to Foamy
+
+Carbonation (Visual) Slow to Medium Rising Bubbles
+
+Food Pairing
+
+Cheese Double Gloucester
+Entrée Roast Beef and Lamb
+Dessert Spiced Plum Walnut Tart
+
+Hop Aroma/Flavor Hop aroma and flavor are not perceived to medium. Hop bitterness is minimal
+
+Glass Snifter
+
+but evident.
+
+Hop Ingredients Kent Goldings
+Malt Aroma/Flavor A malty and sometimes caramel-like sweetness may be evident.
+Malt Ingredients Pale, Chocolate, Black Patent
+Other ingredients Molasses, Treacle, Invert Sugar, Dark Sugar
+Palate Body Moderate to Mouth-Coating
+Palate Carbonation Low to Medium
+Palate Length/Finish Long
+
+Temperature 40-45°F
+
+Water Varies
+Yeat
+Type Ale, Brettanomyces possible
+
+Phenols Not common to style.
+
+Esters Fruit (Varies)
+
+Microorganisms Lactobacillus possible. Horsey, goaty, leathery and phenolic character evolved
+
+from Brettanomyces organisms and acidity may be present but should be at low
+levels and balanced with other flavors.
+
+Fermentation Byproducts Diacetyl is acceptable at very low levels.
+
+source: CraftBeer.com
+
+Belgian-Style Blonde Ale
+
+tle Famil: elgian tle
+
+Belgian-Style Blonde Ale
+
+Typically easy-drinking, with a low but pleasing hop bitterness. This is a light- to medium-bodied ale, with a low malt aroma that
+has a spiced and sometimes fruity-ester character. Sugar is sometimes added to lighten the perceived body. This style is medium in
+sweetness and not as bitter as Belgian-style tripels or golden strong ales. It is usually brilliantly clear. The overall impression is
+balance between light sweetness, spice and low to medium fruity ester flavors.
+
+Quantitative tle tatitic
+
+OG 1.054 - 1.068
+FG 1.008 - 1.015
+ABV 6.3% - 7.9%
+IBU 15 - 30
+
+BU:GU 0.28 - 0.44
+
+SRM 4 - 7
+CO2 Volumes 3 - 4
+
+Apparent Attenuation 78 - 85
+
+U.. Commercial xample
+
+Blonde Allagash Brewing Co.
+
+Tiburon Blonde Marin Brewing Co.
+
+Solid Gold Cannonball Creek Brewing Co.
+
+tle A-Z
+
+Alcohol
+
+Mild to Noticeable
+Color Pale to Light Amber
+Clarity Clear to Brilliant
+
+Country of Origin Belgium
+Collar of Foam (Head Retention) Good
+Collar of Foam (Texture) Foamy
+
+Carbonation (Visual) Medium to Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Brie
+Entrée Sweet and Sour Chicken
+Dessert Angel Food Cake
+
+Glass Tulip
+
+Hop Aroma/Flavor Hop flavor and aroma are not perceived to low. Hop bitterness is very low to low
+Hop Ingredients Hallertau
+Malt Aroma/Flavor Malt aroma and flavor are low
+Malt Ingredients Pilsner, Malted Wheat, Aromatic
+Other ingredients Belgian Candi Sugar (occasionally)
+Palate Body Soft to Moderate
+Palate Carbonation Medium to High
+Palate Length/Finish Short
+
+Temperature 45-50°F
+
+Water Varies
+Yeat
+Type Ale
+
+Phenols Spicy
+
+Esters Low to medium fruity-ester aromas may be present and balanced with light
+
+malt and spice aromas
+
+source: CraftBeer.com
+
+Belgian-Style Dubbel
+
+tle Famil: elgian tle
+
+Belgian-Style Dubbel
+
+Belgian-style dubbels range from brown to very dark in color. They have a malty sweetness and can have cocoa and caramel
+aromas and flavors. Hop bitterness is medium-low to medium. Yeast-generated fruity esters (especially banana) can be apparent.
+Often bottle-conditioned, a slight yeast haze and flavor may be evident. “Dubbel” meaning “double,” this beer is still not so big in
+intensity as to surpass the Belgian-style quadrupel that is often considered its sibling.
+
+Quantitative tle tatitic
+
+OG 1.060 - 1.075
+FG 1.012 - 1.016
+ABV 6.3% - 7.6%
+IBU 20 - 35
+
+BU:GU 0.33 - 0.40
+
+SRM 16 - 36
+Apparent Attenuation 79 - 80
+
+CO2 Volumes 3 - 4
+
+U.. Commercial xample
+
+Brother David's Double Anderson Valley Brewing Co.
+
+Abbey Dubbel Elm City Brewing Co.
+Double Allagash Brewing Co.
+
+tle A-Z
+
+Brewing/Conditioning Process Sometimes extended boiling time results in kettle caramelization. Usually bottle
+
+Alcohol
+
+Mild to Noticeable
+
+conditioned
+
+Color Brown to Very Dark
+Clarity Clear to Slight Haze
+
+Country of Origin Belgium
+Collar of Foam (Head Retention) Good
+Collar of Foam (Texture) Foamy
+
+Carbonation (Visual) Medium to Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Washed-Rind Cheeses
+Entrée Apple-Smoked Sausage
+Dessert Milk Chocolate
+
+Hop Aroma/Flavor Hop aroma and flavor are not perceived to low. Hop bitterness is medium-low
+
+Glass Tulip
+
+to medium
+Hop Ingredients Tettnang
+Malt Aroma/Flavor Chocolate, Caramel, Toast
+Malt Ingredients Pilsner, CaraMunich, Special "B"
+Other ingredients Belgian Candi Sugar, Other Sugars
+Palate Body Mouth-Coating
+Palate Carbonation Medium to High
+Palate Length/Finish Medium
+Temperature 50-55°F
+
+Water Varies
+Yeat
+Type Ale
+
+Phenols Spicy, Pepper, Rose-like, Perfumy
+
+Esters Fruit (Banana)
+
+Fermentation Byproducts Slight yeast haze is often evident when bottle-conditioned
+Belgian-Style Golden Strong Ale
+
+source: CraftBeer.com
+
+Belgian-Style Golden Strong Ale
+
+tle Famil: elgian tle
+
+These beers are fruity, complex and often on the higher end of the ABV spectrum, yet are approachable to many different palates.
+Look for a characteristic spiciness from Belgian yeast and a highly attenuated dry finish. This style is traditionally drier and lighter
+in color than a Belgian-style tripel.
+
+Quantitative tle tatitic
+
+OG 1.064 - 1.096
+FG 1.008 - 1.024
+ABV 7.1% - 11.2%
+IBU 20 - 50
+
+BU:GU 0.31 - 0.52
+
+SRM 3.5 - 10
+Apparent Attenuation 75 - 88
+
+CO2 Volumes 4 approximately
+
+U.. Commercial xample
+
+Pranqster North Coast Brewing Co.
+
+Brooklyn Local 1 Brooklyn Brewery
+Treachery 12Degree Brewing
+
+tle A-Z
+
+Brewing/Conditioning Process Bottle-conditioned
+
+Alcohol
+
+Mild
+
+Color Pale to Copper
+Clarity Clear
+Country of Origin Belgium
+Collar of Foam (Head Retention) Good
+Collar of Foam (Texture) Rocky
+
+Carbonation (Visual) Medium to Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Triple Creme
+Entrée Beer Battered Fried Shrimp
+Dessert Baklava
+
+Glass Tulip
+
+Hop Aroma/Flavor Hop aroma and flavor are medium-low to medium-high. Hop bitterness is
+
+medium-low to medium-high
+
+Hop Ingredients Czech Saaz
+Malt Aroma/Flavor These beers can be malty in overall impression, or dry and highly attenuated
+Malt Ingredients Pilsner
+Other ingredients Cane Sugar. Herbs and spices are sometimes used to delicately flavor these
+
+Palate Body Soft
+
+strong ales
+
+Palate Carbonation Medium to High
+Palate Length/Finish Short to Medium
+
+Temperature 40-45°F
+
+Water Varies
+Yeat
+Type Ale
+
+Phenols Spicy, Pepper
+
+Fermentation Byproducts Diacetyl should be very low, if evident
+
+Esters Fruit (Pear, Orange, Apple)
+
+Belgian-Style Pale Ale
+
+source: CraftBeer.com
+
+tle Famil: elgian tle
+
+Belgian-Style Pale Ale
+
+These pale ales are gold to copper in color and can have caramel or toasted malt flavor. The style is characterized by low but
+noticeable hop bitterness, flavor and aroma. These beers were inspired by British pale ales. They are very sessionable.
+
+Quantitative tle tatitic
+
+OG 1.044 - 1.054
+FG 1.008 - 1.014
+ABV 4.1% - 6.3%
+IBU 20 - 30
+
+BU:GU 0.45 - 0.56
+
+SRM 6 - 12
+Apparent Attenuation 74 - 82
+
+CO2 Volumes 2.5 approximately
+
+U.. Commercial xample
+
+Rare Vos Brewery Ommegang
+
+Saints Devotion The Lost Abbey
+
+Perdition Russian River Brewing Co.
+
+tle A-Z
+
+Alcohol
+
+Not Detectable to Mild
+
+Color Gold to Copper
+Clarity Clear
+
+Collar of Foam (Head Retention) Poor to Moderate
+
+Country of Origin Belgium
+Collar of Foam (Texture) Rocky
+
+Carbonation (Visual) Medium Rising Bubbles
+
+Food Pairing
+
+Cheese Taleggio
+Entrée Tempura Fried Fish and Chips
+Dessert Savory Bread Pudding
+
+Hop Aroma/Flavor Hop aroma and flavor are low but noticeable; noble-type hops are commonly
+
+Glass Tulip
+
+used. Hop bitterness is low but noticeable
+
+Hop Ingredients Kent Goldings
+Malt Aroma/Flavor Caramel, Toast
+Malt Ingredients Pilsner, CaraMunich, Biscuit
+Other ingredients Belgian Candi Sugar (occasionally)
+Palate Body Moderate
+Palate Carbonation Medium
+Palate Length/Finish Short to Medium
+
+Temperature 40-50°F
+
+Water Varies
+Yeat
+Type Ale
+
+Phenols Spicy
+
+Esters Fruit (Pear, Orange)
+
+source: CraftBeer.com
+
+Belgian-Style Quadrupel
+
+tle Famil: elgian tle
+
+Belgian-Style Quadrupel
+
+These beers are amber to dark brown in color. Caramel, dark sugar and malty sweet flavors dominate, with medium-low to
+medium-high hop bitterness. Quads have a relatively light body compared to their alcoholic strength. If aged, oxidative qualities
+should be mild and not distracting. Sometimes referred to as Belgian strong dark.
+
+Quantitative tle tatitic
+
+OG 1.084 - 1.120
+FG 1.014 - 1.020
+ABV 9.1% - 14.2%
+IBU 25 - 50
+
+BU:GU 0.30 - 0.42
+
+SRM 8 - 20
+CO2 Volumes 2.5 - 3
+Apparent Attenuation 83 - 83
+
+U.. Commercial xample
+
+Four Allagash Brewing Co.
+
+The Reverend Avery Brewing Co.
+
+Salvation Russian River Brewing Co.
+
+tle A-Z
+
+Alcohol
+
+Noticeable to Hot
+
+Color Amber to Dark Brown
+Clarity Slight Haze
+
+Country of Origin Belgium
+Collar of Foam (Head Retention) Varies
+
+Collar of Foam (Texture) Mousse-like
+
+Carbonation (Visual) Medium Rising Bubbles
+
+Food Pairing
+
+Cheese Aged Gouda
+Entrée Roasted Duck
+Dessert Bread Pudding
+
+Hop Aroma/Flavor Hop aroma and flavor are not perceived to very low. Hop bitterness is low to
+
+Glass Tulip
+
+Malt Aroma/Flavor Caramel, dark sugar and malty sweet flavors and aromas can be intense, not
+
+cloying, while complementing fruitiness
+
+Hop Ingredients Varies
+
+medium-low
+
+Malt Ingredients Varies
+Palate Body Mouth-Coating
+Palate Carbonation Medium
+Palate Length/Finish Medium to Long
+
+Temperature 50-55°F
+
+Water Varies
+Yeat
+Type Ale
+
+Phenols Clove-like phenolic flavor and aroma should not be evident
+
+Esters Complex fruity flavors reminiscent of raisins, dates, figs, grapes and/or plums
+
+emerge, often accompanied with a hint of wine-like character. Perception of
+alcohol can be extreme
+
+source: CraftBeer.com
+
+Belgian-Style Saison
+
+tle Famil: elgian tle
+
+Belgian-Style Saison
+
+Beers in this category are gold to light amber in color. Often bottle-conditioned, with some yeast character and high carbonation.
+Belgian-style saison may have Brettanomyces or lactic character, and fruity, horsey, goaty and/or leather-like aromas and flavors.
+Specialty ingredients, including spices, may contribute a unique and signature character. Commonly called “farmhouse ales” and
+originating as summertime beers in Belgium, these are not just warm-weather treats. U.S. craft brewers brew them year-round and
+have taken to adding a variety of additional ingredients.
+
+Quantitative tle tatitic
+
+OG 1.040 - 1.080
+FG 1.010 - 1.014
+ABV 4.4% - 8.4%
+IBU 20 - 38
+
+BU:GU 0.50 - 0.50
+
+SRM 4 - 14
+CO2 Volumes 3 - 3.5
+Apparent Attenuation 83 - 75
+
+U.. Commercial xample
+
+Saison Funkwerks
+
+Red Barn The Lost Abbey
+Hennepin Brewery Ommegang
+
+tle A-Z
+
+Brewing/Conditioning Process Often bottle-conditioned, sometimes dry-hopped and fermented at higher
+
+Alcohol
+
+Mild to Noticeable
+
+temperatures
+
+Color Pale to Light Brown
+Clarity Slight Haze
+
+Country of Origin Belgium
+Collar of Foam (Head Retention) Good
+Collar of Foam (Texture) Rocky
+
+Carbonation (Visual) Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Brie
+Entrée Seafood (Mussels)
+Dessert Lemon Ginger Sorbet
+
+Glass Tulip
+
+Hop Aroma/Flavor Hop aroma is low to medium. Hop bitterness is medium to medium-high
+Hop Ingredients Noble, Styrian, East Kent Goldings
+Malt Aroma/Flavor Malt flavor is low but provides foundation for the overall balance
+Malt Ingredients Pilsner, Munich, Malted Wheat
+Other ingredients Simple Sugar, Honey, Spelt. Specialty ingredients (spices, herbs, flowers, fruits,
+
+vegetables, fermentable sugars and carbohydrates, special yeasts of all types,
+wood aging, etc.) may contribute unique and signature character
+
+Palate Body Soft
+Palate Carbonation High
+Palate Length/Finish Short to Medium
+
+Temperature 45-55°F
+
+Water High sulfate content
+Yeat
+Type Ale, Brettanomyces possible
+
+Phenols Pepper
+
+Esters Fruit (Orange, Lemon)
+
+Microorganisms Lactobacillus possible
+
+Fermentation Byproducts A small amount of sour or acidic flavor is acceptable when in balance with other
+
+components. These beers are often bottle-conditioned, with some yeast
+character and high carbonation
+
+source: CraftBeer.com
+
+Belgian-Style Tripel
+
+tle Famil: elgian tle
+
+Belgian-Style Tripel
+
+Complex, sometimes mild spicy flavor characterizes this style. Yeast-driven complexity is common. Tripels are often on the higher
+end of the ABV spectrum, yet are approachable to many different palates. These beers are commonly bottle-conditioned and finish
+dry. Tripels are similar to Belgian-style golden strong ales, but are generally darker and have a more noticeable malt sweetness.
+
+Quantitative tle tatitic
+
+OG 1.070 - 1.092
+FG 1.008 - 1.018
+ABV 7.1% - 10.1%
+IBU 20 - 45
+
+BU:GU 0.29 - 0.49
+
+SRM 4 - 9
+CO2 Volumes 3 - 4
+
+Apparent Attenuation 80 - 89
+
+U.. Commercial xample
+
+Allagash Tripel Allagash Brewing Co.
+
+Tripel Green Flash Brewing Co.
+
+PDA Black Bottle Brewery
+
+tle A-Z
+
+Alcohol
+
+Mild
+
+Color Pale to Light Amber
+Clarity Clear
+Country of Origin Belgium
+Collar of Foam (Head Retention) Good
+Collar of Foam (Texture) Rocky
+
+Carbonation (Visual) Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Triple Creme
+Entrée Roasted Turkey
+Dessert Caramelized Banana Creme Brulee
+
+Hop Aroma/Flavor Hop aroma and flavor are not perceived to low. Hop bitterness is medium to
+
+Glass Tulip
+
+medium-high
+
+Hop Ingredients Tetnang, Czech Saaz
+Malt Aroma/Flavor Low sweetness from very pale malts is present
+Malt Ingredients Belgian Pilsner
+Other ingredients Brewing Sugar (occasionally)
+Palate Carbonation High
+Palate Length/Finish Short to Medium
+
+Palate Body Soft to Mouth-Coating
+
+Temperature 40-45°F
+
+Water Soft Water
+Yeat
+Type Ale
+
+Phenols Complex, sometimes mild spicy flavor. Clove-like phenolic flavor may be
+
+evident at very low levels
+Esters Fruit (Orange, Banana)
+
+Fermentation Byproducts Traditional tripels are bottle-conditioned and may exhibit slight yeast haze, but
+
+the yeast should not be intentionally roused
+
+source: CraftBeer.com
+
+American Cream Ale
+
+tle Famil: Hrid eer
+
+American Cream Ale
+
+This is a mild, pale, light-bodied ale, made using a warm fermentation (top or bottom fermenting yeast) and cold lagering. Despite
+being called an ale, when being judged in competitions it is acceptable for brewers to use lager yeast.
+
+Quantitative tle tatitic
+
+OG 1.044 - 1.052
+FG 1.004 - 1.010
+ABV 4.3% - 5.7%
+IBU 10 - 22
+
+BU:GU 0.23 - 0.42
+
+SRM 2 - 5
+Apparent Attenuation 81 - 91
+
+CO2 Volumes 2.5 approximately
+
+U.. Commercial xample
+
+El Sully 21st Amendment Brewery
+Spotted Cow New Glarus Brewing Co.
+
+Broadway Light Detroit Beer Co.
+
+tle A-Z
+
+Brewing/Conditioning Process Sometimes krausened for carbonation
+
+Alcohol
+
+Not Detectable to Mild
+
+Color Straw to Gold
+Clarity Brilliant
+Country of Origin United States
+
+Collar of Foam (Head Retention) Poor to Moderate
+Collar of Foam (Texture) Thin to Interrupted
+Carbonation (Visual) Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Monterey Jack
+Entrée Salads, Mild Shellfish
+Dessert Lemon Custard Tart
+
+Hop Aroma/Flavor Hop aroma is usually absent, and hop flavor is very low to low. Hop bitterness is
+
+Glass Flute
+
+very low to low
+
+Hop Ingredients Liberty
+Malt Aroma/Flavor Grainy
+Malt Ingredients Pilsner
+Other ingredients Simple Sugar, Maize
+Palate Body Soft
+Palate Carbonation High
+Palate Length/Finish Short
+
+Temperature 40-45°F
+
+Water Varies
+Yeat
+Type Lager or Ale
+
+Phenols Not common to style
+Esters Not common to style.
+
+Fermentation Byproducts Fermentation-derived sulfur character and/or DMS flavor should be extremely
+
+low or absent from this style of beer. Diacetyl flavor should not be perceived
+
+source: CraftBeer.com
+
+French-Style Biere de Garde
+
+tle Famil: Hrid eer
+
+French-Style Biere de Garde
+
+The name translates as “beer for keeping.” This style is popping up more and more from U.S. producers. Blond, amber and brown
+versions exist. Bier de garde examples are light amber to chestnut brown or red in color. This style is characterized by a toasted
+malt aroma and slight malt sweetness. Flavor of alcohol is evident. Often bottle-conditioned, with some yeast character.
+
+Quantitative tle tatitic
+
+OG 1.060 - 1.080
+FG 1.012 - 1.024
+ABV 4.4% - 8.0%
+IBU 20 - 30
+
+BU:GU 0.33 - 0.38
+
+SRM 7 - 16
+CO2 Volumes 2.5 - 3
+Apparent Attenuation 70 - 80
+
+U.. Commercial xample
+
+Domaine DuPage Two Brothers Brewing Co.
+
+Biere De Garde
+
+Schlafly Beer, The Saint Louis Brewery
+
+Avant Garde The Lost Abbey
+
+tle A-Z
+
+Alcohol
+
+Mild to Noticeable
+
+Color Light Amber to Chestnut Brown or Red
+Clarity Clear to Slight Haze
+
+Country of Origin France
+Collar of Foam (Head Retention) Good
+
+Collar of Foam (Texture) Foamy to Rocky
+
+Carbonation (Visual) Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Soft Ripened Cheeses
+Entrée Roasted Lamb with Mint
+Dessert Pecan Pie
+
+Hop Aroma/Flavor Hop aroma and flavor are low to medium, from noble-type hops. Hop bitterness
+
+Glass Tulip
+
+is low to medium
+
+Hop Ingredients Fuggle
+Malt Aroma/Flavor Toast, Caramel, Toffee
+Malt Ingredients CaraVienna, Pilsner, Munich, Black Patent
+Other ingredients Sugar (occasionally)
+Palate Carbonation High
+Palate Length/Finish Short to Medium
+
+Palate Body Soft to Mouth-Coating
+
+Temperature 45-55°F
+
+Water Soft Water
+Yeat
+Type Ale, Brettanomyces possible
+
+Phenols Not common to style
+
+Esters Fruity-ester flavors can be low to medium in intensity
+
+Fermentation Byproducts Diacetyl flavor should not be perceived. May have Brettanomyces yeast-derived
+aromas that are slightly acidic, fruity, horsey, goaty and/or leather-like. Earthy,
+cellar-like, corky and/or musty aromas are acceptable
+
+source: CraftBeer.com
+
+California Common
+
+tle Famil: Hrid eer
+
+California Common
+
+This beer style is brewed with lager yeast but fermented at ale fermentation temperatures. There is a noticeable degree of toasted
+malt and/or caramel-like malt character in flavor and often in aroma. Often referred to as “steam beer” and made famous by San
+Francisco’s Anchor Brewing Company. Seek out woody and mint flavor from the Northern Brewer hops.
+
+Quantitative tle tatitic
+
+OG 1.045 - 1.056
+FG 1.010 - 1.018
+ABV 4.6% - 5.7%
+IBU 35 - 45
+
+BU:GU 0.78 - 0.80
+
+SRM 8 - 15
+CO2 Volumes 2.5 - 3
+Apparent Attenuation 68 - 78
+
+U.. Commercial xample
+
+Anchor Steam Anchor Brewing Co.
+Old Scratch Amber Lager Flying Dog Brewery
+
+2x Steam Southern Tier Brewing Co.
+
+tle A-Z
+
+Brewing/Conditioning Process Cool ale fermentation temperatures used to ferment this lager beer
+
+Alcohol
+
+Not Detectable to Mild
+
+Color Light Amber to Medium Amber
+Clarity Clear
+
+Country of Origin United States
+
+Collar of Foam (Head Retention) Moderate
+
+Collar of Foam (Texture) Foamy
+
+Carbonation (Visual) Medium to Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Feta
+Entrée Pork Loin
+Dessert Bread Pudding
+
+Glass Nonic Pint
+
+Hop Aroma/Flavor Hop flavor is low to medium-low and may present as Woody, Rustic, or Minty.
+
+Hop bitterness is medium to medium-high
+
+Malt Aroma/Flavor Noticeable caramel-type malt flavor should be present
+
+Hop Ingredients Northern Brewer
+Malt Ingredients Pale, Munich, Crystal, Victory, Pale Chocolate
+
+Palate Body Drying
+Palate Carbonation Medium to High
+Palate Length/Finish Short
+
+Temperature 50-55°F
+
+Water Varies
+Yeat
+Type Lager
+
+Phenols Not common to style
+
+Esters Fruity-ester aromas, if present, should be low to medium-low
+
+source: CraftBeer.com
+
+German-Style Brown/Altbier
+
+tle Famil: Hrid eer
+
+German-Style Brown/Altbier
+
+Originally from the Düsseldorf area of Germany, these ales strike a balance between hop and malt flavors and aromas, but can
+have low fruity esters and some peppery and floral hop aromas. Before Germany had lager beer, it had ales. Alt, meaning “old,”
+pays homage to one rebel region in Germany which did not lean into lagering. U.S. producers celebrate the ale revolution
+beautifully with this top-fermented German beer style.
+
+Quantitative tle tatitic
+
+OG 1.044 - 1.052
+FG 1.008 - 1.014
+ABV 4.6% - 5.6%
+IBU 25 - 52
+
+BU:GU 0.57 - 1.00
+
+SRM 11 - 19
+CO2 Volumes 1.5 - 2.5
+Apparent Attenuation 73 - 82
+
+U.. Commercial xample
+
+Deep Roots Red Cypress Brewery
+
+Little Red Cap Grimm Brothers Brewhouse
+Alt Southampton Public House
+
+tle A-Z
+
+Brewing/Conditioning Process A decoction mash is sometimes used. Cooler ale fermentation and lagering is
+
+Alcohol
+
+Not Detectable to Mild
+
+common
+
+Color Copper to Dark Brown
+Clarity Brilliant
+Country of Origin Germany
+
+Collar of Foam (Head Retention) Good
+
+Collar of Foam (Texture) Mousse-like
+
+Carbonation (Visual) Medium to Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Emmental
+Entrée Grilled Salmon
+Dessert Apple Pie
+
+Glass Tulip
+
+Hop Aroma/Flavor Hop flavor is low to medium. Hop bitterness is medium to very high (although
+
+the 25 to 35 IBU range is more normal for the majority of Altbiers from
+Düsseldorf)
+
+Hop Ingredients Spalt, Magnum, Tettnang
+Malt Aroma/Flavor Sweet malt character that may have a rich, biscuity, and/or light caramel flavor
+Malt Ingredients Pilsner, Munich, CaraMunich, Carafa Special II, Aromatic
+Other ingredients Wheat (occasionally)
+Palate Body Soft
+Palate Carbonation Medium to High
+Palate Length/Finish Short
+
+Temperature 45-50°F
+
+Water Moderate carbonate water
+Yeat
+Type Ale
+
+Phenols Not common to style
+
+Esters Fruity-ester flavors, if present, can be low
+
+German-Style Kolsch
+
+source: CraftBeer.com
+
+tle Famil: Hrid eer
+
+German-Style Kolsch
+
+Light in color and malt character, this style’s fermentation process yields a light vinous character which is accompanied by a
+slightly dry, crisp finish. Ale yeast is used for fermentation, though lager yeast is sometimes used in the bottle or final cold-
+conditioning process.
+
+Quantitative tle tatitic
+
+OG 1.042 - 1.048
+FG 1.006 - 1.010
+ABV 4.8% - 5.3%
+IBU 18 - 28
+
+BU:GU 0.43 - 0.58
+
+SRM 3 - 6
+
+CO2 Volumes 2.5 approximately
+
+Apparent Attenuation 79 - 86
+
+U.. Commercial xample
+
+Light of Cologne Ornery Beer Co.
+
+Capital City Kolsch Blind Tiger Brewery & Restaurant
+
+Summer Ale Alaskan Brewing Co.
+
+tle A-Z
+
+Brewing/Conditioning Process Commonly conditioned at colder temperatures (known as 'lagering')
+
+Alcohol
+
+Not Detectable
+
+Color Straw to Gold
+Clarity Brilliant
+Country of Origin Germany
+
+Collar of Foam (Head Retention) Poor
+Collar of Foam (Texture) Thin
+
+Carbonation (Visual) Medium to Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Nutty Cheeses
+Entrée Bratwurst
+Dessert Light Apricot Cake
+
+Hop Aroma/Flavor Hop flavor is low and, if evident, should express noble hop character. Hop
+
+Glass Flute
+
+bitterness is medium
+
+Hop Ingredients German Noble
+Malt Aroma/Flavor Malt character is a very low to low with a soft sweetness
+Malt Ingredients Pilsner, Vienna
+Other ingredients Wheat (occasionally)
+Palate Body Soft
+Palate Carbonation Medium to High
+Palate Length/Finish Short
+
+Temperature 40-45°F
+
+Water Varies
+Yeat
+Type Ale
+
+Phenols Not common to style
+
+Fermentation Byproducts Low-level sulfur notes are acceptable
+
+Esters Light pear, apple or Riesling wine-like fruitiness may be apparent
+
+source: CraftBeer.com
+
+Irish-Style Red
+
+tle Famil: Hrid eer
+
+Irish-Style Red
+
+This is a balanced beer that uses a moderate amount of kilned malts and roasted barley to give the color for which it’s named. With
+a medium hop characteristic on the palate, this typically amber-colored beer is brewed as a lager or ale and can have a medium
+candy-like caramel malt sweetness. This style may contain adjuncts such as corn, rice and sugar, which help dry out the finish and
+lessen the body. It also often contains roasted barley, lending low roasted notes, darker color and possibly creating a tan collar of
+foam. With notes of caramel, toffee and sometimes low-level diacetyl (butter), think of this beer style as a cousin to lightly-toasted
+and buttered bread.
+
+Quantitative tle tatitic
+
+OG 1.040 - 1.048
+FG 1.010 - 1.014
+ABV 4.1% - 4.6%
+IBU 20 - 28
+
+BU:GU 0.50 - 0.58
+
+SRM 11 - 18
+CO2 Volumes 2 - 2.5
+Apparent Attenuation 71 - 75
+
+U.. Commercial xample
+
+Irish Red Glenwood Canyon Brewpub
+
+Conway's Irish Ale Great Lakes Brewing Co.
+
+Brian Boru Old Irish Ale Three Floyds Brewing
+
+tle A-Z
+
+Alcohol
+
+Not Detectable to Mild
+
+Color Copper-Red to Reddish Brown
+Clarity Clear to Hazy
+Collar of Foam (Head Retention) Poor to Good
+
+Country of Origin Ireland
+
+Collar of Foam (Texture) Thin to Interrupted
+
+Carbonation (Visual) Medium to Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Cheddar
+Entrée Roasted Vegetables
+Dessert Poached Pears
+
+Glass Nonic Pint
+
+Hop Aroma/Flavor Hop aroma is not perceived or low. Hop flavor and bitterness are medium
+Malt Aroma/Flavor Low to medium candy-like caramel malt sweetness is present. May have a subtle
+
+Hop Ingredients Kent Goldings
+
+degree of roasted barley or roasted malt character and complexity
+
+Malt Ingredients Pale, Crystal, Roasted Barley
+Other ingredients May contain corn, rice or sugar adjuncts
+Palate Body Soft to Moderate
+Palate Carbonation Medium to High
+Palate Length/Finish Short
+
+Temperature 45-55°F
+
+Water Varies
+Yeat
+Type Lager or Ale
+
+Phenols Not common to style
+
+Esters Low levels of fruity-ester flavor are acceptable
+Fermentation Byproducts Diacetyl should be absent or at very low levels
+American Imperial Porter
+
+source: CraftBeer.com
+
+tle Famil: Porter
+
+American Imperial Porter
+
+Definitively American, these porters should have no roasted barley flavors or strong burnt/black malt character. Medium caramel
+and cocoa-like sweetness is present, with complementing hop character and malt-derived sweetness.
+
+Quantitative tle tatitic
+
+OG 1.080 - 1.100
+FG 1.020 - 1.030
+ABV 7.0% - 12.0%
+IBU 35 - 50
+
+BU:GU 0.44 - 0.50
+
+SRM 40+
+CO2 Volumes 2 - 2.5
+Apparent Attenuation 70 - 75
+
+U.. Commercial xample
+
+Gonzo Imperial Porter Flying Dog Brewery
+
+Northstar Imperial Porter Twisted Pine Brewing Co.
+
+tle A-Z
+
+Alcohol
+
+Noticeable
+
+Color Black
+Clarity Opaque
+
+Country of Origin United States
+
+Collar of Foam (Head Retention) Good
+Collar of Foam (Texture) Foamy
+
+Carbonation (Visual) Medium Rising Bubbles
+
+Food Pairing
+
+Cheese Smoked Gouda
+Entrée Chicken Mole Enchiladas
+Dessert Blondie Butterscotch Brownies
+
+Hop Aroma/Flavor Hop aroma and flavor are low to medium-high. Hop bitterness is medium-low
+
+Glass Tulip
+
+Malt Aroma/Flavor No roasted barley or strong burnt/black malt character should be perceived.
+
+Medium malt, caramel and cocoa-like sweetness is present
+
+Hop Ingredients Varies
+
+to medium
+
+Malt Ingredients Varies
+Palate Body Mouth-Coating
+Palate Carbonation Medium
+Palate Length/Finish Medium to Long
+
+Temperature 50-55°F
+
+Water Varies
+Yeat
+Type Ale
+
+Phenols Not common to style
+
+Esters Ale-like fruity ester flavors should be evident but not overpowering,
+
+complementing hop character and malt-derived sweetness
+
+Fermentation Byproducts Diacetyl should be absent
+
+source: CraftBeer.com
+
+Baltic-Style Porter
+
+tle Famil: Porter
+
+Baltic-Style Porter
+
+A smooth, cold-fermented and cold-lagered beer brewed with lager yeast. Because of its alcoholic strength, it may include very low
+to low complex alcohol flavors and/or lager fruitiness such as berries, grapes and plums (but not banana; ale-like fruitiness from
+warm-temperature fermentation is not appropriate). This style has the malt flavors of a brown porter and the roast of a
+schwarzbier, but is bigger in alcohol and body.
+
+Quantitative tle tatitic
+
+OG 1.072 - 1.092
+FG 1.016 - 1.022
+ABV 7.6% - 9.3%
+IBU 35 - 40
+
+BU:GU 0.47 - 0.49
+
+SRM 40+
+CO2 Volumes 2 - 2.5
+Apparent Attenuation 76 - 78
+
+U.. Commercial xample
+
+Black Eagle Baltic Porter Black Tooth Brewing Co.
+Battle Axe Baltic Porter Fat Head's Brewery
+Siberian Silk La Cumbre Brewing Co.
+
+tle A-Z
+
+Brewing/Conditioning Process Brewed with lager yeast and cold-fermented
+
+Alcohol
+
+Noticeable
+
+Color Very Deep Ruby or Garnet to Black
+Clarity Clear to Opaque
+Country of Origin United Kingdom
+
+Collar of Foam (Head Retention) Good
+Collar of Foam (Texture) Foamy
+
+Carbonation (Visual) Medium Rising Bubbles
+
+Food Pairing
+
+Cheese Aged Gouda
+Entrée Prime Rib
+Dessert Deconstructed S'mores
+
+Glass Tulip
+Hop Ingredients Varies
+
+Hop Aroma/Flavor Hop aroma and flavor are very low. Hop bitterness is low to medium-low
+Malt Aroma/Flavor Distinctive malt aromas of caramelized sugars, licorice, and chocolate-like notes
+
+of roasted malts and dark sugars are present. Roasted dark malts sometimes
+contribute a coffee-like roasted barley aroma. Low smoky aroma from malt may
+be evident. Debittered roasted malts are best used for this style
+
+Malt Ingredients Munich, Vienna, Pilsner, Crystal, Special "B", Carafa Special II, Chocolate
+
+Palate Body Mouth-Coating
+Palate Carbonation Medium
+Palate Length/Finish Medium to Long
+
+Temperature 45-50°F
+
+Water Varies
+Yeat
+Type Lager
+
+Phenols Not common to style
+
+Esters May include very low to low complex alcohol flavors and/or lager fruitiness such
+
+as berries, grapes, plums, but not banana; ale-like fruitiness from warm
+temperature fermentation is not appropriate
+
+Fermentation Byproducts Diacetyl and DMS flavors should not be apparent
+
+source: CraftBeer.com
+
+English-Style Brown Porter
+
+tle Famil: Porter
+
+English-Style Brown Porter
+
+Brown porters have no roasted barley or strong burnt/black malt character. Low to medium malt sweetness, caramel and
+chocolate is acceptable. Hop bitterness is medium. Softer, sweeter and more caramel-like than a robust porter, with less alcohol
+and body. Porters are the precursor style to stouts.
+
+Quantitative tle tatitic
+
+OG 1.040 - 1.050
+FG 1.006 - 1.014
+ABV 4.4% - 6.0%
+IBU 20 - 30
+
+BU:GU 0.50 - 0.60
+
+SRM 30 - 35
+CO2 Volumes 1.5 - 2
+Apparent Attenuation 72 - 85
+
+U.. Commercial xample
+
+Old Tom Porter Piney River Brewing Co.
+Pluff Mud Porter Holy City Brewing Co.
+Taddy Porter Samuel Smith's Brewery
+
+tle A-Z
+
+Alcohol
+
+Mild
+
+Color Dark Brown (may have red tint) to Very Dark
+Clarity Opaque
+Collar of Foam (Head Retention) Moderate
+
+Country of Origin United Kingdom
+
+Collar of Foam (Texture) Foamy
+
+Carbonation (Visual) Slow to Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Gruyere
+Entrée Roasted or Grilled Meats
+Dessert Chocolate Peanut Butter Cookies
+
+Glass Nonic Pint
+
+Hop Aroma/Flavor Hop aroma and flavor are not perceived to medium. Hop bitterness is medium
+Hop Ingredients Fuggles
+Malt Aroma/Flavor Nutty, Chocolate, Caramel, Bready, Toffee
+Malt Ingredients British Pale Ale, Brown, Crystal, Chocolate
+Other ingredients May contain additional sugar sources
+Palate Body Mouth-Coating
+Palate Carbonation Low to High
+Palate Length/Finish Medium to Long
+
+Temperature 50-55°F
+
+Water Moderate carbonate water
+Yeat
+Type Ale
+
+Phenols Not common to style
+
+Esters Fruity esters may be present
+
+source: CraftBeer.com
+
+Robust Porter
+
+tle Famil: Porter
+
+Robust Porter
+
+Often features more bitter and roasted malt flavor than a brown porter, but not quite as much as a stout. Robust porters have a
+roast malt flavor, often reminiscent of cocoa, but no roast barley flavor. Their caramel and malty sweetness is in harmony with the
+sharp bitterness of black malt. Hop bitterness is evident. With U.S. craft brewers doing so much experimentation in beer styles and
+ingredients, the lines between certain stouts and porters are often blurred. Yet many deliberate examples of these styles do exist.
+Diacetyl is acceptable at very low levels.
+
+Quantitative tle tatitic
+
+OG 1.045 - 1.060
+FG 1.008 - 1.016
+ABV 5.1% - 6.6%
+IBU 25 - 40
+
+BU:GU 0.56 - 0.67
+
+SRM 30+
+
+CO2 Volumes 2 - 2.5
+Apparent Attenuation 73 - 82
+
+U.. Commercial xample
+
+Pig Iron Porter Iron Hill Brewery & Restaurant
+
+Moonlight Porter
+
+Rock Bottom Restaurant & Brewery
+
+Black Butte Porter Deschutes Brewery
+
+tle A-Z
+
+Alcohol
+
+Mild
+
+Color Very Dark to Black
+Clarity Opaque
+Country of Origin United Kingdom
+
+Collar of Foam (Head Retention) Good
+Collar of Foam (Texture) Foamy
+
+Carbonation (Visual) Slow to Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Gruyere
+Entrée Roasted or Grilled Meats
+Dessert Chocolate Peanut Butter Cookies
+
+Hop Aroma/Flavor Hop aroma and flavor are very low to medium. Hop bitterness is medium to
+
+Glass Nonic Pint
+
+Hop Ingredients Kent Goldings, Fuggles
+
+high
+
+Malt Aroma/Flavor Grainy, Bready, Toffee, Caramel, Chocolate, Coffee. Caramel and other malty
+
+sweetness is in harmony with the sharp bitterness of black malt, without a
+highly burnt/charcoal flavor
+Malt Ingredients Munich, Crystal, Chocolate, Black Patent
+Other ingredients May contain roasted barley
+Palate Carbonation Low to High
+Palate Length/Finish Medium
+Temperature 50-55°F
+
+Palate Body Mouth-Coating
+
+Water Varies
+Yeat
+Type Ale
+
+Phenols Not common to style
+
+Esters Fruity esters should be evident, balanced with all other characters
+
+Fermentation Byproducts Diacetyl is acceptable at very low levels
+
+source: CraftBeer.com
+
+Smoke Porter
+
+tle Famil: Porter
+
+Smoke Porter
+
+Typically the base for this style is a robust porter that is given smoky depth thanks to wood-smoked malt. Traditionally, brewers
+will cite the specific wood used to smoke the malt, and different woods will lend different flavors to the finished product. Smoke
+flavors dissipate over time.
+
+Quantitative tle tatitic
+
+OG 1.050 - 1.065
+FG 1.010 - 1.018
+ABV 5.1% - 8.9%
+IBU 20 - 40
+
+BU:GU 0.40 - 0.62
+
+SRM 20+
+
+CO2 Volumes Varies
+Apparent Attenuation 72 - 80
+
+U.. Commercial xample
+
+Smoked Porter Alaskan Brewing Co.
+Smoked Porter Stone Brewing Co.
+Smoked Porter Epic Brewing Co.,
+
+tle A-Z
+
+Brewing/Conditioning Process Use of smoked malts is common
+
+Alcohol
+
+Varies
+
+Color Dark Brown to Black
+Clarity Varies
+Collar of Foam (Head Retention) Varies
+Collar of Foam (Texture) Varies
+Carbonation (Visual) Varies
+
+Country of Origin Undetermined
+
+Food Pairing
+
+Cheese Red Dragon Cheddar
+Entrée Grilled Sausage
+Dessert S'mores
+
+Hop Aroma/Flavor Hop aroma and flavor are not perceived to medium. Hop bitterness is medium
+
+Glass Tulip
+
+Hop Ingredients Kent Goldings, Willamette
+
+to medium-high
+
+Malt Aroma/Flavor Black malt character can be perceived in some porters, while others may be
+absent of strong roasted character. Medium to high malt sweetness, caramel
+and chocolate are acceptable
+
+Malt Ingredients Crystal, Chocolate, Black Patent
+Other ingredients Common woods used by U.S. craft brewers to smoke a variety of malts: Apple,
+
+Alder, Beech, Cherry, Hickory, Mesquite, Oak
+
+Palate Body Soft
+
+Palate Carbonation Low to High
+Palate Length/Finish Medium to Long
+
+Temperature 50-55°F
+
+Water Varies
+Yeat
+Type Ale
+
+Phenols Not common to style
+
+Esters Fruity-ester aroma is acceptable. A mild to assertive smoke malt aroma will be
+
+in balance with other aroma characters
+
+American Imperial Stout
+
+source: CraftBeer.com
+
+tle Famil: tout
+
+American Imperial Stout
+
+American-style imperial stouts are the strongest in alcohol and body of the stouts. Black in color, these beers typically have an
+extremely rich malty flavor and aroma with full, sweet malt character. Bitterness can come from roasted malts or hop additions.
+
+Quantitative tle tatitic
+
+OG 1.080 - 1.100
+FG 1.020 - 1.030
+ABV 7.0% - 12.0%
+IBU 50 - 80
+
+BU:GU 0.62 - 0.80
+
+SRM 40+
+CO2 Volumes 2 - 2.5
+Apparent Attenuation 70 - 75
+
+U.. Commercial xample
+
+Gatling Gun Imperial Stout BNS Brewing & Distilling Co.
+
+Anastasia Russian Imperial Stout Weasel Boy Brewing Co.
+Iron Triangle Jawbone Iron Triangle Brewing Co.
+
+tle A-Z
+
+Alcohol
+
+Noticeable
+
+Color Black
+Clarity Opaque
+Collar of Foam (Head Retention) Moderate
+
+Country of Origin United Kingdom
+
+Collar of Foam (Texture) Foamy
+
+Carbonation (Visual) Slow to Medium Rising Bubbles
+
+Food Pairing
+
+Cheese Aged Cheeses
+Entrée Foie Gras
+Dessert Flour-less Chocolate Cake
+
+Glass Snifter
+
+Hop Aroma/Flavor Hop aroma and flavor are medium-high to high, with floral, citrus and/or
+
+herbal hop aromas. Hop bitterness is medium-high to very high and balanced
+with the malt character
+Hop Ingredients Horizon, Kent Goldings
+Malt Ingredients Pale, Black Roasted Barley, Special "B", CaraMunich, Chocolate, Pale Chocolate
+
+Malt Aroma/Flavor Bittersweet Chocolate, Cocoa, Coffee
+
+Palate Body Mouth-Coating
+Palate Carbonation Low to Medium
+Palate Length/Finish Long
+
+Temperature 50-55°F
+
+Water Varies
+Yeat
+Type Ale
+
+Phenols Not common to style
+
+Esters Fruity esters are generally high
+
+source: CraftBeer.com
+
+American Stout
+
+tle Famil: tout
+
+American Stout
+
+A coffee- and chocolate-forward ale, but with a hop aroma and flavor, often from a citrus-forward variety. American stouts are
+bold, with a distinctive dry-roasted bitterness in the finish. Fruity esters should be low, but head retention high. The addition of
+oatmeal is acceptable in this style and lends to the body and head retention.
+
+Quantitative tle tatitic
+
+OG 1.050 - 1.075
+FG 1.010 - 1.022
+ABV 5.7% - 8.9%
+IBU 35 - 60
+
+BU:GU 0.70 - 0.80
+
+SRM 40+
+CO2 Volumes 2.5 - 3
+Apparent Attenuation 71 - 80
+
+U.. Commercial xample
+
+Shakespeare Stout Rogue Ales
+
+Obsidian Stout Deschutes Brewery
+
+Black Cliffs Boise Brewing
+
+tle A-Z
+
+Brewing/Conditioning Process Additional ingredients such as coffee, chocolate, vanilla beans, cherries are
+
+Alcohol
+
+Mild to Noticeable
+
+common, as is oak aging
+
+Color Black
+Clarity Clear to Opaque
+
+Country of Origin United States
+
+Collar of Foam (Head Retention) Good
+Collar of Foam (Texture) Foamy
+
+Carbonation (Visual) Slow to Medium Rising Bubbles
+
+Food Pairing
+
+Cheese Sharp Cheddar
+Entrée Grilled Lamb
+Dessert Coffee Cake
+
+Glass Tulip
+
+Hop Aroma/Flavor Hop aroma and flavor are medium to high, often with American citrus-type
+
+and/or resiny hop aromas. Hop bitterness is medium to high
+
+Hop Ingredients Horizon, Centennial
+
+Malt Aroma/Flavor Low to medium malt sweetness with low to medium caramel, chocolate, and/or
+roasted coffee flavor is present, with a distinctive dry-roasted bitterness in the
+finish. The contribution of roasted barley and roasted malt to astringency is low
+and not excessive. Slight roasted malt acidity is acceptable
+
+Malt Ingredients Pale, Black Roasted Barley, Chocolate, Crystal
+Other ingredients Oats (occasionally)
+Palate Body Mouth-Coating
+Palate Carbonation Low to Medium
+Palate Length/Finish Medium to Long
+
+Temperature 50-55°F
+
+Water Varies
+Yeat
+Type Ale
+
+Phenols Not common to style
+
+Esters Fruity-esters flavors are low, if present
+
+source: CraftBeer.com
+
+English-Style Oatmeal Stout
+
+tle Famil: tout
+
+English-Style Oatmeal Stout
+
+The addition of oatmeal adds a smooth, rich body to these beers. Oatmeal stouts are dark brown to black in color. Roasted malt
+character is caramel-like and chocolate-like, and should be smooth and not bitter. Coffee-like roasted barley and malt aromas are
+prominent. This low- to medium-alcohol style is packed with darker malt flavors and a rich and oily body from oatmeal.
+
+Quantitative tle tatitic
+
+OG 1.038 - 1.056
+FG 1.008 - 1.020
+ABV 3.8% - 6.1%
+IBU 20 - 40
+
+BU:GU 0.53 - 0.71
+
+SRM 20+
+CO2 Volumes 2 - 2.5
+Apparent Attenuation 64 - 79
+
+U.. Commercial xample
+
+Stagecoach Stout Figueroa Mountain Brewing Co.
+Back Road Stout Millstream Brewing Co.
+Velvet Merlin Firestone Walker Brewing Co.
+
+tle A-Z
+
+Alcohol
+
+Mild
+
+Color Dark Brown to Black
+Clarity Opaque
+
+Country of Origin United Kingdom
+
+Collar of Foam (Head Retention) Good
+Collar of Foam (Texture) Foamy
+
+Carbonation (Visual) Slow to Medium Rising Bubbles
+
+Food Pairing
+
+Cheese Aged Cheddar
+Entrée Chicken in Mole Sauce
+Dessert Sweet Potato Cheesecake
+
+Hop Aroma/Flavor Hop aroma and flavor are optional, but should not overpower the overall
+
+Glass Nonic Pint
+
+Hop Ingredients Kent Goldings
+
+balance if present. Hop bitterness is medium
+
+Malt Aroma/Flavor Coffee-like roasted barley and roasted malt aromas are prominent. Caramel-like
+
+and chocolate-like roasted malt aroma should be evident
+
+Malt Ingredients Pale, Flaked Oats, Chocolate, Victory, Crystal, Black Roasted Barley
+Other ingredients Oats
+Palate Body Mouth-Coating
+Palate Carbonation Low to Medium
+Palate Length/Finish Medium
+Temperature 50-55°F
+
+Water Varies
+Yeat
+Type Ale
+
+Phenols Not common to style
+
+Fermentation Byproducts Diacetyl should be absent or at extremely low levels
+
+Esters Fruity ester flavors are very low
+
+English-Style Sweet Stout (Milk Stout)
+
+source: CraftBeer.com
+
+English-Style Sweet Stout (Milk Stout)
+
+tle Famil: tout
+
+Sweet stout, also referred to as cream stout or milk stout, is black in color. Malt sweetness, chocolate and caramel should dominate
+the flavor profile and contribute to the aroma. It also should have a low to medium-low roasted malt/barley-derived bitterness.
+Milk sugar (lactose) lends the style more body. This beer does use lactose sugar, so people with an intolerance should probably
+avoid this style.
+
+Quantitative tle tatitic
+
+OG 1.045 - 1.056
+FG 1.012 - 1.020
+ABV 3.2% - 6.3%
+IBU 15 - 25
+
+BU:GU 0.33 - 0.45
+
+SRM 40+
+CO2 Volumes 1.5 - 2
+Apparent Attenuation 64 - 73
+
+U.. Commercial xample
+
+Milk Stout Left Hand Brewing Co.
+Udder Love Beachwood Brewery & BBQ
+
+Samuel Adams Cream Stout Boston Beer Co.
+
+tle A-Z
+
+Alcohol
+
+Mild
+Color Black
+Clarity Opaque
+
+Country of Origin United Kingdom
+
+Collar of Foam (Head Retention) Good
+Collar of Foam (Texture) Foamy
+
+Carbonation (Visual) Slow to Medium Rising Bubbles
+
+Food Pairing
+
+Cheese Buttery Cheddar
+Entrée Mexican Mole, Spicy BBQ
+Dessert Chocolate Cake, Ice Cream
+
+Glass Nonic Pint
+
+Hop Aroma/Flavor Hop aroma and flavor are not perceived. Hop bitterness is low to medium-low
+and serves to balance and suppress some of the sweetness without contributing
+apparent flavor nor aroma
+
+Hop Ingredients Kent Goldings
+
+Malt Aroma/Flavor Malt sweetness, chocolate, and caramel should dominate the flavor profile. Malt
+
+bitterness is low to medium-low and derived from roasted malt or barley
+
+Malt Ingredients British Pale Ale, Black Patent, Pale Chocolate, Crystal
+Other ingredients Lactose
+Palate Body Mouth-Coating
+Palate Carbonation Low to Medium
+Palate Length/Finish Medium
+Temperature 50-55°F
+
+Water High carbonate water
+Yeat
+Type Ale
+
+Phenols Not common to style
+
+Esters Fruity ester flavors are low, if present
+
+Irish-Style Dry Stout
+
+source: CraftBeer.com
+
+tle Famil: tout
+
+Irish-Style Dry Stout
+
+Dry stouts are black. These beers achieve a dry-roasted character through the use of roasted barley. The emphasis on coffee-like
+roasted barley and a moderate degree of roasted malt aromas define much of the character. Hop bitterness is medium to medium
+high. This beer is often dispensed via nitrogen gas taps that lend a smooth, creamy body to the palate.
+
+Quantitative tle tatitic
+
+OG 1.038 - 1.048
+FG 1.008 - 1.012
+ABV 4.2% - 5.3%
+IBU 30 - 40
+
+BU:GU 0.79 - 0.83
+
+SRM 40+
+CO2 Volumes 1 - 1.5
+Apparent Attenuation 75 - 79
+
+U.. Commercial xample
+
+Blarney Sisters Dry Irish Stout Third Street Aleworks
+Seaside Stout Pizza Port Brewing Co.
+O.V.L. Stout Russian River Brewing Co.
+
+tle A-Z
+
+Alcohol
+
+Not Detectable
+
+Color Black
+Clarity Clear to Opaque
+Country of Origin Ireland
+Collar of Foam (Head Retention) Good
+Collar of Foam (Texture) Foamy
+
+Carbonation (Visual) Slow to Medium Rising Bubbles
+
+Food Pairing
+
+Cheese Irish Cheddar
+Entrée Seafood (Oysters), Ham
+Dessert Chocolate Desserts
+
+Hop Aroma/Flavor Hop aroma and flavor are are not perceived to low, from European-type hops.
+
+Glass Nonic Pint
+
+Hop Ingredients Kent Goldings
+
+Hop bitterness is medium to medium high
+
+Malt Aroma/Flavor Dry stouts achieve a dry-roasted character through the use of roasted barley.
+
+Initial malt and light caramel flavors give way to a distinctive dry-roasted
+bitterness in the finish. Emphasis of coffee-like roasted barley and a moderate
+degree of roasted malt flavors define much of the character
+
+Malt Ingredients British Pale Ale, Flaked Barley, Black Roasted Barley
+
+Palate Body Soft to Mouth-Coating
+
+Palate Carbonation Low to Medium
+Palate Length/Finish Short to Medium
+
+Temperature 50-55°F
+
+Water Moderate carbonate water
+Yeat
+Type Ale
+
+Phenols Not common to style.
+
+Esters Fruity esters are minimal and overshadowed by malt, high hop bitterness and
+
+Fermentation Byproducts Diacetyl should be very low, if evident
+
+roasted barley character
+
+German-Style Bock
+
+source: CraftBeer.com
+
+tle Famil: ock
+
+German-Style Bock
+
+Traditional bocks are all-malt brews and are high in malt sweetness. Malt character should be a balance of sweetness and toasted
+or nut-like malt. “Bock” translates as “goat”!
+
+Quantitative tle tatitic
+
+OG 1.066 - 1.074
+FG 1.018 - 1.024
+ABV 6.3% - 7.6%
+IBU 20 - 30
+
+BU:GU 0.30 - 0.41
+
+SRM 20 - 30
+Apparent Attenuation 68 - 73
+
+CO2 Volumes 2.5 approximately
+
+U.. Commercial xample
+
+Troegenator Double Bock Troegs Brewing Co.
+
+Butt Head Bock Tommyknocker Brewery & Pub
+Rockefeller Bock Great Lakes Brewing Co.
+
+tle A-Z
+
+Brewing/Conditioning Process A decoction mash is commonly used
+
+Alcohol
+
+Mild to Noticeable
+
+Color Dark Brown to Very Dark
+Clarity Clear
+Collar of Foam (Head Retention) Good
+Collar of Foam (Texture) Foamy
+
+Country of Origin Germany
+
+Carbonation (Visual) Slow to Medium Rising Bubbles
+
+Food Pairing
+
+Cheese Aged Swiss
+Entrée Grilled Rib-Eye
+Dessert Chocolate
+
+Hop Aroma/Flavor Hop flavor is low. Hop bitterness is perceived as medium, increasing
+
+Glass Tulip
+
+proportionately with starting gravity
+
+Malt Aroma/Flavor High malt character with aromas of toasted or nut-like malt, but not caramel
+
+Hop Ingredients German Noble
+Malt Ingredients Pilsner, Munich, CaraMunich, Meussdoerffer Rost, Melanoidin
+
+Palate Body Soft
+
+Palate Carbonation Low to Medium
+Palate Length/Finish Short to Medium
+
+Temperature 45-50°F
+
+Water Moderate carbonate water
+Yeat
+Type Lager
+
+Phenols Not common to style.
+
+Esters Fruity-ester aromas should be minimal, if present
+
+source: CraftBeer.com
+
+German-Style Doppelbock
+
+tle Famil: ock
+
+German-Style Doppelbock
+
+“Doppel” meaning “double,” this style is a bigger and stronger version of the lower-gravity German-style bock beers. Originally
+made by monks in Munich, this style is very food-friendly and rich in mellanoidins reminiscent of toasted bread. Color is copper to
+dark brown. Malty sweetness is dominant but should not be cloying. Malt character is more reminiscent of fresh and lightly
+toasted Munich-style malt, more so than caramel or toffee malt. Doppelbocks are full-bodied, and alcoholic strength is on the
+higher end.
+
+Quantitative tle tatitic
+
+OG 1.074 - 1.080
+FG 1.014 - 1.020
+ABV 6.6% - 7.9%
+IBU 17 - 27
+
+BU:GU 0.23 - 0.34
+
+SRM 12 - 30
+Apparent Attenuation 75 - 81
+
+CO2 Volumes 2.5 approximately
+
+U.. Commercial xample
+
+Samuel Adams Double Bock Boston Beer Co.
+
+Uber Bock Great Dane Pub & Brewing Co.
+Consecrator Bell's Brewery, Inc.
+
+tle A-Z
+
+Brewing/Conditioning Process A decoction mash is commonly used
+
+Alcohol
+
+Mild to Noticeable
+
+Color Copper to Dark Brown
+Clarity Clear
+Collar of Foam (Head Retention) Good
+Collar of Foam (Texture) Foamy
+
+Country of Origin Germany
+
+Carbonation (Visual) Slow to Medium Rising Bubbles
+
+Food Pairing
+
+Cheese Strong Cheeses
+Entrée Pork or Ham
+Dessert German Chocolate Cake
+
+Glass Tulip
+
+Hop Aroma/Flavor Hop aroma should be absent. Hop flavor and bitterness are low
+Malt Aroma/Flavor Dominant aromas are reminiscent of fresh and lightly toasted Munich-style
+
+Hop Ingredients German Noble
+
+malt, more so than caramel or toffee. Some elements of caramel and toffee can
+be evident in aroma and contribute to complexity, but the predominant malt
+aroma is an expression of toasted barley
+
+Malt Ingredients Pilsner, Munich, Vienna, CaraMunich
+
+Palate Body Soft
+
+Palate Carbonation Low to Medium
+Palate Length/Finish Medium
+Temperature 45-50°F
+
+Water Varies
+Yeat
+Type Lager
+
+Phenols Not common to style
+Esters Prune, Plum, Grape
+
+German-Style Maibock
+
+source: CraftBeer.com
+
+tle Famil: ock
+
+German-Style Maibock
+
+Sometimes also called “heller bock” (meaning “pale bock”), this style is paler in color and more hop-centric than traditional bock
+beers. A lightly toasted and/or bready malt character is often evident.
+
+Quantitative tle tatitic
+
+OG 1.066 - 1.074
+FG 1.012 - 1.020
+ABV 6.3% - 8.1%
+IBU 20 - 38
+
+BU:GU 0.30 - 0.51
+
+SRM 4 - 9
+
+CO2 Volumes 2.5 approximately
+
+Apparent Attenuation 73 - 82
+
+U.. Commercial xample
+
+Elixir Maibock Abita Brewery
+
+Maibock Mad Fox Brewing Co.
+Maibock Smuttynose Brewing Co.
+
+tle A-Z
+
+Brewing/Conditioning Process A decoction mash is commonly used
+
+Alcohol
+
+Mild to Noticeable
+
+Color Pale to Light Amber
+Clarity Clear
+Collar of Foam (Head Retention) Good
+Collar of Foam (Texture) Foamy
+
+Country of Origin Germany
+
+Carbonation (Visual) Medium to Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Swiss
+Entrée Ham
+Dessert White Chocolate Cheesecake
+
+Hop Aroma/Flavor Hop aroma and flavor are low to medium low, deriving from noble-type hops.
+
+Glass Goblet
+
+Hop Ingredients German Noble
+
+Hop bitterness is low
+
+Malt Aroma/Flavor A lightly toasted and/or bready malt aroma is often evident. Roasted or heavy
+
+toast/caramel malt aromas should be absent
+
+Malt Ingredients Pilsner, Munich, Vienna
+
+Palate Body Soft
+
+Palate Carbonation Medium to High
+Palate Length/Finish Short to Medium
+
+Temperature 45-55°F
+
+Water Varies
+Yeat
+Type Lager
+
+Phenols Not common to style
+
+Esters Fruity-ester flavors may be low, if present
+
+source: CraftBeer.com
+
+German-Style Weizenbock
+
+tle Famil: ock
+
+German-Style Weizenbock
+
+This beer is a wheat version of a German-style bock, or a bigger and beefier dunkelweizen. Malt mellanoidins and weizen ale yeast
+are the star ingredients. If served with yeast, the appearance may appropriately be very cloudy.With flavors of bready malt and
+dark fruits like plum, raisin, and grape, this style is low on bitterness and high on carbonation. Balanced clove-like phenols and
+fruity, banana-like esters produce a well-rounded aroma.
+
+Quantitative tle tatitic
+
+OG 1.066 - 1.080
+FG 1.016 - 1.028
+ABV 7.0% - 9.5%
+IBU 15 - 35
+
+BU:GU 0.23 - 0.44
+
+SRM 4.5 - 30
+CO2 Volumes 2.5 - 3
+Apparent Attenuation 65 - 76
+
+U.. Commercial xample
+
+Glockenspiel Weizenbock Great Lakes Brewing Co.
+
+Moonglow Victory Brewing Co.
+
+Weizenbock AleSmith Brewing Co.
+
+tle A-Z
+
+Brewing/Conditioning Process A decoction mash is commonly used. Unfiltered and yeasty
+
+Alcohol
+
+Mild to Noticeable
+
+Color Gold to Very Dark
+Clarity Hazy
+Collar of Foam (Head Retention) Good
+
+Country of Origin Germany
+
+Collar of Foam (Texture) Mousse-like
+
+Carbonation (Visual) Medium to Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Manchego
+Entrée Chicken and Dumplings
+Dessert Banana Bread
+
+Glass Tulip
+
+Hop Ingredients German Noble
+
+Hop Aroma/Flavor Hop aroma is not perceived. Hop bitterness is low
+Malt Aroma/Flavor Nutmeg, vanilla, caramel, plums, prunes, raisins, grapes and cocoa, with rum
+and brandy flavors to boot. Medium malty sweetness is present. If dark, a mild
+roasted malt aroma and flavor should emerge
+
+Malt Ingredients Malted Wheat, Munich, Special "B", Crystal, Pale Chocolate
+
+Palate Body Moderate to Mouth-Coating
+
+Palate Carbonation Medium
+Palate Length/Finish Medium to Long
+
+Temperature 45-55°F
+
+Water Varies
+Yeat
+Type Weizen Ale
+
+Phenols Clove
+
+Fermentation Byproducts If served with yeast, appearance may appropriately be very cloudy
+
+Esters Fruity-ester and banana-like elements
+
+Scotch Ale/Wee Heavy
+
+source: CraftBeer.com
+
+tle Famil: cottih-tle Ale
+
+Scotch Ale/Wee Heavy
+
+Scotch ales are overwhelmingly malty, with a rich and dominant sweet malt flavor and aroma. A caramel character is often part of
+the profile. Some examples feature a light smoked peat flavor. This style could be considered the Scottish version of an English-
+style barley wine. Overly smoked versions would be considered specialty examples.
+
+Quantitative tle tatitic
+
+OG 1.072 - 1.085
+FG 1.016 - 1.028
+ABV 6.6% - 8.5%
+IBU 25 - 35
+
+BU:GU 0.35 - 0.41
+
+SRM 15 - 30
+CO2 Volumes 2 - 2.5
+Apparent Attenuation 67 - 78
+
+U.. Commercial xample
+
+Wee Heavy Dry Dock Brewing Co.
+Way Heavy Pizza Port Brewing Co.
+Real Heavy Real Ale Brewing Co.
+
+tle A-Z
+
+Brewing/Conditioning Process Traditionally, cooler ale fermentation temperatures were common
+
+Alcohol
+
+Noticeable to Hot
+
+Color Light Reddish Brown to Very Dark
+Clarity Clear
+
+Country of Origin Scotland / United Kingdom
+
+Collar of Foam (Head Retention) Moderate
+
+Collar of Foam (Texture) Thin
+
+Carbonation (Visual) Medium Rising Bubbles
+
+Food Pairing
+
+Cheese Pungent Cheeses
+Entrée Variety of Meats and Game
+Dessert Creamy Desserts with Fruit
+
+Glass Thistle
+
+Hop Ingredients Kent Goldings
+
+Hop Aroma/Flavor Hop aroma and flavor are not perceived. Hop bitterness is low but perceptible
+Malt Aroma/Flavor Dominated by a smooth, balanced sweet maltiness. Will also have a medium
+Malt Ingredients British Pale Ale, Crystal, Honey, Pale Chocolate, Munich and even Roasted
+
+degree of malty, caramel-like aroma and flavor
+
+Palate Body Mouth-Coating
+
+Barley
+Palate Carbonation Medium
+Palate Length/Finish Medium
+Temperature 50-55°F
+
+Water Soft Water (occasionally)
+Yeat
+Type Ale
+
+Phenols Not common to style
+
+Esters Plums, Raisin, Dried Fruit. A peaty/smoky character may be evident at low
+Fermentation Byproducts Yeast characters such as diacetyl and sulfur are acceptable at very low levels
+
+levels
+
+Scottish-Style Ale
+
+source: CraftBeer.com
+
+tle Famil: cottih-tle Ale
+
+Scottish-Style Ale
+
+Scottish-style ales vary depending on strength and flavor, but in general retain a malt-forward character with some degree of
+caramel-like malt flavors and a soft and chewy mouthfeel. Some examples feature a light smoked peat flavor. Hops do not play a
+huge role in this style. The numbers commonly associated with brands of this style (60/70/80 and others) reflect the Scottish
+tradition of listing the cost, in shillings, of a hogshead (large cask) of beer. Overly smoked versions would be considered specialty
+examples. Smoke or peat should be restrained.
+
+Quantitative tle tatitic
+
+OG 1.030 - 1.050
+FG 1.006 - 1.018
+ABV 2.8% - 5.3%
+IBU 9 - 25
+
+BU:GU 0.30 - 0.50
+
+SRM 6 - 15
+CO2 Volumes 1.5 - 2
+Apparent Attenuation 64 - 80
+
+U.. Commercial xample
+
+Scottish Ale Campbell Brewing Co.
+Wee Heavy Maui Brewing Co.
+Kilt Lifter Four Peaks Brewery
+
+tle A-Z
+
+Brewing/Conditioning Process High-temperature mash is common to emphasize a more dextrinous wort,
+
+Alcohol
+
+Not Detectable to Mild
+
+lending bigger body and mouthfeel and decreasing fermentable sugars.
+Traditionally, cooler ale fermentation temperatures were common.
+
+Color Golden to Dark Chestnut or Brown
+Clarity Clear
+
+Country of Origin Scotland / United Kingdom
+
+Collar of Foam (Head Retention) Moderate
+
+Collar of Foam (Texture) Foamy
+
+Carbonation (Visual) Slow to Medium Rising Bubbles
+
+Food Pairing
+
+Cheese Pungent Cheeses
+Entrée Variety of Meats and Game
+Dessert Creamy Desserts with Fruit
+
+Glass Thistle
+
+Hop Aroma/Flavor Hop aroma and flavor are not perceived. Hop bitterness is low.
+Hop Ingredients Kent Goldings
+Malt Aroma/Flavor Caramel, Toffee
+Malt Ingredients British Pale Ale, Crystal, Honey, Pale Chocolate, Munich and even Roasted
+Other ingredients Wheat Malt, Sugar (occasionally)
+Palate Body Soft
+Palate Carbonation Low to Medium
+Palate Length/Finish Short
+
+Barley
+
+Temperature 50-55°F
+
+Water High carbonate water
+Yeat
+Type Ale
+
+Phenols Peaty, Earthy, Smoky
+Esters Not common to style.
+
+Fermentation Byproducts Diacetyl and sulfur are acceptable at very low levels.
+
+source: CraftBeer.com
+
+American Brett
+
+tle Famil: Wild/our eer
+
+American Brett
+
+These unique beers vary in color and can take on the hues of added fruits or other ingredients. Horsey, goaty, leathery, phenolic
+and some fruity acidic character derived from Brettanomyces organisms may be evident, but in balance with other components of
+the beer. Brett beer and sour beer are not synonymous.
+
+Quantitative tle tatitic
+
+OG Varies
+FG Varies
+ABV Varies
+IBU Varies
+BU:GU Varies
+SRM Varies
+CO2 Volumes Varies
+Apparent Attenuation Varies
+
+U.. Commercial xample
+
+Touch of Brett Alesong Brewing & Blending
+Dreamy Thing Cerebral Brewing
+Brett Saison Ardent Craft Ales
+
+tle A-Z
+
+Brewing/Conditioning Process Wood vessels may be used during the fermentation and aging process. Blending
+
+Alcohol
+
+Varies
+
+is also common
+
+Color Varies
+Clarity Varies
+Collar of Foam (Head Retention) Varies
+Collar of Foam (Texture) Varies
+Carbonation (Visual) Varies
+
+Country of Origin United States
+
+Food Pairing
+
+Cheese Earthy Farmhouse Cheeses
+Entrée Grilled or Roasted Game
+Dessert Fruit-Filled Pastries
+
+Glass Tulip
+Hop Aroma/Flavor Hop aroma, flavor and bitterness are evident over a full range from low to high
+Hop Ingredients Varies
+Malt Aroma/Flavor Varies
+Malt Ingredients Varies
+Other ingredients Fruit (occasionally)
+Palate Body Varies
+Palate Carbonation Low to High
+Palate Length/Finish Varies
+Temperature 45-55°F
+
+Water Varies
+Yeat
+Type Brettanomyces, Ale/Lager possible
+
+Phenols Can be present
+Esters Can be present
+
+Microorganisms Brettanomyces possible
+
+source: CraftBeer.com
+
+American Sour
+
+tle Famil: Wild/our eer
+
+American Sour
+
+The acidity present in these beers is usually in the form of lactic, acetic and other organic acids naturally developed with acidified
+malt in the mash, or produced during fermentation by the use of various microorganisms. These beers may derive their sour flavor
+from pure cultured forms of souring agents or from the influence of barrel aging.
+
+Quantitative tle tatitic
+
+OG Varies
+FG Varies
+ABV Varies
+IBU Varies
+BU:GU Varies
+SRM Varies
+CO2 Volumes Varies
+Apparent Attenuation Varies
+
+U.. Commercial xample
+
+Excommunication, Forte Cerise
+Max Lager's Wood-Fired Grill & Brewery
+
+Ching Ching Bend Brewing Co.
+
+tle A-Z
+
+Queen of Tarts Karl Strauss Brewing Co.
+
+Brewing/Conditioning Process Wood vessels may be used during the fermentation and aging process, but
+
+Alcohol
+
+Varies
+
+wood-derived flavors such as vanillin must not be present
+
+Color Any range of color, and may take on the color of other ingredients
+Clarity Varies
+Collar of Foam (Head Retention) Varies
+Collar of Foam (Texture) Varies
+Carbonation (Visual) Varies
+
+Country of Origin United States
+
+Food Pairing
+
+Cheese Strongly Flavored Cheeses
+Entrée Varies
+Dessert Creamy Desserts with Fruit
+
+Glass Goblet
+Hop Ingredients Varies
+
+Hop Aroma/Flavor Hop aroma, flavor and bitterness are evident over a full range from low to high
+Malt Aroma/Flavor In darker versions, roasted malt, caramel-like and chocolate-like aromas are
+
+subtly present
+
+Malt Ingredients Varies
+Other ingredients Varies
+Palate Body Varies
+Palate Carbonation Low to High
+Palate Length/Finish Varies
+Temperature 40-50°F
+
+Water Varies
+Yeat
+Type Ale, Brettanomyces possible
+
+Phenols Can be present.
+
+Esters Moderate to intense, yet balanced, fruity ester aromas are evident
+Fermentation Byproducts Bacteria- and yeast-induced haze are acceptable at any temperature
+
+Microorganisms Lactobacillus
+
+source: CraftBeer.com
+
+Belgian-Style Flanders
+
+tle Famil: Wild/our eer
+
+Belgian-Style Flanders
+
+An ale with character and balance, thanks to lactic sourness and acetic acid. Cherry-like flavors are acceptable, as is malt sweetness
+that can lend bitterness and a cocoa-like character. Oak or other wood-like flavors may be present, even if the beer was not aged in
+barrels. Overall, the style is characterized by slight to strong lactic sourness, and Flanders “reds” sometimes include a balanced
+degree of acetic acid. Brettanomyces-produced flavors may be absent or very low. This style is a marvel in flavor complexity,
+combining malt, yeast, microorganisms, acidity and low astringency from barrel aging.
+
+Quantitative tle tatitic
+
+OG 1.044 - 1.056
+FG 1.008 - 1.016
+ABV 4.8% - 6.6%
+IBU 5 - 18
+
+BU:GU 0.11 - 0.32
+
+SRM 12 - 25
+CO2 Volumes 2 - 2.5
+Apparent Attenuation 71 - 82
+
+U.. Commercial xample
+
+Enigma New Glarus Brewing
+Oud Tart The Bruery
+La Folie New Belgium Brewing Co.
+
+tle A-Z
+
+Brewing/Conditioning Process Blending is common. Oak-like or woody characters may be pleasantly integrated
+
+Alcohol
+
+Not Detectable to Mild
+
+into the overall palate when aged in oak barrels
+
+Color Copper to Very Dark
+Clarity Brilliant to Slight Haze
+
+Country of Origin Belgium
+Collar of Foam (Head Retention) Good
+Collar of Foam (Texture) Foamy
+
+Carbonation (Visual) Medium to Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Mimolette
+Entrée Beef Carbonnade
+Dessert Pumpkin Pie
+
+Hop Aroma/Flavor Hop aroma and flavor are not perceived. Hop bitterness is perceived to be very
+
+Glass Tulip
+
+Hop Ingredients Kent Goldings
+
+low to medium-low
+
+Malt Aroma/Flavor Roasted malt aromas including a cocoa-like character are acceptable at low
+
+Malt Ingredients Vienna, Munich Special "B", Aromatic
+
+levels. A very low degree of malt sweetness may be present
+
+Palate Body Varies
+
+Palate Carbonation Medium to High
+Palate Length/Finish Medium to Long
+
+Temperature 45-50°F
+
+Water Varies
+Yeat
+Type Brettanomyces
+
+Phenols Not common to style
+
+Esters Fruit-ester aromas, which are often cherry-like, are apparent. May also have
+
+notes of raisins, plums, figs and prunes
+
+Microorganisms Lactobacillus possible
+
+Fermentation Byproducts Some versions may be more highly carbonated and, when bottle-conditioned,
+
+may appear cloudy when served
+
+source: CraftBeer.com
+
+Belgian-Style Fruit Lambic
+
+tle Famil: Wild/our eer
+
+Belgian-Style Fruit Lambic
+
+Often known as cassis, framboise, kriek, or peche, a fruit lambic takes on the color and flavor of the fruit it is brewed with. It can be
+dry or sweet, clear or cloudy, depending on the ingredients. Notes of Brettanomyces yeast are often present at varied levels.
+Sourness is an important part of the flavor profile, though sweetness may compromise the intensity. These flavored lambic beers
+may be very dry or mildly sweet.
+
+Quantitative tle tatitic
+
+OG 1.040 - 1.072
+FG 1.008 - 1.016
+ABV 5.0% - 8.9%
+IBU 15 - 21
+
+BU:GU 0.29 - 0.38
+
+SRM Varies
+Apparent Attenuation 78 - 80
+
+CO2 Volumes 4 approximately
+
+U.. Commercial xample
+
+Cherry Lambic Upland Brewing Co.
+Coolship Red Allagash Brewing Co.
+
+Hexotic Two Roads Brewing Co.
+
+tle A-Z
+
+Brewing/Conditioning Process Old lambic is blended with newly fermenting young lambic to create this style.
+
+Alcohol
+
+Varies
+
+Fruit is added as well. These beers are aged in oak
+
+Color Hued with color reflecting the choice of fruit
+Clarity Varies
+Country of Origin Belgium
+Collar of Foam (Head Retention) Good
+
+Collar of Foam (Texture) Rocky to Mousse-like
+Carbonation (Visual) Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Chèvre
+Entrée Pineapple Ceviche
+Dessert Chocolate Creme Caramel
+
+Hop Aroma/Flavor Hop aroma, flavor and bitterness are not perceived to very low, and can include
+
+Glass Tulip
+
+cheesy or floral lavender notes
+
+Hop Ingredients Aged, stale hops
+Malt Aroma/Flavor Sweet malt characters are not perceived
+Malt Ingredients Pilsner, Flaked Wheat
+Other ingredients Unmalted Wheat, Fruit
+Palate Body Varies
+Palate Carbonation High
+Palate Length/Finish Varies
+Temperature 45-50°F
+
+Water Varies
+Yeat
+Type Ale, Brettanomyces possible
+
+Phenols Can be present
+Esters Can be present.
+
+Microorganisms Lactobacillus and Pediococcus
+
+Fermentation Byproducts Cloudiness is acceptable
+
+source: CraftBeer.com
+
+Belgian-Style Lambic/Gueuze
+
+tle Famil: Wild/our eer
+
+Belgian-Style Lambic/Gueuze
+
+Naturally and spontaneously fermented beers with high to very high levels of esters, plus bacterial and yeast-derived sourness that
+sometimes includes acetic flavors. Lambics are not blended, while the gueuze style blends old and new lambics which are re-
+fermented in the bottle. Historically, they are dry and completely attenuated, exhibiting no residual sweetness either from malt,
+sugar or artificial sweeteners. Sweet versions may be created through the addition of sugars or artificial sweeteners. Many
+examples of this style are made to resemble the gueuze lambic beers of the Brussels area, where it originated.
+
+Quantitative tle tatitic
+
+OG 1.044 - 1.056
+FG 1.000 - 1.010
+ABV 6.3% - 8.9%
+IBU 9 - 23
+
+BU:GU 0.20 - 0.41
+
+SRM 6 - 13
+CO2 Volumes 1 - 1.5
+
+Apparent Attenuation 82 - 100
+
+U.. Commercial xample
+
+American Blackberry Sour New Glarus Brewing
+Sour Reserve Upland Brewing Co.
+Supplication Russian River Brewing Co.
+
+tle A-Z
+
+Brewing/Conditioning Process Old lambic is blended with newly-fermented young lambic. These beers are aged
+
+Alcohol
+
+Not Detectable to Mild
+
+in oak
+
+Color Gold to Medium Amber
+Clarity Brilliant (but haze may exist from yeast sediment from bottle fermentation)
+
+Country of Origin Belgium
+
+Collar of Foam (Head Retention) Good
+
+Collar of Foam (Texture) Mousse-like
+
+Carbonation (Visual) Medium to Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Mascarpone with Fruit
+Entrée Shellfish (Mussels)
+Dessert Rich Chocolate Cake
+
+Hop Aroma/Flavor Hop aroma, flavor and bitterness are not perceived to very low, and can include
+
+Glass Tulip
+
+cheesy or floral lavender notes
+
+Hop Ingredients Aged, stale hops
+Malt Aroma/Flavor Sweet malt characters are not perceived
+Malt Ingredients Pilsner, Flaked Wheat
+Other ingredients Unmalted Wheat
+Palate Carbonation Very Low to High
+Palate Length/Finish Medium
+Temperature 40-50°F
+
+Palate Body Drying to Soft
+
+Water Varies
+Yeat
+Type Ale, Brettanomyces possible
+
+Esters High to very high fruity ester aromas are present
+
+Microorganisms Lactobacillus and Pediococcus
+
+Fermentation Byproducts
+
+Characteristic horsey, goaty, leathery and phenolic aromas derived from
+Brettanomyces yeast are often present at moderate levels
+
+source: CraftBeer.com
+
+Contemporary Gose
+
+tle Famil: Wild/our eer
+
+Contemporary Gose
+
+Straw to medium amber, gose is cloudy from suspended yeast. A wide variety of herbal, spice, floral or fruity aromas other than
+found in traditional Leipzig-Style Gose are present, in harmony with other aromas. Salt (table salt) character is traditional in low
+amounts, but may vary from absent to present. Body is low to medium-low. Low to medium lactic acid character is evident in all
+examples as sharp, refreshing sourness.
+
+Quantitative tle tatitic
+
+OG 1.036 - 1.056
+FG 1.008 - 1.012
+
+ABV 4.4-5.4
+IBU 10 - 15
+
+BU:GU 0.28 - 0.27
+
+SRM 3 to 9
+
+CO2 Volumes 3.3 - 4.5
+
+Apparent Attenuation 77.78 - 78.5
+
+U.. Commercial xample
+
+Old Pro Gose Union Craft Brewing
+
+The Kimmie, The Yink & The Holy
+Gose
+
+Anderson Valley Brewing Company
+
+tle A-Z
+
+Kirsch Gose Victory Brewing Company
+
+Brewing/Conditioning Process May be fermented with pure beer yeast strains, or with yeast mixed with
+
+Alcohol
+
+Not Detectable
+
+bacteria. Contemporary Gose may be spontaneously fermented and should
+exhibit complexity of acidic, flavor and aroma contributed by introduction of
+wild yeast and bacteria into the fermentation
+
+Color Straw to Light Amber
+Clarity Cloudy/ Hazy
+
+Country of Origin Germany
+
+Collar of Foam (Head Retention) Good
+
+Collar of Foam (Texture) Foamy to Rocky
+
+Carbonation (Visual) Medium to Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Queso Fresco
+Entrée Watermelon Salad
+Dessert Greek Yogurt Lemon Mousse
+
+Hop Ingredients
+
+Glass Flute
+Hop Aroma/Flavor None
+Malt Aroma/Flavor Grainy
+Malt Ingredients Pilsner and Wheat
+Other ingredients Table Salt, herbs, spices or fruit
+Palate Body Varies
+Palate Carbonation Medium to High
+Palate Length/Finish Medium
+Temperature 40-50°F
+
+Water Varies
+Yeat
+Type Ale
+
+Microorganisms Lactobacilus, Brettanomyces
+
+Fermentation Byproducts Horsey, leathery or earthy flavors contributed by Brettanomyces yeasts may be
+
+evident but have a very low profile, as this beer is not excessively agedsource: CraftBeer.com
+
+American Lager
+
+tle Famil: Pilener and Pale Lager
+
+American Lager
+
+American lager has little in the way of hop and malt character. A straw to gold, very clean and crisp, highly carbonated lager.
+
+Quantitative tle tatitic
+
+OG 1.040 - 1.048
+FG 1.006 - 1.014
+
+ABV 4.1%-5.1%
+IBU 5 - 15
+
+BU:GU 0.13 - 0.31
+
+SRM 2 - 6
+
+CO2 Volumes 2.2 - 2.7
+
+Apparent Attenuation 70.83 - 85.00
+
+U.. Commercial xample
+
+#10 American Lager Brown Truck Brewery
+Lightner Creek Lager Carver Brewing Co.
+
+Luchesa Lager Oasis Texas Brewing Co.
+
+tle A-Z
+
+Alcohol
+
+Mild
+
+Color Straw to Gold
+Clarity Brilliant to Clear
+Country of Origin United States
+
+Collar of Foam (Head Retention) Poor
+Collar of Foam (Texture) Thin
+
+Carbonation (Visual) Medium to Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Smear Ripened Cheeses
+Entrée Pho
+Dessert Kettle Corn Balls
+
+Glass Flute
+Hop Aroma/Flavor Low
+Hop Ingredients Variety of bittering hops may be used
+Malt Aroma/Flavor Grainy
+Malt Ingredients 2-Row and 6-Row Barley
+Other ingredients Corn, Rice and other adjuncts are often used
+Palate Body Drying
+Palate Carbonation Medium to High
+Palate Length/Finish Medium
+Temperature 40-45°F
+
+Water
+Yeat
+Type Lager
+
+Esters Low fruity-ester flavors are acceptable
+
+source: CraftBeer.com
+
+Bohemian-Style Pilsener
+
+tle Famil: Pilener and Pale Lager
+
+Bohemian-Style Pilsener
+
+Bohemian-style pilseners have a slightly sweet and evident malt character and a toasted, biscuit-like, bready malt character. Hop
+bitterness is perceived as medium with a low to medium-low level of noble-type hop aroma and flavor. This style originated in
+1842, with “pilsener” originally indicating an appellation in the Czech Republic. Classic examples of this style used to be
+conditioned in wooden tanks and had a less sharp hop bitterness despite the similar IBU ranges to German-style pilsener. Low-
+level diacetyl is acceptable. Bohemian-style pilseners are darker in color and bigger in final gravity than their German
+counterparts.
+
+Quantitative tle tatitic
+
+OG 1.044 - 1.056
+FG 1.014 - 1.020
+ABV 4.1% - 5.1%
+IBU 30 - 45
+
+BU:GU 0.68 - 0.80
+
+SRM 3 - 7
+CO2 Volumes 2 - 2.5
+Apparent Attenuation 64 - 68
+
+U.. Commercial xample
+
+Bohemian Pilsener Ninkasi Brewing Co.
+Pilsener McCoy's Public House
+Bohemian Pilsener Dock Street Brewing
+
+tle A-Z
+
+Brewing/Conditioning Process Decoction mash provides a rich malt character
+
+Alcohol
+
+Not Detectable to Mild
+
+Color Straw to Light Amber
+Clarity Clear to Brilliant
+Country of Origin Czech Republic
+
+Collar of Foam (Head Retention) Good
+Collar of Foam (Texture) Foamy
+
+Carbonation (Visual) Medium Rising Bubbles
+
+Food Pairing
+
+Cheese Mild White Cheddar
+Entrée Shellfish, Chicken, Salads
+Dessert Shortbread Cookies
+
+Hop Aroma/Flavor Hop aroma and flavor are low to medium-low, deriving from noble-type hops.
+
+Glass Flute
+
+Hop Ingredients Czech Saaz
+
+Hop bitterness is medium
+
+Malt Aroma/Flavor Toasted, biscuit-like, and/or bready malt flavors along with low levels of
+
+fermented-malt-derived sulfur compounds may be evident
+
+Malt Ingredients Pilsner, CaraPils
+
+Palate Body Soft
+Palate Carbonation Medium
+Palate Length/Finish Short
+
+Temperature 40-45°F
+
+Water Low mineral content
+Yeat
+Type Lager
+
+Phenols Not common to style
+Esters Not common to style
+
+Fermentation Byproducts
+
+Low levels of fermentation-derived sulfur compounds may be evident. Very low
+levels of diacetyl and DMS flavors may be perceived
+
+source: CraftBeer.com
+
+European-Style Export
+
+tle Famil: Pilener and Pale Lager
+
+European-Style Export
+
+Sometimes referred to as a “Dortmunder export,” this beer has the malt-forward flavor and sweetness of a German-style helles, but
+the bitter base of a German-style pilsener.This lager is all about balance, with medium hop character and firm but low malt
+sweetness. Look for toasted malt flavors and spicy floral hop aromas.
+
+Quantitative tle tatitic
+
+OG 1.048 - 1.056
+FG 1.010 - 1.014
+ABV 5.1% - 6.1%
+IBU 23 - 29
+
+BU:GU 0.48 - 0.52
+
+SRM 3 - 6
+CO2 Volumes 2 - 2.5
+Apparent Attenuation 75 - 79
+
+U.. Commercial xample
+
+Dortmunder Gold Great Lakes Brewing Co.
+
+Dortmunder Mifflin Emmett's Tavern & Brewing Co.
+
+Lager Bell's Brewery Inc.
+
+tle A-Z
+
+Alcohol
+
+Not Detectable to Mild
+Color Straw to Deep Golden
+Clarity Clear
+Collar of Foam (Head Retention) Good
+Collar of Foam (Texture) Foamy
+
+Country of Origin Germany
+
+Carbonation (Visual) Medium to Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Chèvre
+Entrée Grilled Steak
+Dessert Bread Pudding
+
+Hop Aroma/Flavor Hop flavor and aroma are very low to low, deriving from noble-type hops. Hop
+
+Glass Flute
+
+Malt Aroma/Flavor Sweet malt flavor can be low and should not be caramel-like
+
+bitterness is medium
+
+Hop Ingredients German Noble
+Malt Ingredients Pilsner, Munich
+Palate Carbonation Medium to High
+Palate Length/Finish Short to Medium
+
+Palate Body Moderate
+
+Temperature 45-50°F
+
+Water Gypsum, Chalk
+Yeat
+Type Lager
+
+Phenols Not common to style
+Esters Not common to style
+
+source: CraftBeer.com
+
+German-Style Helles
+
+tle Famil: Pilener and Pale Lager
+
+German-Style Helles
+
+“Helles” means “pale in color,” as these beers are often golden. They are similar in flavor to adjunct-influenced lagers, but possess
+more advanced pilsener malt flavor and have a touch more sweetness, and are less dry in the finish. A full-bodied lager that puts
+pilsener malt flavors forward and can be perceived as bready. A slight sweetness permeates with just a hint of hop spiciness. Clean
+and crisp, this is a refreshing beer with substance. Low levels of yeast-produced sulfur aromas and flavors may be common.
+
+Quantitative tle tatitic
+
+OG 1.044 - 1.050
+FG 1.008 - 1.012
+ABV 4.8% - 5.6%
+IBU 18 - 25
+
+BU:GU 0.41 - 0.50
+
+SRM 4 - 5.5
+CO2 Volumes 2 - 2.5
+Apparent Attenuation 76 - 82
+
+U.. Commercial xample
+
+Helles Dry Dock Brewing Co.
+
+Chuckanut Helles Chuckanut Brewery
+
+Hell Yes
+
+The Austin Beer Garden Brewing Co.
+tle A-Z
+
+Alcohol
+
+Not Detectable to Mild
+
+Color Pale to Golden
+Clarity Clear to Brilliant
+
+Country of Origin Germany
+
+Collar of Foam (Head Retention) Good
+Collar of Foam (Texture) Foamy
+
+Carbonation (Visual) Medium to Fast Rising Bubbles
+
+Food Pairing
+
+Cheese Colby
+Entrée Samosas
+Dessert Baklava
+
+Glass Flute
+
+Hop Aroma/Flavor Hop aroma is not perceived to low. Hop flavor and bitterness are very low to
+
+Hop Ingredients German Noble
+
+low, deriving from European noble-type hops
+
+Malt Aroma/Flavor Malt character is sometimes bread-like, yet always reminiscent of freshly and
+
+very lightly toasted malted barley
+
+Malt Ingredients Pilsner, Munich
+Palate Carbonation Medium to High
+Palate Length/Finish Short to Medium
+
+Palate Body Moderate
+
+Temperature 45-50°F
+
+Water Varies
+Yeat
+Type Lager
+
+Phenols Not common to style.
+Esters Not common to style
+
+German-Style Pilsener
+
+source: CraftBeer.com
+
+tle Famil: Pilener and Pale Lager
+
+German-Style Pilsener
+
+A classic German-style pilsener is straw to pale in color. A malty residual sweetness can be perceived in aroma and flavor.
+Perception of hop bitterness is medium to high. Noble-type hop aroma and flavor are moderate and quite obvious. Distinctly
+different from Bohemian-style pilsener, this style is lighter in color and body and has a lower perceived hop bitterness.
+
+Quantitative tle tatitic
+
+OG 1.044 - 1.055
+FG 1.006 - 1.012
+ABV 4.6% - 5.3%
+IBU 25 - 40
+
+BU:GU 0.57 - 0.73
+
+SRM 3 - 4
+CO2 Volumes 2 - 2.5
+Apparent Attenuation 78 - 86
+
+U.. Commercial xample
+
+Pivo Pils Firestone Walker Brewing Co.
+
+Paintbrush Pilsener Snake River Brewing Co.
+
+Prima PIls Victory Brewing Co.
+
+tle A-Z
+
+Alcohol
+
+Not Detectable
+
+Color Straw to Pale
+Clarity Brilliant
+Country of Origin Germany
+
+Collar of Foam (Head Retention) Good
+Collar of Foam (Texture) Foamy
+
+Carbonation (Visual) Medium to Fast Rising Bubbles
+
+Food Pairing
+
+Cheese White Cheddar
+Entrée Shellfish, Chicken, Salads
+Dessert Shortbread Cookies
+
+Glass Flute
+
+Hop Aroma/Flavor Hop flavor is moderate and quite obvious, deriving from late hopping (not dry-
+
+hopping) with noble-type hops. Hop bitterness is medium to high
+
+Malt Aroma/Flavor A sweet, malty residual aroma can be perceived
+
+Hop Ingredients German Noble
+Malt Ingredients Pilsner
+
+Palate Body Soft
+Palate Carbonation Medium to High
+Palate Length/Finish Short
+
+Temperature 40-45°F
+
+Water Varies
+Yeat
+Type Lager
+
+Phenols Not common to style
+Esters Not common to style.
+
+Fermentation Byproducts Very low levels of DMS aroma may be present, usually below most beer
+
+drinkers’ taste thresholds and not detectable except to the trained or sensitive
+palate
+
+source: CraftBeer.com
+
+American Black Ale
+
+tle Famil: pecialt eer
+
+American Black Ale
+
+Characterized by the perception of caramel malt and dark roasted malt flavor and aroma. Hop bitterness is perceived to be
+medium-high to high. Hop flavor and aroma are medium-high. Fruity, citrus, piney, floral and herbal character from hops of all
+origins may contribute to the overall experience. This beer is often called a black IPA or Cascadian dark ale.
+
+Quantitative tle tatitic
+
+OG 1.056 - 1.075
+FG 1.012 - 1.018
+ABV 6.3% - 7.6%
+IBU 50 - 70
+
+BU:GU 0.89 - 0.93
+
+SRM 35+
+
+CO2 Volumes 2 - 2.5
+Apparent Attenuation 76 - 79
+
+U.. Commercial xample
+
+Midnight Moonlight Fat Head's Brewery
+
+Wookey Jack Firestone Walker Brewing Co.
+Once You Go Lynnwood Brewing Concern
+
+tle A-Z
+
+Alcohol
+
+Mild to Noticeable
+Color Very Dark to Black
+Clarity Clear to Opaque
+
+Country of Origin United States
+
+Collar of Foam (Head Retention) Good
+Collar of Foam (Texture) Foamy
+
+Carbonation (Visual) Medium Rising Bubbles
+
+Food Pairing
+
+Cheese Blue Cheeses, Aged Gouda
+Entrée Grilled Shrimp and Grits
+Dessert Chocolate Truffles
+
+Hop Aroma/Flavor Hop aroma is medium-high to high, with hops of all origins contributing fruity,
+
+Glass Tulip
+
+floral, herbal or other notes
+
+Malt Aroma/Flavor Medium caramel malt and dark roasted malt aromas are evident
+
+Hop Ingredients Varies
+Malt Ingredients Varies
+Palate Carbonation Medium
+Palate Length/Finish Medium to Long
+
+Palate Body Soft
+
+Temperature 50-55°F
+
+Water Varies
+Yeat
+Type Ale
+
+Phenols Not common to style
+
+Esters Can be present
+
+source: CraftBeer.com
+
+Barrel-Aged Beer
+
+tle Famil: pecialt eer
+
+Barrel-Aged Beer
+
+A wood- or barrel-aged beer is any lager, ale or hybrid beer, either a traditional style or a unique experimental beer, that has been
+aged for a period of time in a wooden barrel or in contact with wood. This beer is aged with the intention of imparting the unique
+character of the wood and/or the flavor of what has previously been in the barrel. Today’s craft brewers are using wood (mostly
+oak) to influence flavor and aromatics. Beer may be aged in wooden barrels (new or previously used to age wine or spirits), or
+chips, spirals and cubes may be added to the conditioning tanks that normally house beer. A variety of types of wood are used
+including oak, apple, alder, hickory and more. The interior of most barrels is charred or toasted to further enhance the flavor of the
+wood.
+
+Quantitative tle tatitic
+
+OG Varies
+FG Varies
+ABV Varies
+IBU Varies
+BU:GU Varies
+SRM Varies
+CO2 Volumes Varies
+Apparent Attenuation Varies
+
+U.. Commercial xample
+
+Barrel Aged Sump Coffee Stout Perennial Beer Co.
+
+Drama Queen Denver Beer Co.
+
+DBA Firestone Walker Brewing Co.
+
+tle A-Z
+
+Brewing/Conditioning Process Aging in wood barrels necessary
+
+Alcohol
+
+Varies
+
+Color Varies
+Clarity Varies
+Collar of Foam (Head Retention) Varies
+Collar of Foam (Texture) Varies
+Carbonation (Visual) Varies
+
+Country of Origin Undetermined
+
+Food Pairing
+
+Cheese Varies
+Entrée Varies
+Dessert Varies
+
+Glass Tulip
+Hop Aroma/Flavor Varies
+Hop Ingredients Varies
+Malt Aroma/Flavor Varies
+Malt Ingredients Varies
+Other ingredients Wood Aging
+Palate Body Varies
+Palate Carbonation Low to High
+Palate Length/Finish Varies
+Temperature 50-55°F
+
+Water Varies
+Yeat
+Type Lager or Ale. May have Brettanomyces character
+
+Phenols Can be present
+Esters Can be present
+
+Chocolate Beer
+
+source: CraftBeer.com
+
+tle Famil: pecialt eer
+
+Chocolate Beer
+
+This is an ale or lager that benefits from the addition of dark chocolate or cocoa. More common in porters, stouts and brown ales,
+where the grain bill better complements the confectionery ingredient, it can be added to other styles as well. Overt bitterness is not
+acceptable in this style. Little hop character is desired and the chocolate flavor does not need to be overwhelming. The style can
+vary greatly in approach and flavor profile depending on the brewer.
+
+Quantitative tle tatitic
+
+OG 1.030 - 1.110
+FG 1.006 - 1.030
+ABV 2.5% - 12.0%
+IBU 15 - 40
+
+BU:GU 0.36 - 0.50
+
+SRM 15 - 50
+CO2 Volumes Varies
+Apparent Attenuation 73 - 80
+
+U.. Commercial xample
+
+Chocolate Oak Aged Imperial Yeti
+Stout
+
+Great Divide Brewing Co.
+
+The Ticket Chocolate Beer ZwanzigZ Brewing
+
+The Fix Elysian Brewing
+
+tle A-Z
+
+Alcohol
+
+Varies
+
+Color Light Brown to Black
+Clarity Brilliant to Opaque
+
+Country of Origin Undetermined
+
+Collar of Foam (Head Retention) Varies
+Collar of Foam (Texture) Varies
+Carbonation (Visual) Varies
+
+Food Pairing
+
+Cheese Aged Goat Cheeses
+Entrée Venison Mole
+Dessert Raspberry Torte
+
+Glass Snifter
+
+Hop Aroma/Flavor Hop flavor and aroma are lower than might be expected for the style. Under-
+hopping allows chocolate to contribute to the flavor profile while not becoming
+excessively bitter. Hop bitterness is very low to medium-low.
+
+Malt Aroma/Flavor Medium-low to medium-high malt sweetness helps accent cocoa flavors and
+
+Hop Ingredients Varies
+
+aromas.
+Malt Ingredients Varies
+Other ingredients Chocolate
+Palate Body Varies
+Palate Carbonation Low to High
+Palate Length/Finish Varies
+Temperature 50-55°F
+
+Water Varies
+Yeat
+Type Lager or Ale
+
+Phenols Can be present.
+Esters Can be present.
+
+Coffee Beer
+
+source: CraftBeer.com
+
+tle Famil: pecialt eer
+
+Coffee Beer
+
+As the name suggests, this can be either a lager or ale with coffee added to boost flavor. While stouts and porters are popular base
+styles for coffee beer, many craft breweries are experimenting with other styles, like cream ales and India pale ales. Brewers may
+steep the beans in either water or beer to impart java flavor without adding acidity. Barrel-aged or wood-influenced versions may
+show signs of oxidation, including sherry notes and other advanced flavors.
+
+Quantitative tle tatitic
+
+OG 1.030 - 1.110
+FG 1.006 - 1.030
+ABV 2.5% - 12.0%
+IBU 15 - 45
+
+BU:GU 0.50 - 0.41
+
+SRM 4 - 50
+CO2 Volumes Varies
+Apparent Attenuation 73 - 80
+
+U.. Commercial xample
+
+Panama Joe's Coffee Stout
+
+II Vicino Brewing Co.
+Barrel Aged Sump Coffee Stout Perennial Artisan Ales
+
+Gusto Crema Georgetown Brewing Co.
+
+tle A-Z
+
+Brewing/Conditioning Process Coffee is used in any of its forms to create a distinct (ranging from subtle to
+
+Alcohol
+
+Varies
+
+intense) character.
+
+Color Pale to Black
+Clarity Brilliant to Opaque
+Country of Origin Undetermined
+
+Collar of Foam (Head Retention) Varies
+Collar of Foam (Texture) Varies
+Carbonation (Visual) Varies
+
+Food Pairing
+
+Cheese Aged Semi-Hard Cheeses
+Entrée Pork Tenderloin
+Dessert Vanilla Ice Cream
+
+Glass Nonic Pint
+
+Hop Aroma/Flavor Hop flavor is reflective of aroma and can be low to high depending on the intent
+
+of the underlying style. Hop bitterness is very low to medium-high.
+
+Hop Ingredients Varies
+Malt Aroma/Flavor Medium-low to medium malt sweetness helps accent coffee flavors and aromas.
+Malt Ingredients Varies
+Other ingredients Coffee
+Palate Body Varies
+Palate Carbonation Low to High
+Palate Length/Finish Varies
+Temperature 50-55°F
+
+Water Varies
+Yeat
+Type Lager or Ale
+
+Phenols Can be present.
+Esters Can be present.
+
+Fruit and Field Beer
+
+source: CraftBeer.com
+
+tle Famil: pecialt eer
+
+Fruit and Field Beer
+
+Fruit beers are made with fruit, or fruit extracts are added during any portion of the brewing process, providing obvious yet
+harmonious fruit qualities. This idea is expanded to “field beers” that utilize vegetables and herbs.
+
+Quantitative tle tatitic
+
+OG 1.030 - 1.110
+FG 1.006 - 1.030
+ABV 2.5% - 13.3%
+IBU 5 - 45
+
+BU:GU 0.17 - 0.64
+
+SRM 5 - 50
+CO2 Volumes Varies
+Apparent Attenuation 73 - 80
+
+U.. Commercial xample
+
+Ruby Raspberry Wheat Mad Anthony Brewing Co.
+
+Apricot Cream Ale Vertigo Brewing
+Elektrik Cukumbah Trinity Brewing Co.
+
+tle A-Z
+
+Varies
+Brewing/Conditioning Process Varies
+
+Alcohol
+
+Color Pale to Very Dark
+Clarity Varies
+Collar of Foam (Head Retention) Varies
+Collar of Foam (Texture) Varies
+Carbonation (Visual) Varies
+
+Country of Origin Undetermined
+
+Food Pairing
+
+Cheese Creamy Cheeses
+Entrée Salads
+Dessert Vanilla Ice Cream
+
+Glass Tulip
+Hop Aroma/Flavor Hop bitterness is very low to medium-high
+Hop Ingredients Varies
+Malt Aroma/Flavor Malt sweetness is very low to medium-high
+Malt Ingredients Varies
+Other ingredients Fruit, Vegetables
+Palate Body Varies
+Palate Carbonation Low to High
+Palate Length/Finish Varies
+Temperature Varies
+Water Varies
+Yeat
+Type Lager or Ale
+
+Phenols Can be present
+Esters Can be present
+
+Gluten Free
+
+source: CraftBeer.com
+
+tle Famil: pecialt eer
+
+Gluten Free
+
+Barley, wheat, oats, rye and spelt commonly contain gluten, so look for other fermentables to be featured in these beers. A beer
+(lager, ale or other) that is made from fermentable sugars, grains and converted carbohydrates. Ingredients do not contain gluten.
+
+Quantitative tle tatitic
+
+OG Varies
+FG Varies
+ABV Varies
+IBU Varies
+BU:GU Varies
+SRM Varies
+CO2 Volumes Varies
+Apparent Attenuation Varies
+
+U.. Commercial xample
+
+Nikki's Gluten Free Honey Pale Ale
+Rock Bottom Restaurant & Brewery
+
+Gluten Free Deschutes Brewing Co.
+
+tle A-Z
+
+Copperhead Greenview Brewing
+
+Brewing/Conditioning Process Typically brewed without malt
+
+Alcohol
+
+Varies
+
+Color Varies
+Clarity Varies
+Collar of Foam (Head Retention) Varies
+Collar of Foam (Texture) Varies
+Carbonation (Visual) Varies
+
+Country of Origin Undetermined
+
+Food Pairing
+
+Cheese Varies
+Entrée Varies
+Dessert Varies
+
+Glass Flute
+Hop Aroma/Flavor Varies
+Hop Ingredients Varies
+Malt Aroma/Flavor Malted barley, wheat and other gluten-rich grains should not be perceived
+Malt Ingredients N/A
+Other ingredients Fermentable sugars, grains and converted carbohydrates that do not contain
+
+gluten
+Palate Body Varies
+Palate Carbonation Low to High
+Palate Length/Finish Varies
+Temperature Varies
+Water Varies
+Yeat
+Type Lager or Ale
+
+Phenols Can be present.
+Esters Can be present
+
+Microorganisms Lactobacillus and Pediococcus
+
+Herb and Spice Beer
+
+source: CraftBeer.com
+
+tle Famil: pecialt eer
+
+Herb and Spice Beer
+
+This is a lager or ale that contains flavors derived from flowers, roots, seeds or certain fruits or vegetables. Typically the hop
+character is low, allowing the added ingredient to shine through. The appearance, mouthfeel and aromas vary depending on the
+herb or spice used. This beer style encompasses innovative examples as well as traditional holiday and winter ales.
+
+Quantitative tle tatitic
+
+OG 1.030 - 1.110
+FG 1.006 - 1.030
+ABV 2.5% - 12.0%
+IBU 5 - 40
+
+BU:GU 0.17 - 0.36
+
+SRM 5 - 50
+CO2 Volumes Varies
+Apparent Attenuation 73 - 80
+
+U.. Commercial xample
+
+Midas Touch Dogfish Head Brewing Co.
+
+NoDajito NoDa Brewing Co.
+Good Juju Left Hand Brewing Co.
+
+tle A-Z
+
+Alcohol
+
+Varies
+
+Color Any range of color depending on the underlying style
+Clarity Varies
+Collar of Foam (Head Retention) Varies
+Collar of Foam (Texture) Varies
+Carbonation (Visual) Varies
+
+Country of Origin Undetermined
+
+Food Pairing
+
+Cheese Varies
+Entrée Varies
+Dessert Varies
+
+Hop Aroma/Flavor Hop aroma is not essential, but may be evident at low levels and should not
+
+Glass Tulip
+
+dominate over the herb or spice character
+
+Hop Ingredients Varies
+Malt Aroma/Flavor Varies
+Malt Ingredients Varies
+Other ingredients Herbs, Spices
+Palate Body Varies
+Palate Carbonation Low to High
+Palate Length/Finish Varies
+Temperature 45-55°F
+
+Water Varies
+Yeat
+Type Lager or Ale
+
+Phenols Can be present
+Esters Can be present.
+
+source: CraftBeer.com
+
+Honey Beer
+
+tle Famil: pecialt eer
+
+Honey Beer
+
+Both lagers and ales can be brewed with honey. Some brewers will choose to experiment with ingredients, while others will add
+honey to traditional styles. Overall the character of honey should be evident but not totally overwhelming. A wide variety of honey
+beers are available. U.S. brewers may add honey to the boil kettle (as a sugar source) or post-boil (to preserve more volatile
+aromatics).
+
+Quantitative tle tatitic
+
+OG 1.030 - 1.110
+FG 1.006 - 1.030
+ABV 2.5% - 12.0%
+IBU 1 - 100
+
+BU:GU 0.03 - 0.91
+
+SRM Varies
+CO2 Volumes Varies
+Apparent Attenuation 73 - 80
+
+U.. Commercial xample
+
+Jetty Cream Ale Great South Bay Brewery
+Westbound Braggot Twisted Pine Brewing Co.
+
+Midas Touch Dogfish Head Craft Brewery
+
+tle A-Z
+
+Alcohol
+
+Varies
+Color Varies
+Clarity Varies
+Collar of Foam (Head Retention) Varies
+Collar of Foam (Texture) Varies
+Carbonation (Visual) Varies
+
+Country of Origin Undetermined
+
+Food Pairing
+
+Cheese Ricotta
+Entrée Bruschetta
+Dessert Lemon Basil Gelato
+
+Hop Aroma/Flavor Hop bitterness is very low to very high, and may be used for highlighting desired
+
+Glass Tulip
+
+characteristics.
+
+Hop Ingredients Varies
+Malt Aroma/Flavor Varies
+Malt Ingredients Varies
+Other ingredients Honey
+Palate Body Varies
+Palate Carbonation Low to High
+Palate Length/Finish Varies
+Temperature 50-55°F
+
+Water Varies
+Yeat
+Type Lager or Ale
+
+Phenols Can be present.
+Esters Can be present.
+
+source: CraftBeer.com
+
+Pumpkin Beer
+
+tle Famil: pecialt eer
+
+Pumpkin Beer
+
+One of the most popular seasonal beers, this is a lager or ale that is brewed with fresh or processed pumpkin or winter squash.
+Since the fruit does not have much of a taste by itself, many craft brewers have taken to adding spices typically found in pumpkin
+pie, like cinnamon and clove. However, these flavors should not overpower the final product. Pumpkin can be found in everything
+from stouts to pale ales and pilseners.
+
+Quantitative tle tatitic
+
+OG 1.030 - 1.110
+FG 1.006 - 1.030
+ABV 2.3% - 12.0%
+IBU 5 - 70
+
+BU:GU 0.17 - 0.64
+
+SRM 5 - 50
+CO2 Volumes Varies
+Apparent Attenuation 73 - 80
+
+U.. Commercial xample
+
+Pump Action Imperial Pumpkin
+Ale
+
+4 Noses Brewing Co.
+
+Pumking Southern Tier Brewing Co.
+Punkin Dogfish Head Craft Brewery
+
+tle A-Z
+
+Alcohol
+
+Varies
+
+Brewing/Conditioning Process Beer brewed with pumpkins (Cucurbito pepo) or winter squash as an adjunct in
+either the mash, kettle or primary or secondary fermentation, providing obvious
+(ranging from subtle to intense) yet harmonious qualities
+
+Color Any range of color depending on the underlying style
+Clarity Varies
+Collar of Foam (Head Retention) Varies
+Collar of Foam (Texture) Varies
+Carbonation (Visual) Varies
+
+Country of Origin Undetermined
+
+Food Pairing
+
+Cheese Camembert
+Entrée Roasted Turkey
+Dessert Coffee Ice Cream
+
+Glass Tulip
+Hop Aroma/Flavor Hop bitterness is low to medium-low
+Hop Ingredients Varies
+Malt Aroma/Flavor Malt sweetness is low to medium-high
+Malt Ingredients Varies
+Other ingredients Pumpkin, Squash
+Palate Body Varies
+Palate Carbonation Low to High
+Palate Length/Finish Varies
+Temperature 50-55°F
+
+Water Varies
+Yeat
+Type Lager or Ale
+
+Phenols Can be present
+Esters Can be present.
+
+Rye Beer
+
+source: CraftBeer.com
+
+tle Famil: pecialt eer
+
+Rye Beer
+
+In darker versions, malt flavor can optionally include low roasted malt characters (evident as cocoa/chocolate or caramel) and/or
+aromatic toffee-like, caramel, or biscuit-like characters. Low-level roasted malt astringency is acceptable when balanced with low
+to medium malt sweetness. Hop flavor is low to medium-high. Hop bitterness is low to medium. These beers can be made using
+either ale or lager yeast. The addition of rye to a beer can add a spicy or pumpernickel character to the flavor and finish. Color can
+also be enhanced and may become more red from the use of rye. The ingredient has come into vogue in recent years in everything
+from stouts to lagers, but is especially popular with craft brewers in India pale ales. To be considered an example of the style, the
+grain bill should include sufficient rye such that rye character is evident in the beer.
+
+Quantitative tle tatitic
+
+OG Varies
+FG Varies
+ABV Varies
+IBU Varies
+BU:GU Varies
+SRM Varies
+CO2 Volumes Varies
+Apparent Attenuation Varies
+
+U.. Commercial xample
+
+LowRYEder SweetWater Brewing Co.
+Hoss Great Divide Brewing Co.
+
+Breakside Rye Curious? Breakside Brewery
+
+tle A-Z
+
+Alcohol
+
+Varies
+
+Color Inclusion of rye can create a wide range of color. Lighter versions: Straw to
+
+Copper. Darker versions: Dark Amber to Dark Brown
+
+Country of Origin Germany
+
+Clarity Varies
+Collar of Foam (Head Retention) Varies
+Collar of Foam (Texture) Varies
+Carbonation (Visual) Varies
+
+Food Pairing
+
+Cheese Wensleydale
+Entrée Jerk Chicken
+Dessert Savory Bread Pudding
+
+Hop Aroma/Flavor Hop flavor and aroma are low to medium-high. Hop bitterness is low to
+
+Glass Vase
+
+medium
+Hop Ingredients Varies
+
+Malt Aroma/Flavor In darker versions, malt aromas can optionally include low roasted malt
+
+characters evident as cocoa/chocolate or caramel, and/or aromatic toffee-like,
+caramel, or biscuit-like characters
+
+Malt Ingredients Varies
+Other ingredients Grist should include sufficient rye such that rye character is evident in the beer
+Palate Body Varies
+Palate Carbonation Low to High
+Palate Length/Finish Varies
+Temperature 45-55°F
+
+Water Varies
+Yeat
+Type Lager or Ale
+
+Phenols Not common to style
+
+Fermentation Byproducts In versions served with yeast, appearance may range from hazy to very cloudy
+
+Esters Low level fruity-ester flavors are typical
+
+source: CraftBeer.com
+
+Session Beer
+
+tle Famil: pecialt eer
+
+Session Beer
+
+This beer style is not defined by flavors or aromas, which can place it in almost any style category. Instead, what makes a session
+beer is primarily refreshment and drinkability. Any style of beer can be made lower in strength than described in the classic style
+guidelines. The goal should be to reach a balance between the style’s character and the lower alcohol content. Drinkability is a
+factor in the overall balance of these beers. Beer should not exceed 5 percent ABV.
+
+Quantitative tle tatitic
+
+OG 1.034 - 1.040
+FG 1.004 - 1.010
+ABV 4.0% - 5.0%
+IBU 10 - 35
+
+BU:GU 0.29 - 0.87
+
+SRM 2+
+
+CO2 Volumes Varies
+Apparent Attenuation 75 - 88
+
+U.. Commercial xample
+
+Provo Girl Utah Brewers Co-op
+
+Twerp Pizza Port Brewing Co.
+PSB Session IPL Perry Street Brewing Co.
+
+tle A-Z
+
+Alcohol
+
+Not Detectable to Mild
+
+Color Varies
+Clarity Varies
+Collar of Foam (Head Retention) Varies
+Collar of Foam (Texture) Varies
+Carbonation (Visual) Varies
+
+Country of Origin Undetermined
+
+Food Pairing
+
+Cheese Varies
+Entrée Varies
+Dessert Varies
+
+Glass Varies
+Hop Aroma/Flavor Varies
+Hop Ingredients Varies
+Malt Aroma/Flavor Varies
+Malt Ingredients Varies
+Other ingredients Varies
+Palate Body Varies
+Palate Carbonation Low to High
+Palate Length/Finish Varies
+Temperature Varies
+Water Varies
+Yeat
+Type Lager or Ale
+
+Phenols Can be present.
+Esters Can be present.
+
+source: CraftBeer.com
+
+Smoke Beer
+
+tle Famil: pecialt eer
+
+Smoke Beer
+
+When malt is kilned over an open flame, the smoke flavor becomes infused into the beer, leaving a taste that can vary from dense
+campfire, to slight wisps of smoke. This style is open to interpretation by individual brewers. Any style of beer can be smoked; the
+goal is to reach a balance between the style’s character and the smoky properties. Originating in Germany as rauchbier, this style is
+open to interpretation by U.S. craft brewers. Classic base styles include German-style Marzen/Oktoberfest, German-style bock,
+German-style dunkel, Vienna-style lager and more. Smoke flavors dissipate over time.
+
+Quantitative tle tatitic
+
+OG Varies
+FG Varies
+ABV Varies
+IBU Varies
+BU:GU Varies
+SRM Varies
+CO2 Volumes Varies
+Apparent Attenuation Varies
+
+U.. Commercial xample
+
+Smoke Jumper Smoked Imperial
+Porter
+
+Left Hand Brewing Co.
+
+Smoked Porter Stone Brewing Co.
+
+Raucher Wolverine State Brewing Co.
+
+tle A-Z
+
+Alcohol
+
+Varies
+Color Varies
+Clarity Varies
+Collar of Foam (Head Retention) Varies
+Collar of Foam (Texture) Varies
+Carbonation (Visual) Varies
+
+Country of Origin Germany
+
+Food Pairing
+
+Cheese Parmesan
+Entrée Grilled Vegetables
+Dessert Gingerbread Cookies
+
+Glass Vase
+Hop Aroma/Flavor Varies
+Hop Ingredients Varies
+Malt Aroma/Flavor Varies
+Malt Ingredients Varies
+Other ingredients Common woods used by U.S. craft brewers to smoke a variety of malts: Apple,
+
+Alder, Beech, Cherry, Hickory, Mesquite, Oak
+
+Palate Body Varies
+Palate Carbonation Low to High
+Palate Length/Finish Varies
+Temperature 45-55°F
+
+Water Varies
+Yeat
+Type Lager or Ale
+
+Phenols Can be present
+Esters Can be present
+
+Specialty Beer
+
+source: CraftBeer.com
+
+tle Famil: pecialt eer
+
+Specialty Beer
+
+Special ingredients used in this style should be distinctive and evident in either the aroma, flavor or overall balance of the beer.
+This style category is a catch-all. Any specialty beer that does not fit other specialty beer styles would be appropriately considered
+here. Examples can include sahti, roggenbier, steinbier, white IPA, session IPA and more.
+
+Quantitative tle tatitic
+
+OG 1.030 - 1.140
+FG 1.006 - 1.030
+ABV 2.5% - 25.0+%
+IBU 1 - 100
+BU:GU Varies
+SRM Varies
+CO2 Volumes Varies
+Apparent Attenuation Varies
+
+U.. Commercial xample
+
+Sam Adams Norse Legend Sahti Boston Beer Co.
+
+Chainbreaker White IPA Deschutes Brewery
+Campfire Stout High Water Brewing
+
+tle A-Z
+
+Alcohol
+
+Varies
+Color Varies
+Clarity Varies
+Collar of Foam (Head Retention) Varies
+Collar of Foam (Texture) Varies
+Carbonation (Visual) Varies
+
+Country of Origin Undetermined
+
+Food Pairing
+
+Cheese Varies
+Entrée Varies
+Dessert Varies
+
+Glass Tulip
+Hop Aroma/Flavor Varies
+Hop Ingredients Varies
+Malt Aroma/Flavor Varies
+Malt Ingredients Varies
+Other ingredients Special or unusual ingredients or a combination of ingredients that bump a beer
+
+out of the other styles. For example, a "White IPA" is a combination of a
+Belgian-Style Wit and American IPA. Examples of specialty or unusual
+ingredients include maple syrup, potatoes, nuts, etc. Some beers use ingredients
+in unusual ways, such as a chili-flavored beer that emphasize heat rather than
+chili flavor, or a juniper berry beer in which the juniper is expressed more as
+herbal or spice qualities than as a berry or fruity character
+
+Palate Body Varies
+Palate Carbonation Low to High
+Palate Length/Finish Varies
+Temperature 45-55°F
+
+Water Varies
+Yeat
+Type Lager or Ale
+
+Phenols Can be present.
+Esters Can be present
+
