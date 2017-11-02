@@ -1,224 +1,4 @@
-The A-Z of Beer Styles
-Use this alphabetical list of triggers as a guide to help you when describing possible
-characteristics of a specific beer style.
-
-Alcohol
-
-Ranges: not detectable, mild, noticeable, harsh
- A synonym for ethyl alcohol or ethanol, the colorless primary alcohol component of beer.
-Alcohol ranges for beer vary from less than 3.2% to greater than 14% ABV.  Sensed in aroma,
-flavor and palate of beer
- Fusel alcohol can also exist in beer
-
-Brewing and Conditioning Process
-
-Brewers use a wide variety of techniques to modify the brewing process. Some of the
-variables they play with might include variable mashing, steeping, unique fermentation
-temperatures, multiple yeast additions, barrel aging and blending, dry hopping and bottle
-conditioned.
-
-Carbonation (CO2): Visual
-
- Ranges: none, slow, medium, fast rising bubbles
-Carbonation is a main ingredient in beer. It lends body or weight on the tongue and
-stimulates the trigeminal nerves, which sense temperature, texture and pain in the face.
-Carbonation can be detected as an aroma (carbonic acid). It also affects appearance and is
-what creates the collar of foam common to most beer styles.
- Carbonation can be naturally occurring (produced by yeast during fermentation) or added
-to beer under pressure. Nitrogen can also be added to beer, providing smaller bubbles and a
-softer mouthfeel compared to CO2.
-
- Clarity: The degree to which solids in suspension are absent in beer; different from color and brightness.
-
-Ranges: brilliant, clear, slight haze, hazy, opaque
- Solids can include unfermented sugars, proteins, yeast sediments and more.
-The degree to which solids are present in solution is referred to as turbidity.
-
- Collar of Foam
-
-Head Retention/Texture
-
-Retention Ranges: none, poor (up to 15 seconds), moderate (15 to 60 seconds), good
-(more than 60 seconds)
-Texture Ranges: thin, interrupted, foamy, fluffy, rocky, mousse-like
-
-Color (SRM):  See SRM under Quantitative above.
-Country of Origin
-
-The country from which a style originates
-
-Food Pairing: Cheese, Entree, Dessert
-
-Glass
-
-Hops
-
- Flavor and aroma ranges: citrus, tropical, fruity, floral, herbal, onion-garlic, sweaty, spicy,
-woody, green, pine, spruce, resinous
- Bitterness ranges: restrained, moderate, aggressive, harsh
-
-Hops deliver resins and essential oils that influence beer’s aroma, flavor, bitterness, head
-retention, astringency, and perceived sweetness. They also increase beer’s stability and shelf
-life.
-Brewers today use well over 100 different varieties of hops worldwide. Hops grown in the
-U.S. contribute an estimated 30 percent to the global supply.
-
-Malt
-
-Flavor and aroma ranges:  bread flour, grainy, biscuit, bready, toast, caramel, prune-like,
-roast, chocolate, coffee, smoky, acrid
- Malt has been called the soul of beer. It is the main fermentable ingredient, providing the
-sugars that yeast use to create alcohol and carbonation.
-Malt is converted barley or other grains that have been steeped, germinated, heated, kilned
-(or roasted in a drum), cooled, dried and then rested.
- A wide variety of barley and other malts are used to make beer, including pale malt (pilsner
-and pale two-row), higher temperature kilned malt (Munich and Vienna), roasted/specialty
-malt (chocolate and black) and unmalted barley. Wheat malt is commonly used as well.
-Malt provides fermentable and non-fermentable sugars and proteins that influence beer’s
-aroma, alcohol, body, color, flavor and head retention.
-
-Other Ingredients
-
- Adjuncts are ingredients that have typically not been malted, but are a source of fermentable
-sugars.
-Common adjuncts include: candy sugar, honey, molasses, refined sugar, treacle, maple
-syrup
- Unmalted starchy adjuncts: oats, rye, wheat, corn/maize, rice
-
-Note: Many of these grains can be malted to create unique flavors compared to their
-unmalted counterparts.
-
-Other: fruit, herbs, roasted (unmalted) barley or wheat, spices, wood
-
- Oxidative/Aged Qualities
-
-Can come from hops, malt or yeast. Only listed where appropriate for the specific style.
-Aroma/Flavor: almond, blackcurrant, E-2-nonenal (papery/cardboard), honey, metallic,
-sherry, sweat socks, others
- Color: Beer darkens over time due to oxygen ingress.
-
-Palate
-
- Palate refers to the non-taste sensations felt on the mouth and tongue when tasting a beer.
-The palate of a beer can be sensed as:
-Astringency
-
-Ranges: low, medium(-), medium, medium(+), high
-
- Body
-
-Ranges: drying, soft, mouth-coating, sticky
-
-Palate Carbonation
-
-Ranges: low, medium, high
-
-Length/Finish
-
-Ranges: short (less than 15 seconds), medium (up to 60 seconds), long (more than 60
-seconds)
-
-Temperature
-
-Storage of draught beer should remain at 38° F to retain the level of carbonation created
-during fermentation.
-The service temperature of beer has an impact on the sensory aspect of a beer.
-In general, a beer will exhibit an increase in perceived aromas and flavors if served warmer
-than a beer that is served at a cooler temperature.
-A general rule of thumb calls for ales to be served at a warmer temperature (45-55° F) than
-their lager counterparts (40-45° F).
-
- Water
-
-Common taste descriptors: chalk, flint, sulfur and more
- Beer is mostly water, which makes water quite an important ingredient. Some brewers make
-their beer without altering the chemistry of their water sources. Many do modify the water
-to make it most suitable to deliver the beer characteristics they hope to highlight. It provides
-minerals and ions that add various qualities to beer.
- Common minerals: carbonate, calcium, magnesium, sulfate
-
-Yeast, Microorganisms and Fermentation Byproducts
-
-Yeast eats sugars from malted barley and other fermentables, producing carbonation,
-alcohol and aromatic compounds. The flavor of yeast differs based on yeast strain,
-temperature, time exposed to the beer, oxygen and other variables.
-Types of Yeast:
-
- Ale: Saccharomyces Cerevisiae (ester driven). Commonly referred to as top fermenting
-yeast, it most often ferments at warmer temperatures (60-70F).
-Lager: Saccharomyces Pastorianus (often lends sulfuric compounds). Commonly
-referred to as bottom fermenting yeast, it most often ferments at cooler temperatures
-(45-55F).
- Weizen Yeast: Common to some German-style wheat beers and is considered an ale
-yeast.
-Brettanomyces:  wild yeast with flavors like barnyard, tropical fruit, and more.
-
- Microorganisms: (bacteria)  Acetobacter (produces acetic acid),
-Lactobacillus/Pediococcus (produce lactic acid), others
-
-Byproducts of Fermentation
-
-For a robust spreadsheet on many byproducts or agents in beer see Flavor Components in Beer
-(PDF)
-Common byproducts of yeast fermentation:
-
- Esters:
-
-Aromas (volatiles): apple, apricot, banana, blackcurrant, cherry, fig, grapefruit,
-kiwi, peach, pear, pineapple, plum, raisin, raspberry, strawberry, others
-Common esters include:
-
- Isoamyl acetate (common from weizen ale yeast): banana, pear
- Ethyl acetate: nail polish remover, solvent
-Ethyl hexanoate: red apple, fennel
-
-Phenols
-
-Common phenols include:
-
- 4-vinyl guaiacol: clove, cinnamon, vanilla
-Chlorophenols: antiseptic, mouthwash
-Syringol: smoky, campfire
-Tannins/Polyphenols: velvet, astringent, sandpaper
-
-Other fermentation byproducts
-
-Common byproducts include (when acceptable to style):
-
-4-ethyl-phenol: barnyard, mice
-4-ethyl-guaiacol: smoked meat, clove
-3-methyl-2-butene-1-thiol: lightstruck
-2,3-butanedione (Diacetyl)
-Acetaldehyde
-Dimethyl sulphide (DMS)
-Hydrogen sulphide
-
-What is Craft Beer? What is a Craft Brewer?
-Today is the best time in U.S. history to be a beer lover. The average American lives within 10 miles of a
-brewery, and the U.S. has more beer styles and brands to choose from than any other beer market in the world.
-
-The definition of “craft beer” is difficult, as it means many different things to many different beer lovers. Thus,
-craft beer is not defined by CraftBeer.com. However, our parent organization, the Brewers Association, does
-define what it means to be an American craft brewer: A U.S. craft brewer is a smaller producer (making less
-than six million barrels of beer a year) and is independently owned. This definition allows the Brewers
-Association to provide statistics on the growing craft brewery community, which accounts for 99 percent of
-America’s 4,600+ breweries.
-
-Visit BrewersAssociation.org for the complete craft brewer definition and details on the craft beer industry
-market segments: brewpubs, microbreweries and regional craft breweries.
-
-Why Craft Beer?
-Craft beer is enjoyed during everyday celebrations and is viewed by many as one of life’s special pleasures. Each
-glass displays the creativity and passion of its maker and the complexity of its ingredients. Craft beer is
-treasured by millions who see it as not merely a fermented beverage, but something to be shared, revered and
-enjoyed in moderation (see Savor the Flavor).
-
-In the food arts world, craft beer is a versatile beverage that not only enhances food when expertly paired with a
-dish, but is also often brought into the kitchen as a cooking ingredient. Because of this, you will see suggested
-food pairings for each style in this guide. If you would like to geek out even further on beer and food pairing,
-check out CraftBeer.com’s Beer & Food Course (a free download).
-
-Table of Contents
+Table of Contents
 Pale Ale
 
 American Amber Ale
