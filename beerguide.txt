@@ -400,7 +400,7 @@ Cheese Pepper Jack
 Entrée Spaghetti and Meatballs
 Dessert Sugar Cookies
 
-Hop Aroma/Flavor Hop aroma is low to medium-low, present but not dominant. Hop bitterness is
+Hop Aroma/Flavor Hop aroma is low to medium-low, present but not dominant. Hop bitterness is low to medium-low.
 
 Glass Tulip
 
@@ -408,17 +408,12 @@ Phenols Not common to style.
 
 Esters Fruity esters may be perceived but not predominant.
 
-English-Style Pale Ale (ESB)
-
-source: CraftBeer.com
 
 Hop Ingredients Williamette
 
-low to medium-low.
 
-Malt Aroma/Flavor Light malt sweetness is present in the flavor. Bread, toast, biscuit and wheat
 
-flavors are common.
+Malt Aroma/Flavor Light malt sweetness is present in the flavor. Bread, toast, biscuit and wheat flavors are common.
 
 Malt Ingredients American Two-Row, Crystal
 Other ingredients May include up to 25 percent Malted Wheat and sugar adjuncts.
