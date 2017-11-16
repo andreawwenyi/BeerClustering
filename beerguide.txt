@@ -941,11 +941,11 @@ Face Down Brown Telluride Brewing Co.
 
 tle A-Z
 
-Mild to Noticeable
+
 Brewing/Conditioning Process May be dry-hopped
 
 Alcohol
-
+Mild to Noticeable
 Color Deep Copper to Very Dark Brown
 Clarity Clear
 
@@ -1512,11 +1512,11 @@ Tumblewheat Altitude Chophouse and Brewery
 
 tle A-Z
 
-Not Detectable to Mild
+
 Brewing/Conditioning Process Brewed with wheat malt
 
 Alcohol
-
+Not Detectable to Mild
 Color Straw to Light Amber
 Clarity Brilliant to Slight Haze
 
@@ -1588,11 +1588,11 @@ White Allagash Brewing Co.
 
 tle A-Z
 
-Not Detectable to Mild
+
 Brewing/Conditioning Process Often bottle-conditioned
 
 Alcohol
-
+Not Detectable to Mild
 Color Straw to Pale
 Clarity Hazy
 Collar of Foam (Head Retention) Good
@@ -2094,11 +2094,11 @@ Barley Wine Ale Dick's Brewing Co.
 
 tle A-Z
 
-Noticeable to Hot
+
 Brewing/Conditioning Process Aging is common
 
 Alcohol
-
+Noticeable to Hot
 Color Tawny Copper to Deep Red or Copper-Garnet
 Clarity Brilliant to Slight Haze
 
@@ -5923,11 +5923,11 @@ Elektrik Cukumbah Trinity Brewing Co.
 
 tle A-Z
 
-Varies
+
 Brewing/Conditioning Process Varies
 
 Alcohol
-
+Varies
 Color Pale to Very Dark
 Clarity Varies
 Collar of Foam (Head Retention) Varies
