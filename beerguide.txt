@@ -167,6 +167,7 @@ Dessert Banana Pound Cake
 Glass Tulip
 
 Hop Aroma/Flavor Medium, Citrus-like character is acceptable
+Hop bitterness Medium
 Malt Aroma/Flavor Caramel
 
 Hop Ingredients Horizon, Cascade, Centennial
@@ -275,7 +276,8 @@ English-Style Bitter
 English-Style Bitter
 
 A very sessionable, lower-alcohol, malt-driven style. Broad style description commonly associated with cask-conditioned beers.
-The light- to medium-bodied ordinary bitter is gold to copper in color, with a low residual malt sweetness. Hop bitterness is
+The light- to medium-bodied ordinary bitter is gold to copper in color, with a low residual malt sweetness. 
+Hop bitterness is
 medium.
 
 Quantitative tle tatitic
@@ -399,7 +401,8 @@ Cheese Pepper Jack
 Entrée Spaghetti and Meatballs
 Dessert Sugar Cookies
 
-Hop Aroma/Flavor Hop aroma is low to medium-low, present but not dominant. Hop bitterness is low to medium-low.
+Hop Aroma/Flavor Hop aroma is low to medium-low, present but not dominant. 
+Hop bitterness is low to medium-low.
 
 Glass Tulip
 
@@ -476,7 +479,8 @@ Cheese English-Style Cheeses
 Entrée Roasted Chicken, Fish and Chips
 Dessert Maple Bread Pudding
 
-Hop Aroma/Flavor Hop flavor is medium to medium-high. Hop bitterness is medium to medium-high
+Hop Aroma/Flavor Hop flavor is medium to medium-high. 
+Hop bitterness is medium to medium-high
 
 Glass Nonic Pint
 
@@ -639,7 +643,8 @@ Dessert Candied Ginger Beer Cake
 
 Glass Vase
 
-Hop Aroma/Flavor Hop aroma and flavor are not perceived. Hop bitterness is low
+Hop Aroma/Flavor Hop aroma and flavor are not perceived. 
+Hop bitterness is low
 Malt Aroma/Flavor Malt aroma is low to medium, with chocolate-like, roasted malt, bread-like or
 
 Hop Ingredients German Noble
@@ -795,7 +800,8 @@ Cheese Munster-Style Cheese
 Entrée Mushroom Strudel
 Dessert Fruit Tart
 
-Hop Aroma/Flavor Hop aroma and flavor are very low to low, deriving from noble-type hops. Hop bitterness is low to medium
+Hop Aroma/Flavor Hop aroma and flavor are very low to low, deriving from noble-type hops.
+Hop bitterness is low to medium
 
 Glass Flute
 
@@ -1123,6 +1129,7 @@ Dessert Dark Fruit Tart
 Glass Nonic Pint
 
 Hop Aroma/Flavor Hop flavor is low to very low
+Hop bitterness is very low to low
 Malt Aroma/Flavor Caramel, Chocolate, Coffee, Licorice, Raisin, Molasses. Malt flavors dominate
 
 Hop Ingredients Kent Goldings
@@ -2042,7 +2049,7 @@ Dessert Toffee Pudding
 
 Hop Aroma/Flavor high
 
-Hop bitterness are high
+Hop bitterness are medium to high
 Glass Tulip
 
 Hop Ingredients Varies
@@ -2373,11 +2380,11 @@ Dessert Milk Chocolate
 
 Hop Aroma/Flavor are not perceived to low. 
 
-Hop bitterness is medium-low
+Hop bitterness is medium-low to medium
 
 Glass Tulip
 
-to medium
+
 Hop Ingredients Tettnang
 Malt Aroma/Flavor Chocolate, Caramel, Toast
 Malt Ingredients Pilsner, CaraMunich, Special "B"
@@ -3311,11 +3318,11 @@ Hop Aroma/Flavor Hop aroma is not perceived or low.
 Hop bitterness are medium
 
 
-Malt Aroma/Flavor Low to medium candy-like caramel malt sweetness is present. May have a subtle
+Malt Aroma/Flavor Low to medium candy-like caramel malt sweetness is present. May have a subtle degree of roasted barley or roasted malt character and complexity
 
 Hop Ingredients Kent Goldings
 
-degree of roasted barley or roasted malt character and complexity
+
 
 Malt Ingredients Pale, Crystal, Roasted Barley
 Other ingredients May contain corn, rice or sugar adjuncts
@@ -3647,9 +3654,7 @@ Hop Ingredients Kent Goldings, Fuggles
 
 
 
-Malt Aroma/Flavor Grainy, Bready, Toffee, Caramel, Chocolate, Coffee. Caramel and other malty
-
-sweetness is in harmony with the sharp bitterness of black malt, without a
+Malt Aroma/Flavor Grainy, Bready, Toffee, Caramel, Chocolate, Coffee. Caramel and other malty sweetness is in harmony with the sharp bitterness of black malt, without a
 highly burnt/charcoal flavor
 Malt Ingredients Munich, Crystal, Chocolate, Black Patent
 Other ingredients May contain roasted barley
@@ -3732,9 +3737,7 @@ Hop Ingredients Kent Goldings, Willamette
 
 
 
-Malt Aroma/Flavor Black malt character can be perceived in some porters, while others may be
-absent of strong roasted character. Medium to high malt sweetness, caramel
-and chocolate are acceptable
+Malt Aroma/Flavor Black malt character can be perceived in some porters, while others may be absent of strong roasted character. Medium to high malt sweetness, caramel and chocolate are acceptable
 
 Malt Ingredients Crystal, Chocolate, Black Patent
 Other ingredients Common woods used by U.S. craft brewers to smoke a variety of malts: Apple,
@@ -3897,7 +3900,8 @@ Glass Tulip
 
 Hop Aroma/Flavor Hop aroma and flavor are medium to high, often with American citrus-type
 
-and/or resiny hop aromas. Hop bitterness is medium to high
+and/or resiny hop aromas. 
+Hop bitterness is medium to high
 
 Hop Ingredients Horizon, Centennial
 
@@ -4315,13 +4319,11 @@ Glass Tulip
 
 Hop Aroma/Flavor Hop aroma should be absent. 
 Hop bitterness are low
-Malt Aroma/Flavor Dominant aromas are reminiscent of fresh and lightly toasted Munich-style
+Malt Aroma/Flavor Dominant aromas are reminiscent of fresh and lightly toasted Munich-style malt, more so than caramel or toffee. Some elements of caramel and toffee can be evident in aroma and contribute to complexity, but the predominant malt aroma is an expression of toasted barley
+
 
 Hop Ingredients German Noble
 
-malt, more so than caramel or toffee. Some elements of caramel and toffee can
-be evident in aroma and contribute to complexity, but the predominant malt
-aroma is an expression of toasted barley
 
 Malt Ingredients Pilsner, Munich, Vienna, CaraMunich
 
@@ -5817,7 +5819,8 @@ Dessert Raspberry Torte
 
 Glass Snifter
 
-Hop Aroma/Flavor Hop flavor and aroma are lower than might be expected for the style. Under-hopping allows chocolate to contribute to the flavor profile while not becoming excessively bitter. Hop bitterness is very low to medium-low.
+Hop Aroma/Flavor Hop flavor and aroma are lower than might be expected for the style. Under-hopping allows chocolate to contribute to the flavor profile while not becoming excessively bitter.
+Hop bitterness is very low to medium-low.
 
 Malt Aroma/Flavor Medium-low to medium-high malt sweetness helps accent cocoa flavors and aromas.
 
