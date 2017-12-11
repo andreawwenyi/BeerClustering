@@ -4,11 +4,13 @@ This is 2 beer novices’ attempt to explore the world of (american) beer with d
 
 ## Data Source 
 Beer Styles Study Guide (pdf) by Craftbeer.com (Published by Brewers Association)
-
+We used pdfminer (https://github.com/euske/pdfminer) to convert the pdf file into txt file, plus some manual changes to the txt file in order to correct some mistakes from the conversion as well as make the data processing easier. 
+The final txt file is with name 'beerguide.txt' 
+ 
 ## Installation
-This repository contains the converted txt file ('beerguide.txt') of the original Study Guide pdf file and the complete code ('CleanData_final.ipynb')to implement the clustering. 
+This repository contains the original pdf, converted txt file ('beerguide.txt'), and the code ('CleanData_final.ipynb') to implement the clustering. 
 The code include data cleaning, feature engineering, and the final modeling. 
-In order to implement the code, please put both files in the same directory. 
+In order to implement the code, please put both the txt file and Ipynb in the same directory. 
 
 ## Contributors
 Andrea Wang (ayw255@nyu.edu) and Sylvie Shao (sylvie.m.shao@nyu.edu)
